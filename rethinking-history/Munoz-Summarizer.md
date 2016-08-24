@@ -1,4 +1,4 @@
-<b> RETHINKING HISTORY </b> <br> First reading 6-32 <br>
+<b> RETHINKING HISTORY </b> <br> First reading summary 6-32 <br>
 
 1.	<b>“The past and history float free of each other” (Jenkins 7). </b><br>
    a.	Here the author separates what is known as the past (virtually everything that happened everywhere forever before right now) and history (which is basically historiography, the thing we are studying in class or historians writings). This distinction between the two set up the rest of his prose, and it is essential in to our class’s purposes in understanding what we are actually studying. The author then moves into making an argument into why the past/history distinctions are relevant to our conversation.<br> 
