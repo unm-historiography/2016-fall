@@ -2,11 +2,9 @@
 - On pg7, Kelley lists there are three main questions that must be asked about history and how it is recorded. They are scope, methodology and purpose.
 
 
-Scope is subject matter, geography, historical evidence and chronology. 
-
-Method involves the process of gathering all of the available (or chosen) material, interpreting it and turning it into a cohesive and useful product. 
-
-Purpose refers to he utility of the study of history and would later be referred to as the philosophy of history.
+- Scope is subject matter, geography, historical evidence and chronology. 
+-- Method involves the process of gathering all of the available (or chosen) material, interpreting it and turning it into a cohesive and useful product. 
+-- Purpose refers to he utility of the study of history and would later be referred to as the philosophy of history.
 
 -History has gone through many various eras, environments and contexts. As we study historiography, one of the most important tasks is to "explore and specify" these various cultural environments and contexts that shaped the authors and their historical works. Pg10  
 
