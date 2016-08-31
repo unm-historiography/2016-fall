@@ -28,7 +28,7 @@
 
 15. Polybius aspired to encompass the entire world in his narrative
 
-16. The **study of antiquities** was essential to the early stages of historical narrative – p. 42
+16. The **study of antiquities** was essential to the early stages of *historical narrative* – p. 42
 
 17. The art of **rhetoric** transformed the weaknesses of history into strengths 
 
