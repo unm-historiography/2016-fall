@@ -1,7 +1,6 @@
-In the second chapter of “Re-thinking history” Jenkins offers questions and answers about history that arise from the definition he offered in chapter one. 
-“What is the status of truth in the discourses of history?” 
-1.	If, according to Jenkins definition, the truth cannot be known why do we continue to search for it?
-	The “western tradition” seeks truth because of Plato’s view of absolute knowledge and the role that absolute truth plays in Christianity.
+In the second chapter of “Re-thinking history” Jenkins offers questions and answers about history that arise from the definition he offered in chapter one. “What is the status of truth in the discourses of history?” 
+- If, according to Jenkins definition, the truth cannot be known why do we continue to search for it?
+-- The “western tradition” seeks truth because of Plato’s view of absolute knowledge and the role that absolute truth plays in Christianity.
 2.	How does the term truth function in the discourses of history? 
 	“Truth is always created and never found”. Jenkins argues that historical truths are proposed by those with the power to promote them in order to prevent disorder.
 Is there any such thing as an objective history or is history just interpretations?
