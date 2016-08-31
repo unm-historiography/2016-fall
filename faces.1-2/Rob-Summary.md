@@ -1,6 +1,6 @@
--On pg1 author Donald Kelley quotes David Hume, "Sceptical doubt...is a malady which can never be radically cured" and furthers this point by stating himself, "for we cannot see beyond our deepest prejudices, nor can we write history without them". 
+- On pg1 author Donald Kelley quotes David Hume, "Sceptical doubt...is a malady which can never be radically cured" and furthers this point by stating himself, "for we cannot see beyond our deepest prejudices, nor can we write history without them". 
+- On pg7, Kelley lists there are three main questions that must be asked about history and how it is recorded. They are scope, methodology and purpose.
 
--On pg7, Kelley lists there are three main questions that must be asked about history and how it is recorded. They are scope, methodology and purpose.
 
 Scope is subject matter, geography, historical evidence and chronology. 
 
