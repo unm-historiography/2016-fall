@@ -20,7 +20,7 @@
 
 11. Historians in the modern era have focused on restoring *myth* to a *historical condition*
 
-12. Perception, knowledge, and expectation would be fundamental principles of historical understanding – p. 22
+12. *Perception*, *knowledge*, and *expectation* would be fundamental principles of **historical understanding** – p. 22
 
 13. Herodotus’ contribution to history was that he set in motion the opening of a new *“historical space”* and further extended this space into *“mythical space”*
 
