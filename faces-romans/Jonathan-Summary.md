@@ -1,0 +1,5 @@
+- How the Romans measured time. Started with building a city and moving out to expand. The statement "from the founding of the city" that is where the history started. (p.48)
+- Finding the origin of Roman History with Archeolatry. Many accounts by Livy, Gellius, ect. have different accounts of the origins og Roman history.
+- Livy talked about how Rome was made by "arms and the man" and morals and the men (p.57). He was also about telling the truth about an action, but with respect.
+- Livy compaired the Romans history to the Greek history with "archaeology" (p.59). 
+- The pagan God Constantine was the heart of Roman beliefs and later replaced by Christianity. The Romans had altars of Constantine and is linked to the history of Rome (p.69).
