@@ -1,0 +1,13 @@
+One of the more significant facets of the roman histories is their engagement with the larger themes espoused in Jenkins. The authors struggled with the same fundamental questions, and their methods contribute to this discussion and show it's universality.
+
+One notable moment was when Aulus Gellius (51) is mentioned as being concerned with language. This concern and noting of the difference between how ancient writers and "modern" readers viewed their works apes our own concern over "empathy" and undestanding works "as the author intended".
+On a more meta note, this suggests that Gellius would have disagreed with Jenkins, at least in regards to the possibility of empathy. He dedicated significant space to addressing the same issues that Jenkins points out as impossible. 
+On the other hand, this also clearly shows how Jenkins might be *right*, as even *ancient* authors didn't understand *slightly more* ancient authors.
+
+Similarly, the same questions of "facts" can be alluded to in regards to Sempronius Asellio, which emphasizes the triviality of "facts" over "histories", which strongly mirrors our own debates. 
+This also shows the blurring of myth and history. One tentative definition was that myths exist to invoke belief yet histories search (or at least play the game) of truth; yet in both these early roman accounts and the imperial period (69) truth is stated to be a *secondary* consideration.
+The historians of the past clearly had the same questions and debates that we do today. Which, in a meta sense, hints that empathy isn't actually so impossible after-all. 
+
+We can even assign some tenuous “fields” to our ancient roman authors. Lucretius could be argued to be a potential empiricist; his naturalist explanations and divorce from the supernatural highly mimic that field. In contrast, you can draw weak parallels with Livy and Virgil and the nationalist influences on histories, though this is probable more correctly attributed to almost all roman historians.  It's worth noting at this point that, in popular knowledge (in my perception), the more remembered historians aren't such as Lucretius, whose statements almost ape some modern anthropologists, but Livy and Virgil; name recognition favors them. Then there is the issue of Christian recidivist history, which has uncomfortable but poignant parallels with modern historical propaganda. 
+
+Regardless, these themes which we recognize as truth, empathy, and purpose, with undercurrents of morality and nationalism, have incredible pertinence to our own society and it’s historiographical questions, regarding how and why we write our own histories. 
