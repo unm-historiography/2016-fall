@@ -1,0 +1,5 @@
+* Do we use Sempronjus Asellio's distinctions between annals to define history? Are correct dates and record-keeping enough to make **true** history? Also, should one show the **purpose** and **reason** for why things were done when recording history (p. 52)?
+
+* Does making history relatable to the **individual life** easier to understand? For example, Lucius Annaeus Florus based Roman history off of the stages in a human's life; "childhood (*infantia*) lasted from the period of the kings to the beginning of the republic, followed by adolescence (*adulescentia), mature manhood (*inventus imperii et quasi robusta maturitas*)down to the time of Caesar Augustus, and finally old age (*senectus*)in Florus's own time."(p. 60).
+
+* Anna Comnena wrote "the science of History is a great bulwark against the stream of Time.".  What exactly does Anna mean when she says this? In a way, does she say time is constant and inevitable, and all things that happen are destened to become washed away in time (p.72)? :+1:
