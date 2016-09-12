@@ -1,0 +1,3 @@
+1. Is what the early Christians did with history considered history today? Their need for an origin for themselves caused problems when compared to the older histories of the Classical world. Were they just rewriting history for their own self-interest in a proper Christian narrative? 
+2. Is there a problem regarding what is considered true? The early Christians regarded truth as the word and law of God, whereas we have a more scientific definiton of truth. 
+3. How big of an effect did the early Christians have on how we tell the stories of history? Chronologically, in terms of an origin to an ultimate end? The effects of the "ages of men" that were used to organize history?
