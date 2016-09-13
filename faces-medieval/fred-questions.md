@@ -1,0 +1,3 @@
+- How should we characterize the medieval conception of history?
+- What constituted true history for medievals? Did place matter? Were some histories truer than others?
+- What is the nature of truth? (just kidding)
