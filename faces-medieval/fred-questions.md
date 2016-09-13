@@ -1,3 +1,5 @@
 - How should we characterize the medieval conception of history?
 - What constituted true history for medievals? Did place matter? Were some histories truer than others?
 - What is the nature of truth? (just kidding)
+- Seriously though, where did the idea of historical truth come into play in the reading for today?
+- Relatedly, what is significance of the history/chronical distinction?
