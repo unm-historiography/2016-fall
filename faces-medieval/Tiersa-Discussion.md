@@ -1,0 +1,3 @@
+1. This chapter is focused on the idea of the **mirror of medieval history**. *What does Kelly mean by this? Is this mirror a clear reflection of the past or a blurred reflection of what medieval historians wanted the past to be? Is this mirror of history still used today?*
+
+2. On *page 102* Kelley discusses that **history** was associated with **sight**. He quotes that, "history was not just to memorialize the past; it was to restore it ‘**as if present to the eyes**.’" *Is that still the goal of historians? Is there any record of a past event that has been successfully made “**present to the eyes**”? If there is not, is there a way we could ever achieve this? If so, how?* 
