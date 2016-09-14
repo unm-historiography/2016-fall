@@ -10,5 +10,5 @@
   The debate then becomes that although chronicals may be more *"truthful"* are they more or less usefull than histories from which we can derive meaning. 
   "Although some critics might regard the simple chronical as inferior to more elegant historical narrative, scientific minded historians...regarded chronicals as closer to the aim of *truth* telling." (121)
 ### We can see the effects of religion from histories of the cusades. 
-  "they were in part a form of propoganda ;and thier view was limited." (122) 
+  "they were in part a form of propoganda; and thier view was limited." (122) 
   
