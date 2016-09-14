@@ -7,5 +7,6 @@
   Clerical chronicals are "disconnected and undiscriminating record of human, natural and divine phenomena." (119)
   Aristocratic chronicals "featured moral and political judgements" (119)
   The debate then becomes that although chronicals may be more "truthful" are they more or less usefull than histories from which we can derive meaning. 
-###
+### We can see the effects of religion from histories of the cusades. 
+  "they were in part a form of propoganda;and thier view was limited." (122) 
   
