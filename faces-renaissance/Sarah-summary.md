@@ -1,5 +1,5 @@
 1. There was a strong need within large cities to begin keeping records for *administrative*, *commercial*, *ideological*, and *political* purposes (p. 136).
-More and more people began writing down things that were happening around them and **keeping track** of important events in their lives and the lives of others.
+More and more people began writing down things that were happening around them and **keeping track** of important events in their lives and the lives' of others.
 
 2. The study of history was the key to the success of *political science*, and creating important and modernistic policies (p. 147).
 The political sphere would greatly **benefit** from the study of history because it would allow for **comparisons** between ancient and modern times. 
