@@ -1,0 +1,11 @@
+1. History gains its place amongst the humanities. "History holds **first place**, wrote Brumi, for "knowledge of the past gives guidance to our counsels and our practical judgement"".(Pg 189) We see impartiality become a **core focus for historians**, "Only history reached "perfection" under the influence of rhetoric and the rule of *Ciceronian laws of truth* and *impartiality*.(Pg 190)
+2. History began to find a method of doing history, the modern foundations of history were in the sixteenth century. "History became... a science because it was organized according to a *systemic method*"(Pg 193)
+3. The **codification** of history. "Beginning with a comprehensive, classified list of histories and the proper order of reading them, and with the methodilogical structuring of the knowledge produced by such reading"(Pg 198) 
+4. Bodin's method is an example of historiography taking its modern form. 
+  1. "Bodin's primary concern was with **truth** and **impartiality**"(Pg 199)
+  2. "Political analysis in the style of Thucydides was essential to an understanding of history in terms of:"the *causes of things*,*the origins*, the progresses,*the inclinations*, all the plans of everyone"" (Pg 199)
+  3. "The Universal interests of Herodotus":"The **critical understanding** of...inherited myths of universal history.", The "**refutation** of the old four monarchy thesis" and "the idea of a golden age, which went against the *testimonies of all the ancient historians*", "The **question** of the origins of people". (Pgs 199 & 200) 
+  4. Bodin urged the study of *geography* and *language* to find the origins of man, a **secular approach**.
+5. The question of origins is what drove the study of antiquity. "History has from the beginning shown a drive toward questions of origins... history has a **human dimension**". "In the sixteenth century **historical criticism** was already at work eliminating myths of origins" 
+6. "**Historical Criticism** reached a peak in the nineteenth century, but it had much deeper roots... the philology of the Renaissance"(Pg 205) 
+7. We see a greater emphasis on source material. "For Bayle, the **proper method** was fundamentally that of the humanist call for the rejection of tradition in favor of a return to the "**sources** rather than streams,""(Pg 207) 
