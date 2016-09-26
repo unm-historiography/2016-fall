@@ -34,3 +34,5 @@ As a simple brainstorm, I can foresee three ways of organizing, and their relati
 And regardless, we need to agree on one or more themes; that's what we're trying to fix. Even if we can't all *agree on a conclusion*, we must be having the same *discussion*.
 
 Another issue we have to address is "What time periods?", if we do use chronlogy to frame our writing. Kelley made certain divisions of time-do we honor that? Modify it slightly? The question does not apply if we jump off the mountain entirely, of course, and don't bother with time periods.
+
+As a note, this works with either a website or a book. A website could be organized with pages instead of chapters, but deal withthe same material. I have no other contribution to that discussion.
