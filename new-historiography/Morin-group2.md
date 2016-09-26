@@ -29,7 +29,7 @@ As a simple brainstorm, I can foresee three ways of organizing, and their relati
   
   c. Might be longer, and more work. Is easier to organize than 2 but harder than 1.
   
-  d. Some degree of narrative conclusion is lacking. Might be mildly redundent, and probably willl be in that different sections with mention different authors, but that's not always bad.
+  d. Some degree of narrative conclusion is lacking. Might be mildly redundent, and probably willl be in that different sections with mention the same authors, but that's not always bad.
    
 And regardless, we need to agree on one or more themes; that's what we're trying to fix. Even if we can't all *agree on a conclusion*, we must be having the same *discussion*.
 
