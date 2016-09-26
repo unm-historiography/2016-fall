@@ -8,6 +8,7 @@ History”, to me at least, seems to be a **rehashing** of old ideas and methods
 
 There are two things from this chapter that I think are worth talking about and present something we haven’t exactly seen so 
 far:
+
 1. On page 194 Kelley quotes from Baudouin saying that history “was a theater in which man was not only ‘spectator’ and 
 ‘interpreter’ but also **‘actor’**; and this at once facilitated and complicated writing and understanding history”.  We have 
 kind of danced around this conflict in regards to subjectivity but haven’t ever addressed how actually playing a part in 
