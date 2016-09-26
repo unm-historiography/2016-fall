@@ -21,7 +21,7 @@ As a simple brainstorm, I can foresee three ways of organizing, and their relati
   d. Hell to organize. Who writes what? If we agree a difficult theme is central, but hard to write, who draws short shift?
   
   
- 3. Organize with themes, then chronology. 
+3. Organize with themes, then chronology. 
   
   a. As in 2, we organize by themes, but as in 1 they are major ones. We have two or three "Acts" of the book, and then multiple "Chapters" in each act for the time periods, with an introduction and conclusion.
   
