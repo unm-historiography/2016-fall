@@ -10,13 +10,13 @@
    1. brief account of events
      * basically give the how and why for the Reformation
        * **“every man a priest”**
-       * no hierarchy 
-       * required literacy 
-       * mainly a religious movement but the jump from no hierarchy in church to no hierarchy in government is quite small
+        * no hierarchy 
+        * required literacy 
+        * mainly a religious movement but the jump from no hierarchy in church to no hierarchy in government is quite small
        * came from a deep distrust of the Catholic church
      * Martin Luther
-       * I think a hyperlink for him would be great
-       * in the chapter itself we don’t need much just enough to understand major points
+        * I think a hyperlink for him would be great
+        * in the chapter itself we don’t need much just enough to understand major points
    2. effects
      * **undermined hierarchy** that was quintessential during the time
      * questioned tradition 
