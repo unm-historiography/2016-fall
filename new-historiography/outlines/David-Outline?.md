@@ -1,3 +1,6 @@
+I wrote mine, read other peoples, and am now having a existental crisis. Please forgive what follows.
+
+
 Historical Universality-of the act of creating histories which seek to be applicable to all peoples-is a persistant theme in many different writings. While not all authors directly attempt to create a universal history, nor is the concept dominant in all time periods, many authors and historiographical trends can still be related to the concept.
 
 Universal history as a discrete field is a relatively modern concept, yet the "idea" of universality can be traced further back. They were not, however, “impartial”, nor did they attempt to be so; almost all authors “choose” a culture, for which their analysis was written. They attempted to explain what made this culture “special”, 
