@@ -19,6 +19,7 @@
 - **Do these add anything to the goal of this chapter?** I will argue no but I'm obviously open to having my mind changed. 
 
 -**People**
+
 -Johann Sleidan-
 - humanist with a law degree, hired as the official historiographer of Germany
 - "I would rather die than say, still less write, anything without proof". p169
