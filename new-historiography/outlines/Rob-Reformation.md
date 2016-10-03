@@ -26,7 +26,8 @@
 -Martin Luther-
 - Protestant reformation 
 - Perhaps a link to a trusted source 
--Henry VIII
+
+-Henry VIII-
 - English King 
 - Perhaps a link to a trusted source
 
