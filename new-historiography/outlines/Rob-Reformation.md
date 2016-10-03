@@ -1,4 +1,5 @@
 -**Reformation**-
+
 -**Main Themes**
 - "Polemical role which history occupied during the reformation." p163
 - During the reformation there was a distinct **duality of church and state, sacred and secular**. p163
