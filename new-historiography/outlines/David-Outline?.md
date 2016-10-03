@@ -1,4 +1,4 @@
-Aside: I wrote mine, read other peoples, and am now having a existential crisis. Please forgive what follows.
+Aside: I wrote mine, read other peoples, and am now having a existential crisis. Please forgive what follows. I realize now that I misunderstood what we were supposed to do. No hating.
 
 
 Historical Universality-of the act of creating histories which seek to be applicable to all peoples-is a persistant theme in many different writings. While not all authors directly attempt to create a universal history, nor is the concept dominant in all time periods, many authors and historiographical trends can still be related to the concept.
