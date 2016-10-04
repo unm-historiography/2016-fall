@@ -1,14 +1,14 @@
 **Introduction**
 
+*Historical Context of the Time Period
+
+1. Reason
+
 *Key Terms*
 
 1. Humanism- 
 
 2. Philologic
-
-*Historicl Context of the time period*
-
-1. Reason
 
 **Myth**
 
