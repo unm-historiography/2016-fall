@@ -4,8 +4,12 @@
 
 1. Humanism- 
 
-2.Philologic
-The introduction would define some of the key terms used in the chapter IE humanism, philologic. It would introduce the five or six major historian and the works that they produced that are the focus of the chapter. It would also perhaps give a context of historical events of the time.
+2. Philologic
+
+*Historicl Context*
+
+
+
 Organized around themes
 Myth- Vico and the Germanic myths, 
 Ideas- Humanism, “republic of letters”, criticism, human nature, 
