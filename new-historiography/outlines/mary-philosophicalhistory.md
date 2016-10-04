@@ -6,7 +6,9 @@
 
 2. Philologic
 
-*Historicl Context*
+*Historicl Context of the time period*
+
+1. Reason
 
 **Myth**
 
@@ -34,7 +36,9 @@
  
  2. Gibbon
  
- **Texts
+ **Texts**
+
+1. Rise and fall
 
 **What is different**
 
