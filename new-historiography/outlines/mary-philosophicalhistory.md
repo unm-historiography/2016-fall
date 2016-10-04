@@ -27,14 +27,21 @@
  2. State of nature
  
  3. Childhood of the human race
+ 
+ **People**
+ 
+ 1. Vico
+ 
+ 2. Gibbon
+ 
+ **Texts
 
+**What is different**
 
-Origins- different ways of seeing time periods IE Vigo, state of nature, “childhood of human Race”
-People- Giambattista Vico, Gibbon,
-Texts-New Science, Universal Law, “Rise and Fall”, 
-Themes- “history remained philosophy teaching by example”,  Hobbes, Locke, Moran Philosophy
-Change over time- Addition of Eastern histories, 
-Criticism- of Gibbon, 
+1. Addition of Eastern Histories
+
+**Critisism**
+
 
 
 
