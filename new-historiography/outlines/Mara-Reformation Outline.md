@@ -6,7 +6,7 @@
      * one secular, one religious
      * hierarchy foundation of both
      * lack in education/literacy 
-   3.“two swords” analogy p.163
+   3. “two swords” analogy p.163
       * I think its a great way to visualize the world pre-Reformation
 2. **Reformation** 
    1. brief account of events
