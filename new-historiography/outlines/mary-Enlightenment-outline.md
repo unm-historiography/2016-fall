@@ -14,6 +14,8 @@
 
 3. Education- "Condorcet taking a Lockean view of the psychological proogress through sense experience, while Lessing preffered to identify it with revelaton, and Ferguson thought in terms of social evolution." (217)
 
+4. Republic of letters- 
+
 **Myth**
 
 1. Vico and the German Myths
@@ -34,15 +36,19 @@
  
  3. Childhood of the human race
  
- **People**
+**People**
  
  1. Vico
  
  2. Gibbon
  
- **Texts**
+**Texts**
 
 1. Rise and fall
+
+**National Differences**
+
+1. "according to various national "prejudices," with Italian, French, British and German scolars intrepreting according to different tastes and traditions." (219)
 
 **What is different**
 
