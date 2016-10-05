@@ -30,9 +30,9 @@
        * essentially people who just follow tradition must be question maybe even thrown out, Dante p.164 
      * attempted to change the long standing narrative that centered around Catholicism 
      * sparked criticism of prior work
-       * was a little different then before
-       * large quantity of work
-       * almost as if the work before the Reformation was tainted 
+        * was a little different then before
+        * large quantity of work
+        * almost as if the work before the Reformation was tainted 
 3. **Johann Sleidan**
    1. good example of Reformation history 
    2. without more knowledge about him the information in the current book seems adequate 
