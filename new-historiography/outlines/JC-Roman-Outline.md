@@ -1,3 +1,5 @@
+Romans are important to history because they were the model for the different eras that follow them. The major players that wrote the history for Rome are important because they started writing the history down and keeping a record. Rhetoric was very important during this time because the Caesar being the leader of the people and the people followed.
+
 Romans
 
 - **A History of Rome**
