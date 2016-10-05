@@ -1,15 +1,21 @@
 - Uses of myth    
      - Bonds of a people
+          - Myths such as God's decleration of the Jews as his people brought them together and kept them together as a seperate people.
      - Instructions
+          - The fall of man is a myth that teaches obedience to God.
      - Justification
-
+          - God choosing the levites as priests made them the legitmate tribe to hold that posistion.
+        
 - Examples of myth
-     - Bible
-     - Russian chronicle describing the origin of the Slavic people.
-     - Greek/Roman Gods
+     - Bible 
+         - A fair amount of the old testement as well as Jesus as the Son of God.
+     - Russian chronicle describing the origin of the Slavic people. (the chronicle claims that slavs are descended from one of the sons of Noah.
+     - Greek/Roman Gods 
      - Egyptians/Pharos
+          - Pharos being gods legitimized power
      - Poets
-
+          - They took history and added the mystic realm to it.
 - Blurred lines/Difference between history and myth.
      - Again Russian chronicle
      - What can we prove and what may or may not have happened we don't know
+          - Jesus existed vs. Jesus was the Son of God.
