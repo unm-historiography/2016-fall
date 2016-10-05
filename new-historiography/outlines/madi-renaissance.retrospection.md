@@ -1,6 +1,8 @@
+During the Renaissance the focus of historiography moved from religious to secular, although religion still played a role, it was not as central to the focus of historical writing.  New themes became more prevalent in the writing of history such as law, politics, and a growing focus on the origins of city-states (perhaps a precursor to national histories).
+
 **Main Ideas & Themes of the Chapter**
 - The rise of city-states and the chronicles associated with them
--- mythical foundation of these city states which sought to tie themselves directly to Roman antiquity. Another take on origins. (pg. 136).
+  - mythical foundation of these city states which sought to tie themselves directly to Roman antiquity. Another take on origins. (pg. 136).
 - History still often viewed as a way of learning from the mistakes/successes of the past
   - Petrarch’s *“fascination with the ancients was associated with his quest for models to imitate.” (pg. 134).
   - Compagni *“meant to teach his fellow citizens the penalties of ‘arrogance, wickedness, and struggles for office’ and the civil strife produced by these vices.”* (pg. 138).
@@ -31,9 +33,11 @@
 - one of the earlier of the city-state chroniclers.  Villani was from Florence & wrote in the vernacular, was eventually killed by the plague.
 - this chronicle was a *“comprehensive survey of the story of Florence from mythical foundation to the crisis of his own day, in which financial ruin was capped by the appearance of the plague.”* (pg. 137)
 - *“he regularly noted the effects of natural disasters, but he also attended to the commercial and cultural progress of the Florentine people, as illustrated by architectural triumphs, the coinage of the florin, and the career of his contemporary Dante.”* (pg. 138).
+ - a report of 'facts' in the traditional sense of the chronicle, *writing what happened*, and a report of the development of culture as well.  Expansion of what is considered historically significant.
 
 **French Historiography**
-- Chastellain *“he also took pride in his historiographical calling, which was honored with an official appointment in 1455.”* (pg 142). May mark a transition where writing history is becoming more of a profession than previously.
+- Chastellain *“he also took pride in his historiographical calling, which was honored with an official appointment in 1455.”* (pg 142).
+ - May mark a transition where writing history is becoming more of a profession than previously.
 - a focus on political life in France
 - de Commynes, linked with Thucydides, *“offering not only realistic politico-military narrative but also advice for princely consumption.”* (pg. 143).  Again, the purpose of history to teach (in this case princes).
 - saw a ‘divine balance’ in the power struggles of opposing nations which *”princes and other powerful men could maneuver but which they could never fully master.”* (pg 142). 
@@ -56,7 +60,7 @@
 - analysed in detail, sometimes using archival sources, *”diplomatic preparations, deceptions, and maneuvering underlying the French Invasion.”* (pg 151).  Took into account the character of major individuals involved, movement towards concentration on the actions of the individual within the historical narrative.
 
 **Cultural History**
-- many authors began to look at cultural history in the Herodotean sense, eventually including ‘the arts and sciences of humanist learning.’ (pg 152).
+- many authors began to look at cultural history in the Herodotean sense, eventually including ‘the arts and sciences of humanist learning’ as a part of history. (pg 152).
 - history grew to include things from *“letters to laws, from myth to philosophy and religion, from tribal organization to the state, from agriculture to modern science, from technology to commerce.”* (pg 152). History as a way of organizing and understanding human culture.
 - expansion of the historical study of law.
 - expansion of which cultures were studied in the historiographical canon, *“modern scholars began to investigate a whole sequence of barbarian cultures, including not only the Jews but also Babylonians, Indians, Persians, Egyptians, Celts, and later Chinese and Amerindians.” (pg 154).
@@ -66,6 +70,7 @@
 **Impact of the Discovery of the New World on Historiography**
 - disrupted the classic view of history, *“the old story of the three continents, four monarchies, and six ages of the world.”* (pg 156).
 - told the story of the new world with ‘old categories and methods.’  *“with the help of classical style and precedent .. told the story as a continuation of the European drive for empire.”* (pg 157).
-- Spanish historical writing at the time *“was a mixture of the old and the new - medieval chronicles and universal histories competing with humanist narratives, historical criticism with entrenched myths, the new art of printing easily accommodating both.”* (pg 157).  This is the environment in which historians attempted to tackle the New World and how it fit into history.
+- Spanish historical writing at the time *“was a mixture of the old and the new - medieval chronicles and universal histories competing with humanist narratives, historical criticism with entrenched myths, the new art of printing easily accommodating both.”* (pg 157).
+ - This is the environment in which historians attempted to tackle the New World and how it fit into history.
 - *“the idea of imperial dominion was radically redefined, and it acted powerfully to reshape interpretations of Spanish, European, and universal history.”* (pg 158).
 - expanded old universal history, *“conventional ‘theatre’ of human history was enlarged beyond recognition by the outpourings of sixteenth-century travel literature.”* (pg 159).
