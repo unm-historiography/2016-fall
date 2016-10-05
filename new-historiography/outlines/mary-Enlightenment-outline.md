@@ -14,7 +14,7 @@
 
 *Key Terms*
 
-1. Humanism- Individuals are primary- human race- 
+1. Humanism- Individuals are primary- human race-"Humanity is like individual members of the species" (217) 
 
 2. Philologic- "The study of human speech especially as the vehicle of literature and as a field of study that sheds light on cultural histry." Miriam Webster Dictionary. 
 
@@ -58,7 +58,7 @@
  
  6. Voltaire- Modern- 
  
- 7. Herder- 
+ 7. Herder- Cultural history- Philosophy. Progress not perfection
  
 **Texts**
 
@@ -70,7 +70,9 @@
 
 4. History of England
 
-5. History of the Human Spirit-
+5. History of the Human Spirit
+
+6. Ideas for the Philosophy of History of Mankind
 
 
 **National Differences**
@@ -81,10 +83,13 @@
 
 **Research Methods**
 
+1. "Impartiality is the key to truth." (245) Discussion of Gettingen? 
 
 **What is different**
 
 1. Addition of Eastern Histories
+
+2. Cultural History- Herder
 
 
 **Critisism**
