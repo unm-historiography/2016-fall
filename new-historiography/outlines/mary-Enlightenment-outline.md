@@ -6,6 +6,10 @@
 
 2. Natural Law- inherent to the human condition. 
 
+3. Encyclopdia- 
+
+4. Critisim- the search for the "truth" behind histories. 
+
 *Key Terms*
 
 1. Humanism 
@@ -14,7 +18,7 @@
 
 3. Education- "Condorcet taking a Lockean view of the psychological proogress through sense experience, while Lessing preffered to identify it with revelaton, and Ferguson thought in terms of social evolution." (217)
 
-4. Republic of letters- 
+4. Republic of letters- Could be defined and explained or it could be included in a subheding about access to Historical thought at the time. 
 
 **Myth**
 
@@ -38,9 +42,11 @@
  
 **People**
  
- 1. Vico
+ 1. Vico- 
  
  2. Gibbon
+ 
+ 3. Diderot- Encyclopedia- Criticism of use of secondary sources
  
 **Texts**
 
@@ -55,6 +61,9 @@
 1. Addition of Eastern Histories
 
 **Critisism**
+
+3. Dierot- Encycloedia
+
 
 
 
