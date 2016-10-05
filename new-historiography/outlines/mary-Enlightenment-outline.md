@@ -6,9 +6,11 @@
 
 2. Natural Law- inherent to the human condition. 
 
-3. Encyclopdia- 
+3. Encyclopdia- Explain devalopment and impportace of. 
 
 4. Critisim- the search for the "truth" behind histories. 
+
+5. Is it possible to understand scolorship coming out of the Enlightnment without a discusion of the social contract? Should a brief explination of Hobbes and Locke by includeed? 
 
 *Key Terms*
 
@@ -26,7 +28,7 @@
 
 **Ideas**
 
-1. Humanism
+1. Humanism- Premacy of the individual, 
 
 2. State of nature- 
 
@@ -42,7 +44,7 @@
  
 **People**
  
- 1. Vico- 
+ 1. Vico- Disagreement with Decartes with " I Make, therfor I know" 
  
  2. Gibbon
  
