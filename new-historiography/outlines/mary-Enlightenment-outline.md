@@ -8,7 +8,7 @@
 
 3. Encyclopdia- Explain devalopment and impportace of. 
 
-4. Critisim- the search for the "truth" behind histories. 
+4. Critisim- the search for the "truth" behind histories. oops sorry didn't mean to say that word
 
 5. Is it possible to understand scolorship coming out of the Enlightnment without a discusion of the social contract? Should a brief explination of Hobbes and Locke by includeed? 
 
