@@ -30,9 +30,9 @@
 
 1. Humanism- Premacy of the individual, 
 
-2. State of nature- 
+2. State of nature- "contrast to civil society" Part of myth history? Ferguson- trying to recustroct the atate of nature. 
 
-3. Human Nature- The use of history to understand human nature. 
+3. Human Nature- The use of history to understand human nature. Scottish Scholars."to project huan behavior back into the state of Nature" (234)
 
 **Origins**
  
@@ -40,21 +40,38 @@
  
  2. State of nature- Vico- Laws are a "turning point in history" as opposed to "ferl stage of history"- "conciet of nations" 
  
- 3. Childhood of the human race
+ 3. Childhood of the human race- Fontenelle
+ 
+ 4. Critisism for Hume- "obscurity, uncertainty, and contradiction involveed in efforts to inquire into the history of remote ages." (236)
  
 **People**
  
  1. Vico- Disagreement with Decartes with " I Make, therfor I know" 
  
- 2. Gibbon
+ 2. Gibbon- Enlightnment explinations, new perspective on Rome. 
  
  3. Diderot- Encyclopedia- Criticism of use of secondary sources
+ 
+ 4. Ferguson- State of nature? included in myth or origin sections? 
+ 
+ 5. Hume- Human nature can be found through the study of history. 
+ 
+ 6. Voltaire- Modern- 
+ 
+ 7. Herder- 
  
 **Texts**
 
 1. Vico- Universal Law, Dividing history into time periods, the importance of origins. 
 
-Rise and fall
+2. Rise and Fall
+
+3. History of Civil Society
+
+4. History of England
+
+5. History of the Human Spirit-
+
 
 **National Differences**
 
