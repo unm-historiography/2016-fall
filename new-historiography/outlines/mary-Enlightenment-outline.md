@@ -96,6 +96,8 @@
 
 3. Dierot- Encycloedia- Use of seconday sources.
 
+Kelley discusses the different histories in terms of nationality. I did not like that as much and chose not to include those discussions in my outline.
+
 
 
 
