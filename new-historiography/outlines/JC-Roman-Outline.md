@@ -8,7 +8,8 @@ Romans
     Answaering the question "why all roads lead to Rome?" That "Romans measured time from the founding of the city" (pg. 48).
  
 - **The major important people**
- - Livy and why he was important - He is the "founder of histories" (pg. 52). 
+ - Livy and why he was important
+    He is the "founder of histories" (pg. 52). 
     Why "Toga and Sword - arms and the man" (pg. 56).
  - Tacitus and why he was important
     He followed Livy and follwed his ways about histories, but by living through it. (pg. 60)
