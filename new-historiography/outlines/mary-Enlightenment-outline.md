@@ -12,7 +12,7 @@
 
 *Key Terms*
 
-1. Humanism 
+1. Humanism- Individuals are primary- human race- 
 
 2. Philologic- "The study of human speech especially as the vehicle of literature and as a field of study that sheds light on cultural histry." Miriam Webster Dictionary. 
 
@@ -22,21 +22,21 @@
 
 **Myth**
 
-1. Vico and the German Myths
+1. Myth could be discussed as intrepreted by Vico- More research needed. 
 
 **Ideas**
 
 1. Humanism
 
-2. Republic of letters
+2. State of nature- 
 
 3. Human Nature
 
 **Origins**
  
- 1. Time Periods
+ 1. Time Periods- Discussed by Vico, 
  
- 2. State of nature
+ 2. State of nature- Vico- Laws are a "turning point in history" as opposed to "ferl stage of history"- "conciet of nations" 
  
  3. Childhood of the human race
  
@@ -50,19 +50,25 @@
  
 **Texts**
 
-1. Rise and fall
+1. Vico- Universal Law, Dividing history into time periods, the importance of origins. 
+
+Rise and fall
 
 **National Differences**
 
 1. "according to various national "prejudices," with Italian, French, British and German scolars intrepreting according to different tastes and traditions." (219)
 
+**Research Methods**
+
+
 **What is different**
 
 1. Addition of Eastern Histories
 
+
 **Critisism**
 
-3. Dierot- Encycloedia
+3. Dierot- Encycloedia- Use of seconday sources.
 
 
 
