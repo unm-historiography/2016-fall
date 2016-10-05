@@ -24,7 +24,8 @@ Theme
  - What is rhetoric and why is it important
     Rhetoric is "the art or skill of speaking or writing formally and effectively especially as a way to persuade or influence people"
     (Merriam-Webster.com). We can say that Roman rhetoric had a major influence on the rest of the world after the fall of Rome.
- 
+
+
 **This is a maybe section**
 - **How has Rome influenced the modern world**
  - Architecture
