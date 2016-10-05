@@ -36,7 +36,7 @@
 
 **Origins**
  
- 1. Time Periods- Discussed by Vico, 
+ 1. Time Periods- Everyone in this chapter has thier own ages or metaphor of aging. Should gthese be included? WHich ones? 
  
  2. State of nature- Vico- Laws are a "turning point in history" as opposed to "ferl stage of history"- "conciet of nations" 
  
