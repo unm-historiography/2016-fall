@@ -31,12 +31,12 @@ The Science of History chapter explains the how history transformed from an art 
 - For Milieu, Baudouin, Bodin, Gaillard, La Popeliniere, and Bacon history adopted all the arts and sciences to inform the modern civilization.
  - History was related to law according to Jean Bodin.  Bodin divided history into three laws; human, nature, and divine.  Human history was “whatever flowed from the will of mankind, which ever vacillates and has no objective” (198).
 
- **The Art of Criticism **
+ **The Art of Criticism**
 
 - In the Renaissance criticism was finding forgeries in the writing, while making sure all the information given was true.
 - History that had been written long ago was seen with more skepticism than in previous generations.  Writings from antiquity were more closely analyzed, and suspected to be untrustworthy.  Bude wanted a “restitution” of antiquity as a whole.  (pg 205).  
 - The Renaissance contributed greatly to the **transformation** of history.  A completely new way of writing and reading history developed from this time period, “The conjunction of these impulses with archaeology and anthropology in a modern sense marked the beginning of an enlightened and truly (if in some cases excessively speculative) philosophical history."(216).
- -Critic, a word which began as medical term, then turned into a literary one, led to an important part in historical development. Debating the great authors of the past was a new way to find a closer truth.
+ - Critic, a word which began as medical term, then turned into a literary one, led to an important part in historical development. Debating the great authors of the past was a new way to find a closer truth.
 
 
  
