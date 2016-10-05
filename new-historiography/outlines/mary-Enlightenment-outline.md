@@ -32,7 +32,7 @@
 
 2. State of nature- 
 
-3. Human Nature
+3. Human Nature- The use of history to understand human nature. 
 
 **Origins**
  
@@ -59,6 +59,8 @@ Rise and fall
 **National Differences**
 
 1. "according to various national "prejudices," with Italian, French, British and German scolars intrepreting according to different tastes and traditions." (219)
+
+2. Vico critique of " 
 
 **Research Methods**
 
