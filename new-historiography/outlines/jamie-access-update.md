@@ -1,6 +1,6 @@
-Access to history/historiography
+**Access to history/historiography**
 
-Access to history and historiography is a broader theme in Kelley's text. Humans exhibit a natural inclination to know things, but access (or lack thereof) colors perspective
+Access to history and historiography is a broader theme in Kelley's text. Humans exhibit a natural inclination to know things, but access (or lack thereof) colors perspective.
 
 **Access to history in Greek/Roman times**
 
@@ -19,6 +19,7 @@ In the Christian and Medieval periods, we see the narrative arc of history chang
   * Libraries become part of the church, most historical documents are written to promote and lend credence to Christian views
 
 *still working on these sections*
+
 **Access to history in the Renaissance**
   * Still some literacy issues
   * The printing press
