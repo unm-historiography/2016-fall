@@ -74,3 +74,18 @@ During the Renaissance the focus of historiography moved from religious to secul
  - This is the environment in which historians attempted to tackle the New World and how it fit into history.
 - *“the idea of imperial dominion was radically redefined, and it acted powerfully to reshape interpretations of Spanish, European, and universal history.”* (pg 158).
 - expanded old universal history, *“conventional ‘theatre’ of human history was enlarged beyond recognition by the outpourings of sixteenth-century travel literature.”* (pg 159).
+
+
+If we were to approach this more thematically and then have an example of a historian who fits under that theme this chapter could potentially be organized like this:
+- humanism
+ - Petrarch
+- city-state chroniclers
+ - Villani
+- political/legal history
+ - Machiavelli
+ - Guicciardini
+ - some stuff on French historiography (de Commynes maybe)
+- Cultural history
+ - Vergil
+- The New World
+ - I don't know who would go here or if we would really need a person.  There doesn't seem to be anyone in this section who stands out, although there are a lot of names that we could look into further.
