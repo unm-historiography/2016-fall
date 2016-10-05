@@ -56,9 +56,9 @@
  
  5. Hume- Human nature can be found through the study of history. 
  
- 6. Voltaire- Modern- 
+ 6. Voltaire- Modern-Rejects older histories. Concerened with " The progress of the spirit" Kelley says the he wrote histpry to further his own agenda.
  
- 7. Herder- Cultural history- Philosophy. Progress not perfection
+ 7. Herder- Cultural history- Philosophy. Progress not perfection. Herderer places people in the middle of the past and the present while Voltire seems to see the past as culmination in a perfection of the present.
  
 **Texts**
 
