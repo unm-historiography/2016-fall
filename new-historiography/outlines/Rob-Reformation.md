@@ -4,6 +4,7 @@
 - Side note, if it’s not obvious, I’m tentatively planning on making individual sections for key themes and people. I also intend on littering side notes throughout but as of now I cant even figure out how to do that on MS word much less Github. 
 
 -**Main Themes**
+
 -**How History was Regarded** 
 - Throughout the reformation history was looked at through a critical lens and occupied a polemical role (p163). While insistently critical, historians--as a profession--were regarded higher than many times. Often this higher regard was used in attempts to link history to various agendas, Protestants attempted to link their own traditions to that of older traditions. 
 
@@ -27,6 +28,7 @@
 
 
 -**Influential People (Person?)**
+
 -**Johann Sleidan**-
 - Johann Sleidan was a 16th century **Humanist** with a law degree, hired as the official historiographer of Germany
 - Sleidan was staunchly adherent to evidence and famously said, "I would rather die than say, still less write, anything without proof"(169). This was not necessarily new, perhaps the zealous adherence was, but marked a change in the way professional historians approached their practice. 
