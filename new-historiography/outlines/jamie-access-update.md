@@ -13,24 +13,25 @@ The various methods used in creating Greek and Roman history are central to the 
 #**Access to history in Christian and Medieval times**
 
 In the Christian and Medieval periods, we see the narrative arc of history change from one focused on truthiness to one that begins to build a construct for Christian thought and values. This time period sees the introduction of chronicles as a new method to achieve "truth" in history, as well as an emerging national narrative among the Germanic tribes, making history accessible to even the "barbarians".
-  * The Dark Ages
-   * destruction of existing and cessation of new documents
+ * Christianity and its' impact on history/historiography
+  * Libraries become part of the church 
+  * Most historical documents are written to promote and lend credence to Christian views
+  * "Barbarian" history (104)
+ * The Dark Ages
+  * destruction of existing and cessation of new documents
   * Literacy - changing from general literacy in Roman times to limited literacy in the Dark Ages, now only available to elite.
-  * Christianity and it's impact on history/historiography
-   * Libraries become part of the church 
-   * Most historical documents are written to promote and lend credence to Christian views
 
 #**Access to history in the Renaissance**
 
 During the Renaissance, thinkers begin to challenge the narrative of history and openly criticize the works of their predecessors. This leads to a surge in nationalism in history and historiography, giving historians freedom to postulate on how the events of the past have shaped the present, and how they will shape the future.
   * Criticism
    * Petrarch
-   * Machiavelli
+   * Machiavelli (148)
    * Valla
   * Nationalism
    * How does nationalistic pride affect the creation and perception of history?
   * Patronage - who wants this history made?
-  * Colonialism - Who is writing history in the New World?
+  * Colonialism - Who is writing history in the New World? (156)
   * The printing press
    * Bulk dissemination of ideas
    * Literacy - who can read these ideas? Things are still written in Latin.
@@ -44,6 +45,8 @@ A period of dramatic upheaval, wars, and revolution, the Reformation and the fol
    * Translations from Latin into vernacular
   * Literacy and education becomes more commonplace in the Enlightenment
   * Shifting focus from nationalism, to logic and reason
+   * Vico (223)
+   * Gibbon (227)
    * Human nature 
-   * Human spirit (Voltaire)
+   * Human spirit (Voltaire, Perrault 238+)
   * How does a shift to history becoming more scientific, more philosphical impact audience/access?
