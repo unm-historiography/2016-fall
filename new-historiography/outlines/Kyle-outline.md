@@ -30,13 +30,15 @@
  - Concerned with creating myths of Origin to the original church, 
  - became more critical of sources used. 
 - **Medieval**:
- - Origin myths of the barbarian nations of Europe to the ancient world, 
- - A distinction between the chronicles and histories emerged, 
- - A battle between secular truth and christian belief, 
- - Some myth histories being called fiction, 
- - Factual truth found in chronicles and meaningful truth found in Histories, 
- - scholars become more critical of one anothers sources.
-- **Renaissance/Reformation**: 
+ - **Origin myths of the barbarian nations of Europe to the ancient world**
+   1. 
+ - **A distinction between the chronicles and histories emerged**
+   1. 
+ - **A battle between secular truth and christian belief**
+ - **Some myth histories being called fiction**
+ - **Factual truth found in chronicles and meaningful truth found in Histories**
+ - **scholars become more critical of one anothers sources**
+- **Renaissance & Reformation**: 
  - Truth was finding a tie to the first church and its traditions, 
  - History becomes more academic and needed by kingdoms/cities, 
  - Truth was still subordinate to Christian tradition but it was between multiple tradtions battling one another,
@@ -50,10 +52,11 @@
  - **Codification of history, Truth and impartiality became central to history**
    1. "Bodin's major goal was what may be regarded as the *codification of history*, beginning with a comprehensive, classified list of histories, and the proper order of reading them, and with the methodical structuring of the knowledge produced by such reading"(Pg199)
     2. "this was a task for a historian, since it was essential to attend *not only what is said, but also by whom it is said, with what words it is said, in what time, on what occassion, what precedes, and what follows*." 
- - **became more secular and involved critically understanding your sources**
+ - **History became more secular and involved critically understanding your sources**
    1. "history continued to be appreciated for what passed for scientific reasons, especially since history, no less than natural philosophy, had a method"(Pg205) 
     2. "For Bayle, the proper method was fundamentally that of the humanist call for the rejection of tradition in favor of a return to the "sources rather than streams"(Pg 207)
  - **Historical criticism began to tear apart myth histories of nations**
    1. "sixteenth century historical criticism was already at work eliminating myths of origins"(Pg202)
  - **The formal scholarship of historians began with the republic of letters**
    1. "Of course history possessed very different meanings in the critical and crisis-ridden eighteenth century, according to various national "prejudices", with Italian,French,British,and German scholars interpreting it according to **different tastes and traditions**" (Pg 219) 
+    2. "Beyond national allegiances and religious divisions, the wider world of historical scholarship was defined by **the republic of letters**, in which information and ideas were exchanged, circles, societies, and academies were formed, libraries were opened to researchers, bibliographies and encyclopedias were published, and scholars broadened their horizons directly by more or less institutionalized international voyages, the *itinera italicum, gallicum,* and *germanicum*." (Pg219)
