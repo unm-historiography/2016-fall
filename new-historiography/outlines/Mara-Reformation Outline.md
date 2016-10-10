@@ -1,63 +1,34 @@
-**Reformation Chapter** (definitely need a better title but I am not creative enough for that)
+## Reformation Chapter
 
-1. **pre-Reformation** 
-   1. duality of government and the church 
-   2. **conflicting** histories both trying to claim authority 
-     * one secular, one religious
-     * hierarchy foundation of both
-     * lack in education/literacy 
-   3. “two swords” analogy p.163
-      * I think its a great way to visualize the world pre-Reformation
-2. **Reformation** 
-   1. brief account of events
-     * basically give the how and why for the Reformation
-       * **“every man a priest”**
-          * related to no hierarchy 
-          * encouraged education/literacy 
-          * undermined where knowledge came from i.e. the church 
-        * no hierarchy 
-        * required literacy 
-        * mainly a religious movement but the jump from no hierarchy in church to no hierarchy in government is quite small
-       * came from a deep distrust of the Catholic church
-         * again questioned where knowledge and authority came from
-     * Martin Luther
-        * I think a hyperlink for him would be great
-        * in the chapter itself we don’t need much just enough to understand major points
-   2. effects
-     * **undermined hierarchy** that was quintessential during the time
-     * questioned tradition 
-     * became grounds for criticism 
-       * essentially people who just follow tradition must be question maybe even thrown out, Dante p.164 
-     * attempted to change the long standing narrative that centered around Catholicism 
-     * sparked criticism of prior work
-        * was a little different then before
-        * large quantity of work
-        * almost as if the work before the Reformation was tainted 
-3. **Johann Sleidan**
-   1. good example of Reformation history 
-   2. without more knowledge about him the information in the current book seems adequate 
-     * history of career
-     * historical ideology 
-       * rather die than lie kind of stuff p.169
-   3. deals briefly with truth I think this could be expanded in our version as truth in this time period was a central theme
-     * finding a “true religion”
-     * where does truth come from?
-     * who is a valid/reliable source of truth?
-4. **Origins** 
-   1. Protestants had to **construct** their origins 
-   2. establish Protestantism as the true religion
-   3. **undermine** Catholicism 
-   4. brings into question what is truth as stated truth is central here because a “new” religion is trying to establish their
-   truth and refute another’s truth 
-   5. question the validity of pervious origins, sorta made them into myths
-     * “None of these later sixteenth century historians accepted the royalist myths of Trojan origins and alleged Carolingian         creations, but new mythical constructs had arisen to replace the old ones.” (pg. 179)
-     * another way to undermine the longstanding history 
-5. **National Histoires**
-  1. I looked over the work for the chapter in github and almost no one said anything about the national histories and in 
-  fact I don’t remember talking about them much in class
-  2. **maybe these aren’t important to us?**
-  3. **or maybe they belong in another chapter?**
-  4. In a sense they fit here because the Reformation caused the Protestant to create a sort of national history, but at 
-  the same time the jump form religion to secular state histories seems sorta strange 
-  5. essentially at this point I am not sure where this part of Kelley’s chapter fits in for us, but I do think it is 
-  important to talk about how nations began to create national histories in the same as Rome
+**Europe pre-Reformation** 
+
+1. Prior to the reformation Europe was controlled by the duality of the church and the state.  Both were strict hierarchies that largely maintained control via the low literacy rate which meant that individuals were uneducated.  Additionally controlled was sustained through tradition (basically this is the way its always been and always will be).  
+   1. The Gelasian concept of “two swords” helps to visualize the duality of Europe.  Essentially the idea was that there were      two swords, the church and the state, competing for authority that shaped Europe.
+2. The church and state fought to maintain ultimate authority over the people through history, however because ‘the church" in particular was mainly Roman Catholic histories about the church weren’t usually competing with each other (this will change once the Reformation begins).
+
+**Reformation** 
+
+1. The Reformation was a movement away from the Roman Catholic church due to a deep distrust in the church.  When talking about the Reformation people often refer to Martin Luther and his 95 Thesis, which essentially laid out the wrong doings of the Catholic church.  Luther’s basic premise, which was basically the premise of the Reformation, was “every man a priest”, meaning that the established hierarchy in the church wasn’t necessary.  According to Catholic doctrine individuals must go through a priest to talk to God, however the Reformation stood for the proportion that every man could talk to God without a kind of middle man.  This undermines the hierarchy of the church and by extension the hierarchy of the state.  
+   1. Martin Luther
+     * I think a **hyperlink** providing more in-depth information would be great for him.  Most people are probably going to        know who he is and the role he played in the Reformation (at least I think so maybe I’m wrong), so basic information          within the page should be adequate.  
+
+**Historiographical Effects of the Reformation** 
+
+1. An extension of the Reformation was a distrust for tradition, which became the grounds to criticize the Catholic church.  Such distrust was expressed by Dante who stated that “Those who rely solely on the tradition, therefore, must be thrown out of the arena”.  This was utilized to criticize not only the pope, but also the ecumenical council which was chief rival to the pope’s authority.  The council represented another Catholic tradition which according to Reformation writers created a kind of fraction within the Catholic church between the pope and the council.  This fraction represented the consequences of following tradition: discord that leads to failure.  
+   1. Admittedly I still don’t fully understand the history of the ecumenical council in regards to the Catholic church.  This       is my current understanding, but after further investigation this may change.  
+2. Another facet of tradition in Reformation history, was human traditions.  Protestant history became a kind of conflict between “spirit and letter”.  That is to say history as the process of God’s Word and history as the product of human’s sin.  One Reformation historian Melanchthon said “there has been no tradition, pious though it be in appearance, which has not wrought great evil for Christianity”.  History was therefore often seen by Protestant historians as the degradation of the church.  This will come into play later when we talk about the construction of Protestant origins.
+3. The Reformation marked a **“massive project of revisionism, which proposed, first simplicity then explicitly, to rewrite universal history so that it would convict the Roman hierarchy and justify the ‘true religion’”** (Kelley, 167).  This is the ultimate of effect of the Reformation on historiography. 
+   1. This is a tremendously important statement.  While it only constitutes a small part here in my outline, in the page           itself this should be a running theme throughout. 
+
+**Johann Sleidan (1506-1556)**
+
+1. Sleidan was hired by the German princes to be the historiographer of the Reformation.  His job was to discuss Luther in addition to the agenda and efforts of the Protestant party.  While he was devoutly committed to the Reformation, he was also convicted that political history played an important role in religious history.  In one of his books, Sleidan stated that “In the history of religion, I would not omit what concerned the civil government because they are interwoven with the other”.  In other words, religious history is a product of its time and to omit civil history is to omit part of what created religious history.
+2. Sleidan personally felt very convicted to recount a fair and equal telling of history.  A French historian by the name of Commynes wrote histories in which it was said that “in no way did her praise those of his own country or race, even kings who had raised him to high honor, unless it was true…, [and] everywhere he presented the facts in themselves”.  Sleidan sought to write these kinds of histories.  Later in life Sleidan wrote a friend asserting “I would rather die than say, still less write, anything without proof”.  His dedication to the truth and impartial histories inevitably effected the way he wrote as he dealt with a changing society that exhibited a great deal of religious dissent. 
+   1. **Hyperlink:** Commynes (1447-1511) was a French historian known for his work Mémoires.  In 1465 he took part in war           against King Louis XI of France, but eventually came to serve under and respect Louis XI.  His work was largely about         French history, but is most notable for his impartial recounting of events he personally experienced.   
+
+**Origins**
+
+1. As the Reformation began, Protestants had to construct their histories or origins.  While it may seem obvious to say that Protestant history began with the Reformation, Protestant historians of the time would disagree. Protestants traced their history back to the ancient times.  One such writer John Foxe stated that “we have the old actes and histories of auncient tyme to give testimonie with us…, to declare the same form, usage, and institution of this our Church reformed now, not to be the begynnyng of any new Churche of our owne, but to be the renewiyng of the old auncient Church of Christ”.  The notion that the Protestant church was simply the resurgence of a church that existed in ancient times became the manner in which Reformation histories legitimized Protestantism as the *“true religion”*.  
+2. Martyrs also became a part of the rhetoric involving Protestant origins.  The belief that **“The blood of the martyrs, is the seed of the church”** was widely held.  In part the purpose of this was to show the deep roots of the Protestant faith, however there is a certain amount of accusation that accompanies the martyr argument.  Without really saying it, Protestant histories were saying that Catholics have been persecuting the *“true religion”* the whole time.
+3. Essentially the goal of contracting Protestant history and establishing an origin was too legitimize the Protestant faith while simultaneously devaluing the Catholic faith.  Protestant historian wanted to establish their religion as the ultimate source of truth. 
+
