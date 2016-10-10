@@ -1,6 +1,6 @@
 The Science of History chapter explains the how history transformed from an art to a science during the Renaissance. The transformation of history wasn't a unanimous decision, and there were many (and still are) different viewpoints to why history falls into a particular category.  History has always been divided by *style* and *truth*.  This is problematic, because style and truth couldn’t coexist.
 
-**History as an Art**
+# **History as an Art** #
 
 - History as an art used grammar and rhetoric.  It was considered to be moral philosophy or poetry.
  - Dionysius of Halicarnassus said “philosophy is teaching by example”, and the Renaissance considered history as a *moral philosophy (188).  
@@ -8,8 +8,8 @@ The Science of History chapter explains the how history transformed from an art 
 - History begins to branch from being solely an art by its particular and literal truth. 
  - This was also what separated it from poetry.
  
- **The Method of History**
- 
+# **The Method of History** #
+
 - The beginning of historiography was not original to the Renaissance, it came from antiquity, especially from Herodotus and Thucydides’ views.
 - The writings of ancient philosophers were translated and *transformed* into what applied to the modern era.
  - The *transformed* literary texts from antiquity helped dictate human decisions.  Hindsight is 20/20, and learning from the past would be useful for all types of people (188).
@@ -31,12 +31,39 @@ The Science of History chapter explains the how history transformed from an art 
 - For Milieu, Baudouin, Bodin, Gaillard, La Popeliniere, and Bacon history adopted all the arts and sciences to inform the modern civilization.
  - History was related to law according to Jean Bodin.  Bodin divided history into three laws; human, nature, and divine.  Human history was “whatever flowed from the will of mankind, which ever vacillates and has no objective” (198).
 
- **The Art of Criticism**
+ # **The Art of Criticism** #
 
 - In the Renaissance criticism was finding forgeries in the writing, while making sure all the information given was true.
 - History that had been written long ago was seen with more skepticism than in previous generations.  Writings from antiquity were more closely analyzed, and suspected to be untrustworthy.  Bude wanted a “restitution” of antiquity as a whole.  (pg 205).  
 - The Renaissance contributed greatly to the **transformation** of history.  A completely new way of writing and reading history developed from this time period, “The conjunction of these impulses with archaeology and anthropology in a modern sense marked the beginning of an enlightened and truly (if in some cases excessively speculative) philosophical history."(216).
  - Critic, a word which began as medical term, then turned into a literary one, led to an important part in historical development. Debating the great authors of the past was a new way to find a closer truth.
+ 
+ # **Universal History** #
+- Appealed to a variety of people
+- Sabellico
+ - Humanist
+- Melanchthon
+ - Protestant
+- Bodin
+ - Methodizer of history
+- Universal history was being challenged in the early modern period
+- Universal History was considered a product of *** the sucession of master narratives***
+ - ie: A Herodotean drama is revised by Polybius, who is revised by Eusebius, then Augustine, etc.
+ - Universal history had very little to do with historical method or historical criticism.
+  - It focused on origins, general patterns, and final goals that were inseparable from religious doctrines.
+  - It also fell short of History as a science
+   - Encouraging philosophical, theological, and/oe mythological speculations.
+- Walter Raleigh
+ - Views of universal history were seen as repetitive and uncritical:
+
+>" not the least... that it hath made us acquainted with our dead ancestors."
+ - Also ythought an " *infinite spirit of the Universal*" controlled and governed all things.
+- Leibniz
+ - Expressed the unity of rational history
+ - Compared history to the body of an animal:
+
+> "where the bones support everything, the nerves form the connection, the spirit which moves the machine the humors which consist of nourishing juices, and finally the flesh which gives completion to the whole mass.  The past of history corresponds thus: chronology to bones, genealogy to nerves, hidden motives to invisible spirits, and the detail of circumstances to the whole mass of flesh."
+ 
 
 
  
