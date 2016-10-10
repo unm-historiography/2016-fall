@@ -29,7 +29,9 @@
 
 -The idea of origins during the enlightenment focuses on the state of nature and it is a topic of considerable debate. 
 
--Scottish scholars tried “to project human behavior, and in particular language and religion, back into the state of nature and the animal condition of man” (Kelley, 234)-	Adam Ferguson, from the University of Edinburgh, disagreed with Hobbes and Locke, for whom the state of nature was conjecture. In his “Essay on the History of Civil Society” he believes that the state of nature can be reconstructed and studied. His focus was the explanation of civilization and human nature through a universal history. 
+-Scottish scholars tried “to project human behavior, and in particular language and religion, back into the state of nature and the animal condition of man” (Kelley, 234)
+
+-Adam Ferguson, from the University of Edinburgh, disagreed with Hobbes and Locke, for whom the state of nature was conjecture. In his “Essay on the History of Civil Society” he believes that the state of nature can be reconstructed and studied. His focus was the explanation of civilization and human nature through a universal history. 
 
 -Vico, in his work “universal law”  argues that laws are a “turning point in history” as opposed to the “feral stage of history. 
 #Universal History
