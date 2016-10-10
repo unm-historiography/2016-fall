@@ -1,4 +1,4 @@
-Access to history and historiography is a broader theme in Kelley's text. Humans exhibit a natural inclination to know things, but access (or lack thereof) colors perspective and affects the perception of truth.
+Access to history and historiography is a broader theme in Kelley's text. The term "access" is used here to describe the impact of the physical, intellectual, moral, and philosophical barriers that influence the creation of history. Humans exhibit a natural inclination to know things, but access (or lack thereof) colors perspective and affects the perception of truth. Since truth has always been a contentious subject in history, and the definition of truth changes from person to person and over time, understanding how access affects that perception is essential to understanding the creation of history.
 
 #**Access to history in Greek/Roman times**
 
@@ -22,7 +22,7 @@ In the Christian and Medieval periods, we see the narrative arc of history chang
 
 #**Access to history in the Renaissance**
 
-During the Renaissance, thinkers begin to challenge the narrative of history and openly criticize the works of their predecessors. This leads to a surge in nationalism in history and historiography, leaving historians free to postulate on how the events of the past have shaped the present and how they will shape the future.
+During the Renaissance, thinkers begin to challenge the narrative of history and openly criticize the works of their predecessors. This leads to a surge in nationalism in history and historiography, giving historians freedom to postulate on how the events of the past have shaped the present, and how they will shape the future.
   * Criticism
    * Petrarch
    * Machiavelli
@@ -30,13 +30,20 @@ During the Renaissance, thinkers begin to challenge the narrative of history and
   * Nationalism
    * How does nationalistic pride affect the creation and perception of history?
   * Patronage - who wants this history made?
-  * Colonialism
+  * Colonialism - Who is writing history in the New World?
   * The printing press
    * Bulk dissemination of ideas
-   * Literacy - who can read these ideas?
+   * Literacy - who can read these ideas? Things are still written in Latin.
 
 
-#**Access to history in the Enlightenment**
-  * Changing audience of history
-  * Again, changing literacy
-  * History becoming more scientific, more philosphical, how does this impact audience/access?
+#**Access to history in the Reformation and Enlightenment**
+
+A period of dramatic upheaval, wars, and revolution, the Reformation and the following Enlightenment period change not only the organization of states, but the relationship the people and the Church have with them, with education and scholarship, and with history. 
+  * Changing audience of history and literature
+   * Martin Luther
+   * Translations from Latin into vernacular
+  * Literacy and education becomes more commonplace in the Enlightenment
+  * Shifting focus from nationalism, to logic and reason
+   * Human nature 
+   * Human spirit (Voltaire)
+  * How does a shift to history becoming more scientific, more philosphical impact audience/access?
