@@ -51,15 +51,15 @@
 1. The Egyptians (pp. 13-14)-
     1. The Egyptians supplied many examples of historical inquiry and interpretation for historians over the course of time because they were a society that help vast interest in the origins of the universe, their gods, geneologies, chronology, victories over their enemies, and the afterlife
     2. The Palermo Stone is one example of their efforts to record their history. 
-        * 1. The stone containts inscriptions of regnal lists on one of six fragments of a giant slab.
+        * The stone containts inscriptions of regnal lists on one of six fragments of a giant slab.
     3. Social memory during the time of the Egyptians was embodied in architecture and funeral remains. Pyramids and monuments were used in Egyptian myths to help preserve memories.
             
 2. The Greeks (pp. 13, 15)-
     1. Philosophy and science have made Greece the starting point for the story of the *human condition* in time.
     2. Proto-historiographical forms of writing in Greek culture included:
-        * 1. *Genealogy*, a line of descent traced continuously from a specific ancestor. 
-        * 2. *Geography*, the study of human activity, including the distribution of populations and resources over time.
-        * 3. *Ethnography*, the scientific description of the customs of different cultures and groups of people. 
-        * 4. *Local history*, studying the patterns and behavior of the people in ones own community. 
+        * *Genealogy*, a line of descent traced continuously from a specific ancestor. 
+        * *Geography*, the study of human activity, including the distribution of populations and resources over time.
+        * *Ethnography*, the scientific description of the customs of different cultures and groups of people. 
+        * *Local history*, studying the patterns and behavior of the people in ones own community. 
     3. Like the Egyptians, the Greeks also expressed an interest in chronology.
-        * 1. *Hellanicus*, a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the *mythical* aspects from his work to make it more historically accurate. 
+        * *Hellanicus*, a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the *mythical* aspects from his work to make it more historically accurate. 
