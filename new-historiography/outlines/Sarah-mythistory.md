@@ -44,7 +44,7 @@
     1. Known as the "father of history" and the "father of lies," Herodotus was a Greek historian who greatly enjoyed recording history by means of story-telling. He was the first historian to systematically collect sources, test the legitimacy of them (to an extent), and arranged his materials into well-constructed narratives/tales. His large-scale historical narrative has managed to survive throughout the centuries.  
         
 2. Thucydides (p. 2)-
-    1. Known as the "second founding father of history," Thucydides concentrated his efforts on politics and the military. His writings on the Peloponnesian War rejected the story-telling narrative that Herodotus was so fond of, and eventually coined the term * the Thucydidean Model*, which included eyewitness testimony, personal experience, and observable facts (amongst other things) as a way of recording history. He approached his studies in a more analytical manner, thus allowing his readers to come up with their own conclusions from his works. 
+    1. Known as the "second founding father of history," Thucydides concentrated his efforts on politics and the military. His writings on the Peloponnesian War rejected the story-telling narrative that Herodotus was so fond of, and eventually coined the term *the Thucydidean Model*, which included eyewitness testimony, personal experience, and observable facts (amongst other things) as a way of recording history. He approached his studies in a more analytical manner, thus allowing his readers to come up with their own conclusions from his works. 
         
 ***Myth in different cultures***
 
