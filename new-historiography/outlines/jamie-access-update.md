@@ -49,4 +49,4 @@ A period of dramatic upheaval, wars, and revolution, the Reformation and the fol
    * Gibbon (227)
    * Human nature 
    * Human spirit (Voltaire, Perrault 238+)
-  * How does a shift to history becoming more scientific, more philosphical impact audience/access?
+  * How does a shift to history becoming more scientific, more philosophical impact audience/access?
