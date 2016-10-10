@@ -11,6 +11,5 @@
      - Herotodus and Thucydides 
           - In the Mythistory chapter, Kelley places Herotodus and Thucydides in the grey area between myth and history. They are more factually minded than the poets and others that came before them, however they fall closer to writing myth in the sense that their methods were not yet fully scientific in comparison to the historical methods that would follow. 
      - Poets like Homer wrote about things that happened, however they included the influence of the gods and other supernatural forces. They also did not use methods of research for an accurate account. While these stories may have had a basis in the past, the end product was essentially fiction.
- - What can we prove and what may or may not have happened we don't know
-          - Jesus existed vs. Jesus was the Son of God. The first can be historically documented and confirmed, while the other is considered to be truth by some, however it is not documented and confirmed. The existence of Jesus as a Rabbi and the origin of a Jewish sect that became Christianity can be confirmed.
+     - Jesus existed vs. Jesus was the Son of God. The first can be historically documented and confirmed, while the other is considered to be truth by some, however it is not documented and confirmed. The existence of Jesus as a Rabbi and the origin of a Jewish sect that became Christianity can be confirmed.
          
