@@ -1,5 +1,5 @@
 ## Renaissance Historiography
-During the Renaissance the focus of historiography moved from religious to secular, although religion still played a role, it was not as central to the focus of historical writing.  New themes became more prevalent in the writing of history such as law, politics, and a growing focus on the origins of city-states (perhaps a precursor to national histories).  What was considered to be historically significant also expanded during this time.
+During the Renaissance the focus of historiography moved from religious to secular, although religion still played a role, it was not as central to the focus of historical writing.  New themes became more prevalent in the writing of history such as law, politics, and a growing focus on the origins of city-states (perhaps a precursor to national histories).  The topics that were considered to be historically significant also expanded during this time.
 
 **Humanism**
 - a movement towards tangible human elements of history rather than the focus on the divine that we’ve seen up to this point.
