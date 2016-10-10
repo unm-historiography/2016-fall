@@ -51,8 +51,8 @@
 1. The Egyptians (pp. 13-14)-
     1. The Egyptians supplied many examples of historical inquiry and interpretation for historians over the course of time because they were a society that help vast interest in the origins of the universe, their gods, geneologies, chronology, victories over their enemies, and the afterlife
     2. The Palermo Stone is one example of their efforts to record their history. 
-        * The stone containts inscriptions of regnal lists on one of six fragments of a giant slab.
-    3. Social memory during the time of the Egyptians was embodied in architecture and funeral remains. Pyramids and monuments were used in Egyptian myths to help preserve memories.
+        * The stone contains inscriptions of regnal lists on one of six fragments of a giant slab.
+    3. Social memory during the time of the Egyptians was embodied in architecture and funeral remains. Pyramids and monuments were used in *Egyptian myths* to help preserve memories.
             
 2. The Greeks (pp. 13, 15)-
     1. Philosophy and science have made Greece the starting point for the story of the *human condition* in time.
