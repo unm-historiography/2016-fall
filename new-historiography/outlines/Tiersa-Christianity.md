@@ -30,9 +30,9 @@
      * *“This was the purpose of his Chronological Canons, which attempted to synchronize pagan and Judeo-Christian history through a wide range of sources, including the anti-Christian chronology of Porphyry, by aligning the Olympiadic system with regnal lists, historians’ calculations, biblical genealogy beginning with Abraham, and historical information in the so called spatium historicum between the columns"* (87). 
     2. Eusebius was a firm believer in the God of History: 
      * *“Eusebius was the proud champion of a higher cause, which was expressed within a framework so plainly revealed in Holy Scriptures that there seemed little for a historian to accomplish except to fix the sequence and parallelism of events and to collect the words that testified to the providential plan...which the “inspired record” had laid down and which survived in a variety of secular forms, including the modern idea of secular progress”* (88).
- 5. **Orosius**
-    1. He strictly followed history chronologically.
-     * *“He followed a strictly chronological order calculated piously “from the founding of the city” even for the years after the birth of Christ”* (93). 
-    2. Orosius was an advocate for Jesus as the turning point of history:
-     * *“The governing will of God was finally made manifest in the incarnation mission, and martyrdom of his Son in the period of Augustus, when the temple of Janus was again closed to mark the establishment of imperial peace”* (94).
+ 5. **Augustine**
+    1. He saw the pagan past as misunderstanding God's work throughout history.
+     * *It was the one true God, not the Roman idols of Virture, Victory, Faith, ad Felicity-as Augustine argued and as history taught-that produced the success of the Roman state. And it was belief in this God that made wisdom possible: not understand in order that you might believe, but believe that you may understand.* (91). 
+    2. Augustine incorporated his pagan past with his Christian ideals:
+     * *In this crypto-Manichaean idea Augustine brought together the spiritualism of Platonic philosophy and that of the prophets and, moreover, found a way of expressing his vision of the city of man and the city of God.* (94).
 
