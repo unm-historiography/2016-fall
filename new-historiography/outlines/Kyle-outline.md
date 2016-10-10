@@ -19,9 +19,41 @@
    1. "The task of the historian, according to Lucian, is to tell what happened and not to spend time in useless praise"(Pg47)
     2. "the historian, out of respect for the facts, must follow it and worship only Truth."(Pg47)
     3. "the historian's sole task is to tell the tale as it happened"(Pg47) 
-
-- **Romans**: Truth was required but secondary to rhetoric, In Livy there is still a strong current of legends and myth in Roman times, Tacitus began to tell no stories for wonder but to tell only what he heard and what his fathers had written down, 
-- **Christians**:Truth is secondary to literary ambitions, The higher spiritual meaning was looked for, "Truth" was found in the Bible as the word and law of God (81), Concerned with creating myths of Origin to the original church, became more critical of sources used. 
-- **Medieval**:Origin myths of the barbarian nations of Europe to the ancient world, A distinction between the chronicles and histories emerged, A battle between secular truth and christian belief, Some myth histories being called fiction, Factual truth found in chronicles and meaningful truth found in Histories, scholars become more critical of one anothers sources.
-- **Renaissance/Reformation**: Truth was finding a tie to the first church and its traditions, History becomes more academic and needed by kingdoms/cities, Truth was still subordinate to Christian tradition but it was between multiple tradtions battling one another, Source criticism was a major force during this time with multiple churches battling for dominance. 
-- **Enlightenment**: History became a formal discipline with a methodology for gaining truth and remaining impartial, Codification of history, Truth and impartiality became central to history, became more secular and involved critically understanding your sources, Historical criticism began to tear apart myth histories of nations, The formal scholarship of historians began with the republic of letters.
+- **Romans**: 
+ - Truth was required but secondary to rhetoric, 
+ - In Livy there is still a strong current of legends and myth in Roman times, 
+ - Tacitus began to tell no stories for wonder but to tell only what he heard and what his fathers had written down, 
+- **Christians**:
+ - Truth is secondary to literary ambitions, 
+ - The higher spiritual meaning was looked for, 
+ - "Truth" was found in the Bible as the word and law of God (81), 
+ - Concerned with creating myths of Origin to the original church, 
+ - became more critical of sources used. 
+- **Medieval**:
+ - Origin myths of the barbarian nations of Europe to the ancient world, 
+ - A distinction between the chronicles and histories emerged, 
+ - A battle between secular truth and christian belief, 
+ - Some myth histories being called fiction, 
+ - Factual truth found in chronicles and meaningful truth found in Histories, 
+ - scholars become more critical of one anothers sources.
+- **Renaissance/Reformation**: 
+ - Truth was finding a tie to the first church and its traditions, 
+ - History becomes more academic and needed by kingdoms/cities, 
+ - Truth was still subordinate to Christian tradition but it was between multiple tradtions battling one another,
+ - Source criticism was a major force during this time with multiple churches battling for dominance. 
+- **Enlightenment**: 
+ - **History became a formal discipline with a methodology for gaining truth and remaining impartial**
+   1. "As history... was also attaining scientific status...history became, literally and conceptually, a science because it was organized according to a systematic method, oreinted toward universals rather than particulars, and so raised above arts"(Pg193) 
+    2. "Partisanship, whether paid or not, was a basic fault; and as a remedy Bodin recommended consulting rival authors"(Pg199) 
+    3. "Scholars clinging to the humanist tradition hoped to salvage traditional learning, arguing that it was important to study error as well as truth in order to attain an understanding of the human condition."(Pg205) 
+    4. "In the seventeenth century the art of uncovering forgeries became an essential part of historical criticism-culminating in the hypercriticism of the nineteenth-century scholars."(Pg207)
+ - **Codification of history, Truth and impartiality became central to history**
+   1. "Bodin's major goal was what may be regarded as the *codification of history*, beginning with a comprehensive, classified list of histories, and the proper order of reading them, and with the methodical structuring of the knowledge produced by such reading"(Pg199)
+    2. "this was a task for a historian, since it was essential to attend *not only what is said, but also by whom it is said, with what words it is said, in what time, on what occassion, what precedes, and what follows*." 
+ - **became more secular and involved critically understanding your sources**
+   1. "history continued to be appreciated for what passed for scientific reasons, especially since history, no less than natural philosophy, had a method"(Pg205) 
+    2. "For Bayle, the proper method was fundamentally that of the humanist call for the rejection of tradition in favor of a return to the "sources rather than streams"(Pg 207)
+ - **Historical criticism began to tear apart myth histories of nations**
+   1. "sixteenth century historical criticism was already at work eliminating myths of origins"(Pg202)
+ - **The formal scholarship of historians began with the republic of letters**
+   1. "Of course history possessed very different meanings in the critical and crisis-ridden eighteenth century, according to various national "prejudices", with Italian,French,British,and German scholars interpreting it according to **different tastes and traditions**" (Pg 219) 
