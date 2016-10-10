@@ -31,21 +31,21 @@
  - became more critical of sources used. 
 - **Medieval**:
  - **Beginnings of Secular history:Origin myths of the barbarian nations of Europe**
-   1. "Paralleling the imperial tradition was that of the Roman pontiffs, who claimed an even grander heritage, their apostolic succession leading back not merely to falsely divinized pagan rulers but to St.Peter himself"(Pg117)
+    1. "Paralleling the imperial tradition was that of the Roman pontiffs, who claimed an even grander heritage, their apostolic succession leading back not merely to falsely divinized pagan rulers but to St.Peter himself"(Pg117)
     2. "the ancient Roman *imperators* being the ancestors of the elected Hohenstaufen emperors" (Pg117)
  - **A distinction between the chronicles and histories emerged**
-   1. "A distinction was made in the medievel period between an author and mere copyists or compilers" (Pg 103)
+    1. "A distinction was made in the medievel period between an author and mere copyists or compilers" (Pg 103)
     2. "The chronicler has no such purpose but merely followed the random events of the Years of our Lord" (Pg 120)
     3. "It belongs to the historian to strive for truth, to charm his hearers or readers by his sweet and elegant language, to inform them of the true facts about the actions, character and life of the hero whom he is describing, and to include nothing else but what seems in reason to be appropriate to history." (Pg120) 
  - **A battle between secular truth and christian belief**
-  1. 
+   1. 
  - **Some myth histories being called fiction**
    1. "*History of the Kings of Britain*, which reintroduced a poetic and mythological element into national historiography in the form of the Trojan and Arthurian legends and which was **denounced** by conventional historians for its *violations* of the **cannons of historical truth**
     2. "Geoffrey's work provoked reactions from more literal-minded authors such as William of Newburgh, who assailed "the laughable work of fiction" which Geoffrey wove about the ancient Britons." (Pg123)
  - **Factual truth found in chronicles and meaningful truth found in Histories**
-  1. 
+   1. 
  - **scholars become more critical of one anothers sources**
-  1. "Christian truth did occasionally require historical criticism, especially in an age of growing literacy, and orthodox chroniclers drew the line at poetic invention" (Pg123)
+   1. "Christian truth did occasionally require historical criticism, especially in an age of growing literacy, and orthodox chroniclers drew the line at poetic invention" (Pg123)
 - **Renaissance & Reformation**: 
  - Truth was finding a tie to the first church and its traditions, 
  - History becomes more academic and needed by kingdoms/cities, 
