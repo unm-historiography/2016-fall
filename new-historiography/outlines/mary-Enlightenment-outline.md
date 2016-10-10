@@ -1,6 +1,8 @@
 #Introduction
 
--The enlightenment was a time of profound change in intellectual thought in the 17th and 18th centuries. The Thirty Years’ War, new scientific discoveries and the American and French Revolutions contributed to a change in the discourse of philosophers and historians.  
+-The enlightenment was a time of profound change in intellectual thought in the 17th and 18th centuries. The Thirty Years’ War, new scientific discoveries and the American and French Revolutions contributed to a change in the discourse of philosophers and historians. 
+
+
 -The ideas of the Enlightenment changed the way that history was approached. The age of reason and logic was seen by some as the culmination and pinnacle of human development with earlier ages represented as infancy and adolescence of the human race. 
 
 -Kelley says “"History remained philosophy teaching by example” (219) This conveys the ability of history to explain about human nature, reason and virtue through actual events, it was able to answer questions in a way that philosophy alone could not.
