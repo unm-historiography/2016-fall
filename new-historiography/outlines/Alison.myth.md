@@ -6,20 +6,11 @@
           - Kelley describes a Egyption writing in which the son of a king teaches his son the importance of continueing the traditions of his ancestors. This includes honoring the gods.
      - Justification
           - God choosing the levites as priests made them the legitmate tribe to hold that posistion. 
-        
-- Examples of myth
-     - Bible 
-         - A fair amount of the old testement as well as Jesus as the Son of God.
-     - Russian chronicle describing the origin of the Slavic people. (the chronicle claims that slavs are descended from one of the sons of Noah.
-     - Greek/Roman Gods 
-     - Egyptians/Pharos
-          - Pharos being gods legitimized power
-     - Poets
-          - They took history and added the mystic realm to it. Homer wrote poems that had historical information however they 
 - Blurred lines/Difference between history and myth.
-     - Again Russian chronicle
+     - The Russian Primary Chronicle (it can be found at http://www.mgh-bibliothek.de/dokumente/a/a011458.pdf) describes the origins of the slavic people. The writer claims that the sons of Noah devided up th earth after the flood. The Slavic people are reported to be descended from the son who recieved Eastern Europe as his section of land. This would be considered a myth history as we have no way of verifying the information provided regarding the origins of the Slavs. The chronicle does enter a more historical phase as it describes the beginings of the Kievin Rus and the associated princedoms.
      - Herotodus and Thucydides 
           - In the Mythistory chapter, Kelley places Herotodus and Thucydides in the grey area between myth and history. They are more factually minded than the poets and others that came before them, however they fall closer to writing myth in the sense that their methods were not yet fully scientific in comparison to the historical methods that would follow. 
-     - What can we prove and what may or may not have happened we don't know
-          - Jesus existed vs. Jesus was the Son of God.
+     - Poets like Homer wrote about things that happened, however they included the influence of the gods and other supernatural forces. They also did not use methods of research for an accurate account. While these stories may have had a basis in the past, the end product was essentially fiction.
+ - What can we prove and what may or may not have happened we don't know
+          - Jesus existed vs. Jesus was the Son of God. The first can be historically documented and confirmed, while the other is considered to be truth by some, however it is not documented and confirmed. The existence of Jesus as a Rabbi and the origin of a Jewish sect that became Christianity can be confirmed.
          
