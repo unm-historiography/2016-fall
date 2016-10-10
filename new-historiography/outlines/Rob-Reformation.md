@@ -1,4 +1,5 @@
 -**Reforming History**-
+
 -In this chapter I intend to highlight the key themes and people of the reformation period, as well as show how these themes and the profession of history differ from previous eras and impact the subsequent. 
 - Side note, if it’s not obvious, I’m tentatively planning on making individual sections for key themes and people. I also intend on littering side notes throughout but as of now I cant even figure out how to do that on MS word much less Github. 
 
