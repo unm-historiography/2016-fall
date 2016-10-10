@@ -2,9 +2,10 @@
      - Bonds of a people
           - Myths such as God's decleration of the Jews as his people brought them together and kept them together as a seperate people.
      - Instructions
-          - The fall of man is a myth that teaches obedience to God.
+          - The fall of man in the Bible is an instructional myth that is used to teach the importance of obedience to God. 
+          - Kelley describes a Egyption writing in which the son of a king teaches his son the importance of continueing the traditions of his ancestors. This includes honoring the gods.
      - Justification
-          - God choosing the levites as priests made them the legitmate tribe to hold that posistion.
+          - God choosing the levites as priests made them the legitmate tribe to hold that posistion. 
         
 - Examples of myth
      - Bible 
@@ -14,8 +15,11 @@
      - Egyptians/Pharos
           - Pharos being gods legitimized power
      - Poets
-          - They took history and added the mystic realm to it.
+          - They took history and added the mystic realm to it. Homer wrote poems that had historical information however they 
 - Blurred lines/Difference between history and myth.
      - Again Russian chronicle
+     - Herotodus and Thucydides 
+          - In the Mythistory chapter, Kelley places Herotodus and Thucydides in the grey area between myth and history. They are more factually minded than the poets and others that came before them, however they fall closer to writing myth in the sense that their methods were not yet fully scientific in comparison to the historical methods that would follow. 
      - What can we prove and what may or may not have happened we don't know
           - Jesus existed vs. Jesus was the Son of God.
+         
