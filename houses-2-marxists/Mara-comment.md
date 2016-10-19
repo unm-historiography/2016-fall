@@ -12,6 +12,5 @@ Thompson as stated above moved on to how political and cultural changes constitu
 
 While the description of Thompson’s history characterized his method quite well, it would seem that Thompson **isn’t** really 
 a Marxist historian.  The role of economics at least as far as I understand it plays a **very small role**. Thompson’s work 
-appears to be concerned with the **cultural and political explanations** in history with a small influence from economics.   
-Admittedly there is discussion in E.P. Thompson’s work that **may be** more economic in nature then I understand.  There are 
+appears to be concerned with the **cultural and political explanations** in history with a small influence from economics.  Admittedly there is discussion in E.P. Thompson’s work that **may be** more economic in nature then I understand.  There are 
 points he makes that I perceive as a cultural explanation, but I could be convinced that they are more economic in nature.  
