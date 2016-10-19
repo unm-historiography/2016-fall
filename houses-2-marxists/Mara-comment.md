@@ -1,16 +1,9 @@
 ## Marxist Historians Comment
 
 In the extract by E.P. Thompson, he discussed how **exploitation** came to be part of English labor in the 1830’s.  Thompson 
-asserted that the rise of the **Industrial Revolution** and **changing political and cultural traditions** in England initiated a 
-**shift** away from paternalism in the work place to exploitation of laborers.  While there is a clear emphasis on the how the
-**economy** was a catalyst for this shift, Thompson contends that **politics and culture** played an even larger role.  For 
-Thompson as the **working class** rose there was a backlash from the “masters” that set in motion the use of exploitation in 
-the work place.  He relies heavily on primary sources in particular a source that was entitled “A Journeyman Cotton Spinner”.
+asserted that the rise of the **Industrial Revolution** and **changing political and cultural traditions** in England initiated a **shift** away from paternalism in the work place to exploitation of laborers.  While there is a clear emphasis on the how the **economy** was a catalyst for this shift, Thompson contends that **politics and culture** played an even larger role.  For Thompson as the **working class** rose there was a backlash from the “masters” that set in motion the use of exploitation in the work place.  He relies heavily on primary sources in particular a source that was entitled “A Journeyman Cotton Spinner”.
 
-The introductory portion of “Marxist Historians” described Marxist history as **driven by economic relationships and classes**.  
-For Marx all of history is movement from ancient society to feudal society to capitalist society and eventually socialist 
-society which would come from the working class overthrowing the bourgeoisie (p.35-36).  Economics were the very core of 
-Marx’s perception of history.  
+The introductory portion of “Marxist Historians” described Marxist history as **driven by economic relationships and classes**. For Marx all of history is movement from ancient society to feudal society to capitalist society and eventually socialist society which would come from the working class overthrowing the bourgeoisie (p.35-36).  Economics were the very core of Marx’s perception of history.  
 	
 E.P. Thompson on the other hand was described as a **“cultural Marxist”** meaning he took into account the economic impact on 
 history but looked to other factors such as political and cultural shifts (p.39).  The excerpt provided displayed this exact
