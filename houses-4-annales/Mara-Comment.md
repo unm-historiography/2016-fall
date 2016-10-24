@@ -1,7 +1,5 @@
 Annales historians were largely concerned with **breaking down** the barriers between the “human sciences”.   They wanted to 
-incorporate as many disciplines as possible in their work in order to achieve what was sometimes called **“total history”**.  
-Annales first grew out of an rejection of purely political history.  For Annales historians the **interaction** between 
-culture and political history for example was much more interesting and more complete.  Braudel an Annales historian once said 
+incorporate as many disciplines as possible in their work in order to achieve what was sometimes called **“total history”**. Annales first grew out of an rejection of purely political history.  For Annales historians the **interaction** between culture and political history for example was much more interesting and more complete.  Braudel an Annales historian once said 
 “the history of the Mediterranean ‘can more be separated from that of the lands surrounding it than the clay can be separated
 from the hands of the potter who shapes it’” (p. 90).  That is to say you can’t separate one part of history from all its
 other parts.  Annales also introduced the idea of **mentalités** which was essentially the study of everyday people and how 
