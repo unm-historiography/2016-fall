@@ -5,8 +5,6 @@ Foucault goes on to analyze the document in the study of history. He says “the
 
 
 Foucault says that there are many results from this change in history. First is that there are many different levels of time, cycles, epochs which can now be discovered through new modes of analysis. Second, is the shift in focus from the constant to the inconsistent. “Discontinuity was the stigma of temporal dislocation that it was the historians task to remove from history. It has now become one of the basic elements of historical analysis.” There is also a shift from seeking a universal history to seeking a general history. 
-I need to write more at this point. 
 
-I am really not sure I understand what Foucault is saying enough to say if I agree with his argument or not. I will comment more whan I figure it out.  
 
 
