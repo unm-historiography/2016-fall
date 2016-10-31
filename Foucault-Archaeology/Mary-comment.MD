@@ -1,6 +1,12 @@
 Foucault says that historical study has changed. In the past historians studied long periods of time, whole civilizations, they are looking for the underlying unchanging structure of history. He uses the image of different strata to say that more recent historical analysis has gone deeper seeking longer current and trends. Foucault says that newer schools of history such as the science of history or the philosophy of history seek, instead of continuity, moments of profound change or what he calls dis-continuities. “the history of thought, of knowledge, of philosophy, of literature seems to be seeking, and discovering, more and more dis-continuities, whereas history itself appears to be abandoning the irruption of events in favor of stable structures.” (6)
+
+
 Foucault goes on to analyze the document in the study of history. He says “there was a time when archeology, as a discipline devoted to silent monuments, inert traces, objects without context, and things left by the past aspired to the condition of history and attained meaning only through the restitution of a historical discourse.” I think what Foucault is saying is that archeology describes what an object or document is. Perhaps describing what it is, how it was used without necessarily assigning meaning to it. He goes on to say “in our time history aspires to the condition of archeology to the intrinsic description of the monument.” He means that archeology describes what a thing is, history ascribes meaning.
+
+
 Foucault says that there are many results from this change in history. First is that there are many different levels of time, cycles, epochs which can now be discovered through new modes of analysis. Second, is the shift in focus from the constant to the inconsistent. “Discontinuity was the stigma of temporal dislocation that it was the historians task to remove from history. It has now become one of the basic elements of historical analysis.” There is also a shift from seeking a universal history to seeking a general history. 
-I need to write more at this point. I am really not sure I understand what Foucault is saying enough to say if I agree with his argument or not. I am going to sleep on it. 
+I need to write more at this point. 
+
+I am really not sure I understand what Foucault is saying enough to say if I agree with his argument or not. I will comment more whan I figure it out.  
 
 
