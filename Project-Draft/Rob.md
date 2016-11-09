@@ -1,8 +1,8 @@
-#**-Reforming History: The impact of the Reformation of the Broader Profession of History-**
+#**-Reforming History: ##The impact of the Reformation of the Broader Profession of History-**
 
 Abstract-This chapter aims to highlight the key themes and people of the reformation, as well as show how these themes and the profession of history itself differs from previous eras and impacts the subsequent. An appropriate place to start any story is to begin with the origins and agendas, move onto the actual period and finally end with how history was regarded along with the duality of history in the Reformation. 
 
-**-Origins and Agendas in the Reformation-**
+###**-Origins and Agendas in the Reformation-**
 
 The period from 1515 to 1525 was perhaps one of the most innovative times in European history, as well as one of the most controversial (p89, Grant). This was an era of momentous impact on the Western world, religiously, politically, and historically: the reformation began to take hold during this time and shift the focus of the populations (pg1, Spitz). The origins during the reformation differ greatly from earlier eras in that there was a distinct departure from Roman roots as the source of legitimization, and the "barbarian" cultures began to look inward to their own traditions in an attempt to establish identity, meaning, and a place in history. Perhaps this departure marks a "progression of empires"--empires that are constantly changing throughout history but at the same time building upon each previous of the era’s traditions and ideals. 
 
