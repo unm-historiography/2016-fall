@@ -15,4 +15,4 @@ November 25th-28th-Familiarize myself with the video editing software Camtasia a
 25th-Download, register and experiment with Camtasia ~1hr
 26th-Watch some online tutorials on Camtasia (YouTube or otherwise) and begin
 work on the logistics of placing the audio and video together/editing ~2hrs
-27th-Finalize rough draft of the video 
+27th-Finalize rough draft of the video  
