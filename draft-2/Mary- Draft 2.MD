@@ -20,7 +20,7 @@ There are some important concepts to understand when examining enlightenment tho
 
 The Republic of Letters represents a significant shift in the access to academic discourse. The Republic of Letters was an international system of scholarship and criticism that spread the new ides through society. Scholars and philosophers sent letters, papers, and pamphlets to each other for discourse and debate on the important topics of the day. This enabled more access to the new ideas and debates of this time. Scholars could share ideas that were not easily shared in early time periods because of linguistic and geographic constraints. During the Enlightenment advances in the technologies of making books made books more accessible. The proliferation of the written word demanded categorization and organization. Samuel Johnson published his dictionary in 1755. The Johnson Dictionary became the preeminent dictionary of the next two hundred years.
 
-##The Historians
+##The Historians and Thinkers
 
 A prominent vision of the thinkers and historians of this time is that of the French Philosophes, “fashionable and influential thinkers of the Enlightenment” (Flew, 267). The discourse of Enlightenment thought spread far beyond France. Through the Republic of Letters, books and resources, like dictionaries, we hear the voices of these thinkers through the past and wonder what they bought to history that was new. It is important to look at them individually for their contributions to the narrative and dialogue of historiography during the Enlightenment. 
      
