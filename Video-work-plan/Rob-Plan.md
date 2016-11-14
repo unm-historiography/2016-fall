@@ -5,7 +5,8 @@ November 14th-19th-Re-read Refiguring History as many times as it takes to fully
 - 17th-Buy puzzle and figure logistics ~1hr
 - 18th-Figure out camera situation ~1hr
 - 19th-Play around with puzzle and camera 2hrs
-- November 20th-24nd-Work on audio editing to make my voice not sound terrible (the mic on my laptop seems to not record the audio very well but it may just need some tweaking)  
+
+November 20th-24nd-Work on audio editing to make my voice not sound terrible (the mic on my laptop seems to not record the audio very well but it may just need some tweaking)  
 - 20th-Record sample tracks ~1hr 
 - 21st-Work on editing audio
 - 22nd-Work on the script for the audio ~2hrs
