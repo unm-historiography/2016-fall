@@ -16,7 +16,7 @@ Work with the software, *Camtasia* or *Prezi*. Continue to look over notes and c
 
 Continue to become familiar with the software programs and finish distilling the core argument and analysing its importance from "Truth & History".
 
-** November 22**
+**November 22**
 
 Begin draft of narration, and complete familiarizing myself with the software programs. 
 
