@@ -38,4 +38,4 @@ Edit video and narration to time well with complete presentation.
 
 **November 28**
 
-Submit first draft of video. 
+Submit first draft of video book review to GitHub for review. 
