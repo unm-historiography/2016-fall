@@ -15,12 +15,12 @@ November Plan
 
 16th- Read book 1 hour- take notes
 
-17th- Create outline and structure video- what do I want to say?- 2 hours- This is Beaujolais Nouveau day. I will not try the new vintage 
+17th- Create outline of what I want to say- what do I want to say?- 2 hours- This is Beaujolais Nouveau day. I will not try the new vintage 
 until I complete work on my project. 
 
-18th- Download Camtasia- get stuck in geek out mode playing with the program
+18th- Download Camtasia- get stuck in geek out mode playing with the program. I will know more when I have the program how I will spent the rest of my time.
 
-19th- Work on video production- 1-2 hours
+19th- Work on video production- Finding images- creating the text of the vidoe 1-2 hours
 
 20th- Work on video production- 1-2 hour
 
@@ -34,7 +34,7 @@ until I complete work on my project.
 
 25th- Day off- I will be far far away from the craziness.  Hiking around Mt. Baldy. 
 
-26th- Work on video- 2 hours
+26th- Work on video- Voice over practice- Narration 2 hours
 
 27th- Finishing touches- Time to catch up if I am behind. 
 
