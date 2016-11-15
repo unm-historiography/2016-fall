@@ -2,7 +2,7 @@
 
 ## How Judeo-Christian historiography created a universal history with a providential plan
 
-Judeo-Christian historiography tried to build a bridge between paganism and Christianity. They wanted to prove that history was a continuum in which God had an ultimate goal in mind. For Judeo-Christian historiography God was the God of History and this history was universal.  
+Judeo-Christian historiography tried to build a bridge between paganism and Christianity. They wanted to prove that history was a continuum in which God had an ultimate goal in mind. For Judeo-Christian historiography, God was the God of History and this history was universal.  
 
 ###### **The God of History** 
 
@@ -11,7 +11,7 @@ Judeo-Christian historiography tried to build a bridge between paganism and Chri
 ###### **Josephus**
 
 The man that began to create a universal history is known as Josephus Flavius. He was born around 37 CE in Jerusalem to a priestly family. He was a well educated Jew that became a commander in the Great Revolt-that ultimately led to the destruction of the second Jewish temple in 70 CE. Josephus was taken as a Roman prisoner in 67 CE. When he was granted citizenship by Emperor Vespasian in 68 CE, he began his work of writing Jewish history.
-In one of his major works, *Jewish Antiquities*, Josephus begins his development of a universal history. He begins with Creation in which *all humankind have a common origin*. According to Josephus humankind was all united in the belief of one God and one history until the Tower of Babel narrative found in the Bible. This narrative tells the story of how the whole world once spoke the same language but after angering God by trying to build a tower to the heavens, God confused their language and dispersed them throughout the world. Josephus believed that it was this moment that led to competing histories. Greeks and Romans who had forgotten this universal beginning created their own origin stories and thus their own history. *Josephus combined the histories of other nations with biblical accounts and chronologies with the goal of creating universality* (Kelley, 79). Josephus tried to create a common origin and universal history that was later adopted and expanded upon by early Christian historians. But it’s important to first explain the reasons Christians adopted this view of history.
+In one of his major works, *Jewish Antiquities*, Josephus begins his development of a universal history. He begins with Creation in which *all humankind have a common origin*. According to Josephus humankind was all united in the belief of one God and one history until the Tower of Babel narrative found in the Bible. This narrative tells the story of how the whole world once spoke the same language but after angering God by trying to build a tower to the heavens, God confused their language and dispersed them throughout the world. Josephus believed that this dispersion was the moment that led to competing histories. Greeks and Romans who had forgotten this universal beginning created their own origin stories and thus their own history. *Josephus combined the histories of other nations with biblical accounts and chronologies with the goal of creating universality* (Kelley, 79). Josephus tried to create a common origin and universal history that was later adopted and expanded upon by early Christian historians. But it’s important to first explain the reasons Christians adopted this view of history.
 
 ###### **Christian Historiography**
 
