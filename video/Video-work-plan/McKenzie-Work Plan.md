@@ -27,16 +27,41 @@ I'd like to devote about an hour a day to this book, in order to finish it by Su
 - [ ] Read 30 min after school
 - [ ] Read 30 min late afternoon
 - [ ] Read 30 min early evening
-- [ ] Read 30 min before bed
+- [ ] Begin prezi before bed
 
 ##### s. 11/19
 - [ ] Read 30 min after work
-- [ ] Read 30 min before bed
-
+- [ ] Read 30 min  late afternoon
+- [ ] Work on Prezi before bed
 ##### su. 11/20
 - [ ] Read 30 min before work
 - [ ] Read 30 min after work
+- [ ] Work on Prezi before bed
 
 ##### m. 11/21
-- [ ] work on prezi after class and before work
+- [ ] Finish up prezi after class and before work
+- [ ] Play with Camtasia and Jing after work
 
+##### t. 11/22
+- [ ] Finish prezi between classes
+- [ ] Play with Icecream Screen Reader after work
+
+##### w. 11/23
+- [ ] Finish Prezi before work
+- [ ] Begin recording with favored program  (Camtasia, Icecream Screen Reader, or Jing)
+
+##### r. 11/24
+- [ ] Thanksgiving
+- [ ]  Record with prezi after dinner
+
+##### f. 11/25
+- [ ] Record with prezi after work
+
+##### s. 11/26
+- [ ] Finish Recording
+
+##### su. 11/27
+- [ ] Finish up anything else that needs to be done
+
+##### m. 11/28
+- [ ] Review due
