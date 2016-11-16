@@ -9,7 +9,7 @@ The goal is to give others a solid understanding of *The Cheese and Worms*.  My 
 #####Achievability
 I'd like to devote about an hour a day to this book, in order to finish it by Sunday (11/20). I'd like to create a prezi for my book review, and record over my presentation.  There are three programs I'm considering; Jing, Camtasia, and Icecream Screen Reader.
 
-*** I'll add more about my video when I choose my program***
+***I'll add more about my video when I choose my program***
 # Reading Schedule
 
 ##Book size: 208 pages
