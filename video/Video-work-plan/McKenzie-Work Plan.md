@@ -33,6 +33,7 @@ I'd like to devote about an hour a day to this book, in order to finish it by Su
 - [ ] Read after work **30 min.**
 - [ ] Read late afternoon **30 min.**
 - [ ] Work on Prezi before bed **30 min.**
+
 ##### su. 11/20
 - [ ] Read before work **30 min.**
 - [ ] Read after work **30 min.**
