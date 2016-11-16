@@ -13,3 +13,4 @@ I think reality is inherently blind itself. There’s no need to be blaming the 
 <b>Day:</b> Removed the numbers from the days. Numbering the days allows for too much narrative. <br>
 <b>Seems fine</b><br><br>
 I don’t think stories need all these things that we associate them with. Sure, we can expect certain things from stories. But that’s not really doing anything. You might as well live in your head. So these greater structures that exist in stories are infinite. Vonnegut. Anyone!? <br><br>
+At the end of the day it comes down to who is writing the damn thing, and who is going to read the damned thing. That’s all that really matters. And if we pick up a list (very similar to the one I provided) it has no context, no meaning, no real purpose. All we can do is guess. All we can do is guess that it was a poor history student getting pissed. But who knows; who really knows.<br><br>
