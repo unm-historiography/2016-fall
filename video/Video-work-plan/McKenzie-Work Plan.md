@@ -16,52 +16,52 @@ I'd like to devote about an hour a day to this book, in order to finish it by Su
 ###Goal: Finish by Sunday, November 20
 
 ##### w. 11/16
-- [ ] Read 30 min. after school
-- [ ] Read 30 min after work
+- [ ] Read after school **30 min.**
+- [ ] Read after work **30 min.**
 
 ##### r. 11/17
-- [ ] Read 30 min between classes
-- [ ] Read 30 min after work
+- [ ] Read between classes **30 min.**
+- [ ] Read after work **30 min.**
 
 ##### f. 11/18
-- [ ] Read 30 min after school
-- [ ] Read 30 min late afternoon
-- [ ] Read 30 min early evening
-- [ ] Begin prezi before bed
+- [ ] Read after school **30 min.**
+- [ ] Read late afternoon **30 min.**
+- [ ] Read early evening **30 min.**
+- [ ] Begin prezi before bed **30 min.**
 
 ##### s. 11/19
-- [ ] Read 30 min after work
-- [ ] Read 30 min  late afternoon
-- [ ] Work on Prezi before bed
+- [ ] Read after work **30 min.**
+- [ ] Read late afternoon **30 min.**
+- [ ] Work on Prezi before bed **30 min.**
 ##### su. 11/20
-- [ ] Read 30 min before work
-- [ ] Read 30 min after work
-- [ ] Work on Prezi before bed
+- [ ] Read before work **30 min.**
+- [ ] Read after work **30 min.**
+- [ ] Work on Prezi before bed **30 min.**
 
 ##### m. 11/21
-- [ ] Finish up prezi after class and before work
-- [ ] Play with Camtasia and Jing after work
+- [ ] Finish up prezi after class and before work **30 min.**
+- [ ] Play with Camtasia and Jing after work **30 min.**
 
 ##### t. 11/22
-- [ ] Finish prezi between classes
-- [ ] Play with Icecream Screen Reader after work
+- [ ] Finish prezi between classes **1 hr.**
+- [ ] Play with Icecream Screen Reader after work **30 min.**
 
 ##### w. 11/23
-- [ ] Finish Prezi before work
-- [ ] Begin recording with favored program  (Camtasia, Icecream Screen Reader, or Jing)
+- [ ] Finish Prezi before work **30 min.**
+- [ ] Begin recording with favored program after work (Camtasia, Icecream Screen Reader, or Jing) **1 hr.**
 
 ##### r. 11/24
 - [ ] Thanksgiving
-- [ ]  Record with prezi after dinner
+- [ ]  Record with prezi after dinner **1-2 hrs.**
 
 ##### f. 11/25
-- [ ] Record with prezi after work
+- [ ] Record with prezi after work **30 min.**
 
 ##### s. 11/26
-- [ ] Finish Recording
+- [ ] Finish Recording **1 hr.**
 
 ##### su. 11/27
-- [ ] Finish up anything else that needs to be done
+- [ ] Finish up anything else that needs to be done **1 hr.**
 
 ##### m. 11/28
 - [ ] Review due
