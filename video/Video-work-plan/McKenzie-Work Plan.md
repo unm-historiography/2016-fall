@@ -15,54 +15,54 @@ I'd like to devote about an hour a day to this book, in order to finish it by Su
 
 ###Goal: Finish by Sunday, November 20
 
-##### w. 11/16
+####w. 11/16
 - [ ] Read after school **30 min.**
 - [ ] Read after work **30 min.**
 
-##### r. 11/17
+####r. 11/17
 - [ ] Read between classes **30 min.**
 - [ ] Read after work **30 min.**
 
-##### f. 11/18
+####f. 11/18
 - [ ] Read after school **30 min.**
 - [ ] Read late afternoon **30 min.**
 - [ ] Read early evening **30 min.**
 - [ ] Begin prezi before bed **30 min.**
 
-##### s. 11/19
+####s. 11/19
 - [ ] Read after work **30 min.**
 - [ ] Read late afternoon **30 min.**
 - [ ] Work on Prezi before bed **30 min.**
 
-##### su. 11/20
+####su. 11/20
 - [ ] Read before work **30 min.**
 - [ ] Read after work **30 min.**
 - [ ] Work on Prezi before bed **30 min.**
 
-##### m. 11/21
+####m. 11/21
 - [ ] Finish up prezi after class and before work **30 min.**
 - [ ] Play with Camtasia and Jing after work **30 min.**
 
-##### t. 11/22
+####t. 11/22
 - [ ] Finish prezi between classes **1 hr.**
 - [ ] Play with Icecream Screen Reader after work **30 min.**
 
-##### w. 11/23
+####w. 11/23
 - [ ] Finish Prezi before work **30 min.**
 - [ ] Begin recording with favored program after work (Camtasia, Icecream Screen Reader, or Jing) **1 hr.**
 
-##### r. 11/24
+####r. 11/24
 - [ ] Thanksgiving
 - [ ]  Record with prezi after dinner **1-2 hrs.**
 
-##### f. 11/25
+####f. 11/25
 - [ ] Record with prezi after work **30 min.**
 
-##### s. 11/26
+####s. 11/26
 - [ ] Finish Recording **1 hr.**
 
-##### su. 11/27
+####su. 11/27
 - [ ] Finish up anything else that needs to be done **1 hr.**
 
-##### m. 11/28
+####m. 11/28
 - [ ] Review due
