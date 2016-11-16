@@ -17,7 +17,7 @@ I'd like to devote about an hour a day to this book, in order to finish it by Su
 ###Goal: Finish by Sunday, November 20
 
 ####w. 11/16
-- [ ] Read after school **30 min.**
+- [ ]  Read after school **30 min.**
 - [ ] Read after work **30 min.**
 
 ####r. 11/17
