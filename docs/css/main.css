@@ -67,7 +67,7 @@ h3 {
   font-family: 'Roboto Condensed', sans-serif;
   font-weight: 300;
   text-transform: uppercase;
-  color:#666;
+  color:#000;
   font-size: 1.4em;
   margin: 1em 0 .2em 0;
 }
@@ -78,7 +78,7 @@ h4 {
 
 
 h5 {
-  color:#bbb;
+  color:#666;
   font-size:1em;
 }
 
