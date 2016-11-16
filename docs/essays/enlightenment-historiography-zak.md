@@ -3,6 +3,7 @@ layout: default
 title: The Enlightment Dudes | Enlightenment & Historiography
 date: 2016-11-08 00:00:00
 ---
+
 #The Enlightenment
 
 ## Enlightened History
