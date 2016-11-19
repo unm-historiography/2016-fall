@@ -57,3 +57,13 @@ With these pillars of history being raised, we can finally get to the scholarshi
 
 ##Modern Historiography: Methods and Terms 
 
+###Primary Sources
+
+Donald R. Kelly, *Faces of History*
+
+Murray G. Murphy, *Truth & History*
+
+Oscar Handlin, *Truth in History*
+
+Henri Marrou, *The Meaning of History*
+
