@@ -36,7 +36,7 @@ It can be said that Roman rhetoric had a major influence on the Renaissance area
  
 ###Cicero
  
-Kelly tells us the "first law" (Kelly, pg. 66) is to tell the truth no matter what. Cicero was another major Roman historian. He stated, “that an author must not dare to tell anything but the truth” (Kelly, pg. 66) because that was the job of the historian. Cicero along with Caesar gave very powerful speeches to the people. In some cases Caesar would put fear in the people of Rome, but Cicero would take every change to put the people at ease. Frank Marsh the author of The Founding of the Roman Empire stated about Cicero, “The powerful speech of Cicero may have done something to make compliance easier for some” (Marsh, pg.71). This shows just how great of speaker Cicero was to the people. He also used his words to take fear away from people and help out with law to be passed.
+Kelly tells us the "first law" (Kelly, pg. 66) is to tell the truth no matter what. Cicero was another major Roman historian. He stated, “that an author must not dare to tell anything but the truth” (Kelly, pg. 66) because that was the job of the historian. Cicero along with Caesar gave very powerful speeches to the people. In some cases Caesar would put fear in the people of Rome, but Cicero would take every change to put the people at ease. Frank Marsh the author of The Founding of the Roman Empire stated about Cicero, “The powerful speech of Cicero may have done something to make compliance easier for some” (Marsh, pg.71). This shows just how great of speaker Cicero was to the people. He also used his words to take fear away from people and help out with laws to be passed.
 
 ###Tacitus
 
