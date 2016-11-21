@@ -27,5 +27,6 @@ cares and troubles of the world in which our past has ensnared us.</i><br><br>
 &ensp;&ensp;Cronon, WIlliam. The Trouble with the Wilderness. Page 16.<br><br>
 
 This about sums it up. Studying nature like this is a lot like studying history. You know, because nature is this objective place. And once we humans are there, it becomes subjective. To the extreme. But even so, we are apart of nature. Or at least
-I think we are. The truth is we might be aliens, but isn't space just nature, <i>too</i>?
+I think we are. The truth is we might be aliens, but isn't space just nature, <i>too</i>? Man, this is what makes a golf course
+a crazy place. There is an extreme lack of bio diversity. There is nature, but it's maintained and well kept. It is a place where you can go be safe in nature, and still feel like, somehow, that the grass just grows that way. The grass doesn’t grow that way. But it should! There is just one kind of rabbit, one kind of bird, and the fear element is completely removed from the eco system. What happens when we remove fear from an ecosystem? What happens when the rabbit has no reason to be afraid? What happens when the rabbit has everything it needs? Existential boredom. I think you’re right.  
  
