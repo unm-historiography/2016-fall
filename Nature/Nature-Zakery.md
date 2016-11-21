@@ -10,3 +10,20 @@ And at the end of the day, it doesn’t really matter if anything of these thing
 Gah, don't you just love this stuff. This whole blurring of lines between culture, progress, tradition, modernity. This is liquid modernity people!! – “If civilization was to be redeemed, it would be by men like the Virginian who could retain their frontier virtues even as they made the transition to post-frontier life” (14). We now enter a state of mind where we feel the need to have
 all of the ideals exists together. The dichotomy. <br><br>
 I think this was supposed to be 200 words. Jokes.<br><br>
+>> <i>It is entirely a creation of the culture that holds it dear, a product of the very history it seeks to deny.
+Indeed, one of the most striking proofs of the cultural invention of wilderness is its
+thoroughgoing erasure of the history from which it sprang. In virtually all of its mani-
+festations, wilderness represents a flight from history. Seen as the original garden, it is
+a place outside of time, from which human beings had to be ejected before the fallen
+world of history could properly begin. Seen as the frontier, it is a savage world at the
+dawn of civilization, whose transformation represents the very beginning of the na-
+tional historical epic. Seen as the bold landscape of frontier heroism, it is the place of
+youth and childhood, into which men escape by abandoning their pasts and entering
+a world of freedom where the constraints of civilization fade into memory. Seen as
+the sacred sublime, it is the home of a God who transcends history by standing as the
+One who remains untouched and unchanged by time's arrow. No matter what the
+angle from which we regard it, wilderness offers us the illusion that we can escape the
+cares and troubles of the world in which our past has ensnared us.</i><br><br>
+&ensp;&ensp;Cronon, WIlliam. The Trouble with the Wilderness. Page 16.<br><br>
+
+ 
