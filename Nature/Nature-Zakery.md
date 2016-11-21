@@ -26,5 +26,6 @@ angle from which we regard it, wilderness offers us the illusion that we can esc
 cares and troubles of the world in which our past has ensnared us.</i><br><br>
 &ensp;&ensp;Cronon, WIlliam. The Trouble with the Wilderness. Page 16.<br><br>
 
-This about sums it up. Studying nature like this is a lot like studying history. You know, because nature is this objective place. And once we humans are there, it becomes subjective. To the extreme. 
+This about sums it up. Studying nature like this is a lot like studying history. You know, because nature is this objective place. And once we humans are there, it becomes subjective. To the extreme. But even so, we are apart of nature. Or at least
+I think we are. The truth is we might be aliens, but isn't space just nature, <i?too</i>?
  
