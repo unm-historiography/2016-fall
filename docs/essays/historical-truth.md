@@ -31,6 +31,7 @@ The ancient Romans continued our journey to truth, by solidifying the belief of 
 5. All the above must be done in a smooth narrative
 
 (Kelly, 66)
+
 Also, according to the Roman Quintilian, history was the third of three different forms of narrative, the other two being fiction and realism. This historical narrative, "which is an exposition of actual fact" according to Quintilian, has its formal institutional beginnings in ancient Rome. (Kelly, 67) If a historian didn't adequately have a formal structure that emphasized truth, then they were criticized by their contemporaries. Livy, a Roman historian famed for his rhetoric, was not considered true enough for Quintilian, because "Livy for instance is frequently in doubt as to what actually occurred". (Kelly, 68) In ancient Rome we have our first instance of the "practice of historical criticism and exposure of muth, usually associated with philology and pure scholarship", because of the Romans' belief in the power and role of rhetoric and truth in historical writing. (Kelly, 68) However, Truth had not yet become the center of historiograhpy, because in ancient Rome it was that "truth remained a formal requirement... but effective communication to a sophisticated readership was the dominant consideration (rhetoric)". (Kelly, 69) With the ancient Romans we have the beginning of a formal institution of truth within Historiography, and the formal requirements regarding historical writing. 
 
 ### Middle Ages: Christians and Barbarians
