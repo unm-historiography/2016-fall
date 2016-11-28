@@ -10,7 +10,7 @@
 
 [Madi Whitacre](https://youtu.be/aj5frL3bsGI)
 
-[Tiersa Cimino](https://www.youtube.com/watch?v=Eo6nJgQWrMM)
+[Jonathan Cox](https://www.youtube.com/watch?v=RnmKVdmaIY4)
 
 [your name, linked to your video, goes here] Edit this file directly!
 
