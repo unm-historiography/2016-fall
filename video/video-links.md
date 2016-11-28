@@ -19,6 +19,8 @@
 
 [Jamie Fowler-Diaz](https://youtu.be/QmJdQFBw0qA)
 
+[Alison Atencio](http://youtu.be/YV6ZxDvZ3s4?hd=1) Rough Draft
+
 [your name, linked to your video, goes here] Edit this file directly!
 
 PS: If you get more views than Wurtz by the end of the semester, you get an automatic A for the course. Note that his techniques are not technically sophisticated (all are standard tools in free editing software we've discussed); but it's obviously highly creative, educational, and entertaining. Your final videos may not be as clever, but it's nice to have something to aim for.
