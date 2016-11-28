@@ -1,5 +1,4 @@
 # Video Links
-
 [Bill Wurtz](https://www.youtube.com/watch?v=Mh5LY4Mz15o)
 
 [Fred Gibbs](https://vimeo.com/94459223)
@@ -13,6 +12,8 @@
 [Jonathan Cox](https://www.youtube.com/watch?v=RnmKVdmaIY4)
 
 [Kyle Chicharello] (https://www.youtube.com/watch?v=5N6NXUH8rGw)
+
+[McKenzie M.](https://drive.google.com/file/d/0BykVmrnOookyRlQ1ZzQyVmdpVHM/view)
 
 [your name, linked to your video, goes here] Edit this file directly!
 
