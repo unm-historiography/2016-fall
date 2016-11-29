@@ -23,6 +23,8 @@
 
 [Mara Anderson](https://www.youtube.com/watch?v=8sBvRNjW8hc) 
 
+[Rob Collins](https://youtu.be/km4wSNTb990) Rough draft
+
 [your name, linked to your video, goes here] Edit this file directly!
 
 PS: If you get more views than Wurtz by the end of the semester, you get an automatic A for the course. Note that his techniques are not technically sophisticated (all are standard tools in free editing software we've discussed); but it's obviously highly creative, educational, and entertaining. Your final videos may not be as clever, but it's nice to have something to aim for.
