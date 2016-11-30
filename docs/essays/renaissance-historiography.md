@@ -3,9 +3,9 @@ layout: default
 title: Renaissance Historiography
 date: 2016-11-08 00:00:00
 ---
-#Renaissance Historiography:  
+# Renaissance Historiography:  
 
-##How Historical Practice Changed Through the Renaissance
+## How Historical Practice Changed Through the Renaissance
  
 Renaissance scholars began to develop a humanistic approach to historiography, and historical events began to be thought of in a more secular context.  However, despite this progress, history was influenced by traditional approaches.  Although humanism was an important part of historical writing during the Renaissance, many scholars were still influenced heavily by religion, and this influence is apparent in their works.  The form of the chronicle, which was so widely used in the Middle Ages, continued to be an important historical tool in the Renaissance.  The idea of critical thinking in regards to historical sources further developed during the Renaissance; however, the methodology and traditional ways of thinking about the structure of history were not viewed critically yet.
 
