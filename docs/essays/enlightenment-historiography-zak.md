@@ -45,10 +45,10 @@ The Enlightenment ends with Ranke. [Leopold Ranke](http://www.umass.edu/wsp/hist
 
 
 ### ________________________________________<br><a name="bottom"></a>
-<Sup>1</Sup> Donald R. Kelley, _Faces of History: from Herodotus to Herder_ [(Yale, 1998)](http://www.jstor.org.libproxy.unm.edu/stable/j.ctt32bs9h), 224.<br>
-<Sup>2</Sup> Antonio Perez-Ramos, _Francis Bacon's Idea of Science and the Maker's Knowledge Tradition_ (Oxford, 1988).<br>
+<Sup>1</Sup> Donald R. Kelley, _[Faces of History: from Herodotus to Herder](http://www.jstor.org.libproxy.unm.edu/stable/j.ctt32bs9h)_ (Yale, 1998), 224.<br>
+<Sup>2</Sup> Antonio Perez-Ramos, _[Francis Bacon's Idea of Science and the Maker's Knowledge Tradition](http://www.worldcat.org/title/francis-bacons-idea-of-science-and-the-makers-knowledge-tradition/oclc/610269096)_ (Oxford, 1988).<br>
 <Sup>3</Sup> Donald R. Kelley, _[Faces of History](http://www.jstor.org.libproxy.unm.edu/stable/j.ctt32bs9h)_, 223.<br>
-<sup>4</sup> Edward Gibbon, _The History of the Decline and Fall of the Roman Empire_ [(New York, 1836)](https://www.gutenberg.org/files/731/731-h/731-h.htm#link2HCH0001) 1.<br>
-<sup>5</sup> Adam Ferguson, _An Essay on the History of Civil Society_ 5th ed. [(London: T. Cadell, 1782)](http://oll.libertyfund.org/titles/1428#Ferguson_1229_8).<br>
+<sup>4</sup> Edward Gibbon, _[The History of the Decline and Fall of the Roman Empire](https://www.gutenberg.org/files/731/731-h/731-h.htm#link2HCH0001)_ (New York, 1836), 1.<br>
+<sup>5</sup> Adam Ferguson, _[An Essay on the History of Civil Society](http://oll.libertyfund.org/titles/1428#Ferguson_1229_8)_ 5th ed. (London: T. Cadell, 1782).<br>
 <sup>6</sup> [Ibid.](http://oll.libertyfund.org/titles/1428#lf1229_label_073)<br>
 <sup>7</sup> Johann Gottfried Herder, _Outlines of a Philosophy of the History of Man_ (London, 1803), 235.
