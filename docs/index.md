@@ -40,6 +40,14 @@ date: 2015-09-18 00:00:00
   </div>
 
 
+  <div class="row home-bar">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+      <h1 class="homeheading">The Romans</h1>
+      <h2 class="homeheading">The Model for the Ages</h2>
+      <p class="text-justify">This is looking at the Romans and the historians that helped shaped the path for the many areas that followed. Looking at Livy, Cicero, and Tacitus and their methods and why they are important to history.</p> 
+    </div>
+  </div>
+
 <div class="row home-bar">
   <div class="col-sm-8 col-sm-offset-2 text-center">
     <h1 class="homeheading">Providential History</h1>
@@ -52,7 +60,7 @@ date: 2015-09-18 00:00:00
 
 <div class="row home-bar">
   <div class="col-sm-8 col-sm-offset-2 text-center">
-    <h1 class="homeheading">                                                 A Supernatural History</h1>
+    <h1 class="homeheading">A Supernatural History</h1>
     <h2 class="homeheading">How People Wrote History When God Was In Control</h2>
     <p class="text-justify">Myth is defined by having components of the supernatural world. From this jumping off point we see many varieties in myth. My main focus is that of the Judeo-Christian Myths as they affect how the Jews and Christians told history based on the Myths They Believed. Since Jews and Christians believed that God was the supreme creator and master of the universe and therefore history, they wrote with him included in the picture.</p> 
   </div>
@@ -77,6 +85,37 @@ date: 2015-09-18 00:00:00
     </div>
   </div>
 
+<div class="row home-bar">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+      <h1 class="homeheading">Enlightenment History</h1>
+      <h2 class="homeheading">The Narrative and Dialogue of Historiography During the Enlightenment</h2>
+      <p class="text-justify">The Enlightenment witnessed thinkers who used reason to critique the established structures of society. This criticism was also applied to the study of history. History of the Enlightenment cannot be understood without a fundamental understanding of philosophical concepts of the time. In this article Enlightenment thought and its effect on the study of history are examined.</p> 
+    </div>
+  </div>
+
+  <div class="row home-bar">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+      <h1 class="homeheading">Scientific History</h1>
+      <h2 class="homeheading">A clever, but not too cute subtitle goes here</h2>
+      <p class="text-justify">The Enlightenment witnessed thinkers who used reason to critique the established structures of society. This criticism was also applied to the study of history. History of the Enlightenment cannot be understood without a fundamental understanding of philosophical concepts of the time. In this article Enlightenment thought and its effect on the study of history are examined.</p> 
+    </div>
+  </div>
+
+<div class="row home-bar">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+      <h1 class="homeheading">Historical Methods and Truth</h1>
+      <h2 class="homeheading">Defining Truth: From Antiquity to the Enlightenment</h2>
+      <p class="text-justify">From the scrolls of ancient Greece to the jargon packed books of the modern academic historian, historians have searched for “true histories”. In studying what constitutes history, we must focus on some themes that belong to what we call today historiography. Historiography focuses on these themes that form this modern academic discipline: Source criticism, fact vs. truth, impartiality, scholarship, critical understanding, and secularism. From ancient times to the modern day, what constitutes the “truth” has changed significantly, and historians have been critical to that change.</p> 
+    </div>
+  </div>
+
+<div class="row home-bar">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+      <h1 class="homeheading">Histories for Everyone</h1>
+      <h2 class="homeheading">The Varied and Deep Tradition of Universal History</h2>
+      <p class="text-justify">Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars, the local and the singular, to form a narrative which applies to all the world’s peoples. It is important to note two words there; the attempt and the transcendence. Universal histories seek to escape the particulars of the society which creates them, to transcend the particulars and spread a larger message. This attempt to create a universal history is impossible. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that can never be utterly “correct”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis. I urge the reader, as an aside, to contrast the modern historical field with the varied and deep traditions of the past, and see how the ancients created rich, flawed, and fascinating narratives which sought to expand their horizons.</p> 
+    </div>
+  </div>
 
 
 </div>
