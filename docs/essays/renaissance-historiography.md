@@ -3,7 +3,7 @@ layout: default
 title: Renaissance Historiography
 date: 2016-11-08 00:00:00
 ---
-# Renaissance Historiography:  
+# Renaissance Historiography 
 
 ## How Historical Practice Changed Through the Renaissance
  
