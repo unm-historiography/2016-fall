@@ -3,7 +3,7 @@ layout: default
 title: Reforming History
 date: 2016-11-08 00:00:00
 ---
-# Reforming History: 
+# Reforming History 
 
 ## How the Reformation Altered the Purpose and Goal of History 
 
