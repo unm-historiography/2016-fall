@@ -3,8 +3,9 @@ layout: default
 title: Reforming History
 date: 2016-11-08 00:00:00
 ---
-# Reforming History<BR>
-### The Impact of the Reformation of the Broader Profession of History<BR>
+# Reforming History
+
+### The Impact of the Reformation of the Broader Profession of History
 This chapter aims to highlight the key themes and people of the reformation, as well as show how these themes and the profession of history itself differs from previous eras and impacts the subsequent. An appropriate place to start any story is to begin with the origins and agendas, move onto the actual period and finally end with how history was regarded along with the duality of history in the Reformation. 
 
 ### Origins and Agendas in the Reformation and Their Impact
