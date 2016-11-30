@@ -51,4 +51,4 @@ The Enlightenment ends with Ranke. [Leopold Ranke](http://www.umass.edu/wsp/hist
 <sup>4</sup> Edward Gibbon, _[The History of the Decline and Fall of the Roman Empire](https://www.gutenberg.org/files/731/731-h/731-h.htm#link2HCH0001)_ (New York, 1836), 1.<br>
 <sup>5</sup> Adam Ferguson, _[An Essay on the History of Civil Society](http://oll.libertyfund.org/titles/1428#Ferguson_1229_8)_ 5th ed. (London: T. Cadell, 1782).<br>
 <sup>6</sup> [Ibid.](http://oll.libertyfund.org/titles/1428#lf1229_label_073)<br>
-<sup>7</sup> Johann Gottfried Herder, _Outlines of a Philosophy of the History of Man_ (London, 1803), 235.
+<sup>7</sup> Johann Gottfried Herder, _[Outlines of a Philosophy of the History of Man](https://archive.org/details/outlinesaphilos00churgoog)_ (New York, 1800), 235.
