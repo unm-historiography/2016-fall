@@ -43,8 +43,8 @@ Again, the universality of this kind of history is prominent, and the deeper tru
 ### What Actually Happened
 The Enlightenment ends with Ranke. [Leopold Ranke](http://www.umass.edu/wsp/history/ranke/) was a German historian, and a German historian he was. He grew up studying history and went on to lecture. Because of his religious background, his texts are highly influenced by his religious beliefs. His influence was so vast, it is easy to start history with Ranke’s name. It is easy to recognize and understand his thought processes because it is still an attractive way of doing history. He is known for his popular phrase – better said in German: <b><i>“Wie es eigentlich gewesen”.</b></i> Ranke’s ultimate goal was to stay objective as possible. And although he tries, his texts often contain sanctity.
 
-####Bibliography
-<b>________________________________________</b><br>
+
+###________________________________________<br>
 <Sup>1</Sup> Donald R. Kelley, _Faces of History: from Herodotus to Herder_ (Yale, 1998), 224.<br>
 <Sup>2</Sup> Antonio Perez-Ramos, _Francis Bacon's Idea of Science and the Maker's Knowledge Tradition_ (Oxford, 1988).<br>
 <Sup>3</Sup> Donald R. Kelley, _Faces of History_, 223.<br>
