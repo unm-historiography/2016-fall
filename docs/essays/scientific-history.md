@@ -10,7 +10,7 @@ date: 2016-11-19 00:00:00
 
 # Scientific History
 
-## Subtitle goes here
+## Approaching A New Genre of History
 
 
 ### Introduction
