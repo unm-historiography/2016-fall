@@ -22,9 +22,16 @@ date: 2015-09-18 00:00:00
   </div>
 
 
+<div class="row home-bar">
+    <div class="col-sm-8 col-sm-offset-2 text-center">
+      <h1 class="homeheading">Myth and History</h1>
+      <h2 class="homeheading">How History Emerged from Myth</h2>
+      <p class="text-justify">According to Kelley, history emerged from myth, and forced itself into stories and legends until it gained full insight (Kelley, p. 1). But when exactly did this happen? Was it during the time of Machiavelli, the well-known Italian Renaissance historian? Or Voltaire, the famous writer and historian during the French Enlightenment era? Or is it still gaining understanding in the current century? This question will probably never attain a definite answer. As long as there are people around to record it, the subject of history will forever be changing and gaining wisdom and knowledge by those studying it (Kelley, p. 1).</p> 
+    </div>
+  </div>
+
 
   <div class="row home-bar">
-  
     <div class="col-sm-8 col-sm-offset-2 text-center">
       <h1 class="homeheading">Clash of the Titans</h1>
       <h2 class="homeheading">Herodotus, Thucydides, and the Foundation of Historical Methodology</h2>
