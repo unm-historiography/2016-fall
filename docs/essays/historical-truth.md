@@ -81,13 +81,13 @@ With these pillars of history being raised, we can finally get to the **scholars
 
 ### Primary Sources
 
-Donald R. Kelly, *Faces of History*
+Donald R. Kelly, [*Faces of History: From Herodotus to Herder*](http://www.jstor.org/stable/j.ctt32bs9h) Yale University Press, 1998.
 
-Murray G. Murphy, *Truth & History*
+Murray G. Murphy, [*Truth and History*](https://books.google.com/books?id=Yf8knBTiaqQC&pg=PA215&lpg=PA215&dq=truth+and+history+by+murphey&source=bl&ots=IUNLMf1M48&sig=1AT5piLBSj4sx3jBCE845GTViZY&hl=en&sa=X&ved=0ahUKEwjglPX0odLQAhVm2IMKHRFbDbMQ6AEIOTAF#v=onepage&q&f=false) SUNY Press, 2008.
 
-Oscar Handlin, *Truth in History*
+Oscar Handlin, [*Truth in History*](https://books.google.com/books?id=Kv84RCD-aboC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false Cambridge, MA: Belknap of Harvard UP, 1981.) Cambridge, MA: Belknap of Harvard UP, 1981.
 
-Henri Marrou, *The Meaning of History*
+Henri Marrou, [*The Meaning of History*](https://books.google.com/books/about/The_Meaning_of_History.html?id=UZZmAAAAMAAJ) Baltimore, MD: Helicon Press, 1966.
 
 
 [You utilize an inordinate amount of quotes when summerizing some of these may suffice. While quotes are more "truthful", it inflates word count and hurts readability. I tried to fix grammatical errors and questionable word decisions, as I saw them; feel free to disagree if something is less clear. Additionally, you need to finish the essay, and I see *zero* reference to outside sources from Kelly.
