@@ -107,6 +107,15 @@ footer {
 
 a {
   color: #337ab7;
+  color: #9a4031;
+}
+
+a:visitd {
+ color: #9a4031; 
+}
+
+a:hover {
+ color: #9a4031;  
 }
 
 li {
