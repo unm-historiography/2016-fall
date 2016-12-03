@@ -1,16 +1,67 @@
 ---
 layout: default
 title: Introduction to Historiography on the Web
-date: 2016-11-08 00:00:00
+date: 2016-12-02 00:00:00
 ---
 
-Please review Markdown [basic writing and formatting syntax](https://help.github.com/articles/basic-writing-and-formatting-syntax/).
+# An Introduction to Premodern Historiography
 
-# Title
+## A preliminary guide to continuities and ruptures
 
-## Subtitle
+<p class="abstract">
+This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
+</p>
+
+You should make your abstract look like this, too! Below is the snippet of code that will do that. It's not Markdown, but plain HTML. You can copy and paste this into your essay, and then paste in your actual abstract. Do not include references in your abstract.
+
+```
+<p class="abstract">
+This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
+</p>
+```
+
+{% include figure.html class="img-right" src="Historiography.png" caption="This is a deliberatley contrived very long caption, in case you care to make informative or witty comments about your images. But isn't it annoying when they don't say what the image is?"%} 
+
+Despite the importance of historiography for modern consumers of history, it can often seem a intimidating subject with a high barrier to entry. The essays collected here take both a chronological and thematic approach to highlighting important developments, shifts, inflection points, continuities, and ruptures in the way people have conceived and produced historical interpretations of the western world. Its chronological scope is roughly Greek antiquity through the European Enlightenment; each essay focuses on a particular time period, but shows reaches both forward and backward in time to better situate and explain historiographical developments.
+
+Two of our guiding questions have been: **Who is history for?** and **What is history for?** These essays show through careful synthesis of secondary sources and copius references to primary sources how this question can and perhaps should be answered at various periods throughout history. They emphasize the forest rather than the trees. Each essay provides a bibliography for further reading on its topic.
+
+-----
+
+For now, this page will also serve as a last-minute writing guide---things to review and improve before the end of finals week, which is the latest possible deadline I can give you.
+
+### Things to check for:
+- Meaningful headings
+- Do not use **bold** in your headings; use an appropriate heading level (as shown below). Let me know if you need some other kind of heading! 
+- Informative first sentences that have a clear progression through the essay
+- Consistent use of bold and italics, both throughout your essay and roughly compared to other essays. Don't use either too often, or it negates the effect of highlighting something. Do not use either for references; leave those as plain text.
+
+You may have noticed this page has an image. You, too, can insert images into your post by copying and pasting the below snippet into your Markdown code just before the paragraph in which you'd like the image to appear. The below code is exactly what's used to inlay the above image. Obviously, you'll need to change the filename to that of your image. We'll talk about uploading images next week.
+
+<code>{% raw %}{% include figure.html class="img-right" src="Historiography.png" %}{% endraw %}</code>
+
+<p class="has-pullquote" data-pullquote="This is a sample pullquote that shows off your research or insight."></p>
+
+We can now add and stylize pull quotes, whether from one of your primary sources or yourself. They aren't quite as visually effective when they are super long, but hopefully they can help indicate to readers one of the main ideas you are trying to communicate. The way you can create these is shown below. You can copy and paste this into your Markdown files, and change the quote.
+
+
+```
+<p class="has-pullquote" data-pullquote="This is a sample pullquote. Copy the code to make your quotes stand out like this."></p>
+```
+
+For your reference, all the headings styles are demonstrated below. Remember that you must have a space between the ### and the actual heading!
+
+So,
+
+```
+### Title 3
+```
+
+will produce:
 
 ### Title 3
+
+and the other common styles render as follows:
 
 #### Title 4
 
@@ -23,3 +74,4 @@ Please review Markdown [basic writing and formatting syntax](https://help.github
   - put two spaces in front of your dash to sub-indent
 - item 3
 
+If you can't find what you need on this page, please consult the Markdown [basic writing and formatting guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/).

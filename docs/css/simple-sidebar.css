@@ -30,7 +30,7 @@
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #ccc;
+    background: #b16253;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
@@ -59,7 +59,7 @@
     top: 0;
     width: 250px;
     margin: 0;
-    padding: 0;
+    padding: 0 0em 0 0;
     list-style: none;
 }
 
@@ -71,23 +71,27 @@
     display: block;
     text-decoration: none;
     color: #666;
+    color:#e0e0e0;
     padding:6px;
 }
 
 .sidebar-nav h1 {
-    font-size:100%;
-    margin-bottom:.1em;
+    font-size:110%;
+  font-family: 'Roboto Condensed', sans-serif;
+    margin:1em 0 .2em 0;
 }
 
 .sidebar-nav h2 {
     font-size:70%;
-    margin-right: 2em;
+      font-family: 'Open Sans', sans-serif;
+    letter-spacing: 150%;
+    padding-right: 1em;
 }
 
 
 .sidebar-nav li a:hover {
     text-decoration: none;
-    color: #000;
+    color: #333;
     background: rgba(255,255,255,.6);
 }
 
@@ -106,6 +110,7 @@
 
 .sidebar-nav > .sidebar-brand a {
     color: #999999;
+    color:#eee;
 }
 
 .sidebar-nav > .sidebar-brand a:hover {

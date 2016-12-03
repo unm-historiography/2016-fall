@@ -23,9 +23,11 @@ h1, h2, h3, h4, h5 {
 }
 
 h1 {
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
-  margin: 1.5em 0 .75em 0;
-  font-size: 1.8em;  
+  margin: 1.5em 0 .2em 0;
+  font-size: 2em;
+  text-align: center;  
 }
 
 h1.homeheading {
@@ -38,7 +40,6 @@ h1.homeheading {
 }
 
 h1.title {
-  
   font-size: 2em;
   font-weight: 700;
   color:#fefefe;
@@ -61,6 +62,7 @@ h2 {
   font-size: 1.4em;
   line-height: 120%;
   margin: 0em 0 1em 0;
+  text-align: center;
 }
 
 h3 {
@@ -88,6 +90,13 @@ hr {
   margin-bottom: 2em;
 }
 
+p.abstract {
+  border:1px solid gray;
+  background-color: #e5d3bb;
+  padding:2em;
+  font-size: 90%;
+}
+
 footer {
   margin-top:2em;
   padding: 2em;
@@ -97,21 +106,62 @@ footer {
 }
 
 a {
-  color: #e10000;
+  color: #337ab7;
 }
-
-
-
 
 li {
 margin-bottom:.4em;
-font-size:1rem;  
 }
 
 li ul li {
   color:#666666;
   list-style: none;
   margin-bottom:1em;
+}
+
+.has-pullquote:before {
+  /* Reset metrics. */
+  padding: 0em;
+  border: 0px solid #ccc;
+  
+  /* Content */
+  content: attr(data-pullquote);
+  
+  /* Pull out to the right, modular scale based margins. */
+  float: right;
+  width: 20em;
+  margin: 1em 0 1em 2em;
+  
+  /* Baseline correction */
+  position: relative;
+  top: 5px;
+  
+  /* Typography (30px line-height equals 25% incremental leading) */
+  font-family: Roboto;
+  font-size: 120%;
+  line-height: 130%;
+  text-align: justify;
+}
+
+.img-right {
+  float:right;
+  clear:none;
+  margin:none;
+  /* no bottom padding; handled with caption */
+  padding:0 0px 0px 18px;
+}
+
+
+figcaption.img-right {
+  font-size: 80%;
+  color:#666;
+  text-align: right;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+  margin:.2em 0 .2em 0;
+  clear:both;
+  width: 250px;
+  line-height: 1.2em;
 }
 
 
