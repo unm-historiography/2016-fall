@@ -7,9 +7,9 @@ date: 2016-11-08 00:00:00
 
 ## How Historical Practice Changed Through the Renaissance
  
-#### Abstract
+<p class="abstract">
 Renaissance scholars began to develop a humanistic approach to historiography, and historical events began to be thought of in a more secular context.  However, despite this progress, history was influenced by traditional approaches.  Although humanism was an important part of historical writing during the Renaissance, many scholars were still influenced heavily by religion, and this influence is apparent in their works.  The form of the chronicle, which was so widely used in the Middle Ages, continued to be an important historical tool in the Renaissance.  The idea of critical thinking in regards to historical sources further developed during the Renaissance; however, the methodology and traditional ways of thinking about the structure of history were not viewed critically yet.
-
+</p>
 
 ### Humanism
 A humanistic approach to history began to develop during the Renaissance.  Humanism is a way of thinking that focuses on tangible human causes and influences in the world, rather than addressing God or the divine.  Up until this point the primary approach to history had been religious.  Individual events in history were important only in that they were part of the larger plan for humanity set out by God.  With humanism the approach to history began to change as scholars studied individual events and people in a more secular context.  This shift in focus changes the purpose of writing history.  The purpose of Medieval historical writing was often to describe or understand the progression of time in terms of Christian theology, an attempt to better understand the divine.  With the development of humanism, the purpose of writing history began to change, “the pragmatic purpose … differed from that of the theological historians by its emphasis on practical ethical and moral problems rather than on examples of divine intervention in human affairs.” **(Ferguson 5)**.  While there begins to be a shift in the way history was approached due to humanism, the early humanist historians still linked their view of history with their religious views.
