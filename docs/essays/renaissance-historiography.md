@@ -42,7 +42,7 @@ Guicciardini paid close attention to these individuals as he created his narrati
 
 ### Cultural History
 Although much of historical writing in the Renaissance focused on political and military history in the Thucydidean tradition, there were also several developments in the realm of cultural history.  Far more cultures were being included in the western historiographical canon.  Among these groups that had not previously been part of the western historical scope were the Jews, Babylonians, Indians, Persians, Egyptians, and Chinese.  Up to this point, the intellectualism of antiquity had been the ideal, but in the Renaissance the idea of historical ‘progress’ began to emerge.  Scholars believed that reason and intellectualism were present in the Modern era, and this belief helped to expand the study of cultural history.
-<p class="has-pullquote" data-pullquote="“the Moderns had to follow their own lines of inquiry and thought.” **(Kelley 156)**."></p> 
+<p class="has-pullquote" data-pullquote="the Moderns had to follow their own lines of inquiry and thought. (Kelley 156)."></p> 
 Rather than focusing only on subjects and eras that tied to Rome, the study of history was expanded to include these cultures that had not traditionally been part of historical thought.
 
 
