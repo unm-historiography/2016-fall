@@ -53,7 +53,7 @@ Vergil’s historical works helped to develop the expanding field of cultural hi
 The way history was viewed was also impacted by the discovery of the new world.  This discovery of an entire hemisphere that had been previously unknown and its native inhabitants was disruptive to the classic approach to history.  How did this new land with its new people fit into the classic European story of [translation of empire](https://en.wikipedia.org/wiki/Translatio_imperii) and the [four monarchies](https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel).  The new world was written about within the context of Spanish Renaissance Historiography.  Historical accounts of the new world were influenced by traditions of chronicles, universal histories, and myth as well as emerging approaches such as humanism and historical criticism.  The narrative of the new world became the story of the expansion of European power and empire, with American natives represented as barbarians and Europe represented as the new Rome. 
 
 #### Works Cited
-Donald R Kelley, *Faces of History* (London & New Haven, Yale University Press, 1988).
+Donald R Kelley, [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false) (London & New Haven, Yale University Press, 1988).
 
 Eric Cochrane, *Historians and Historiography in the Italian Renaissance* (Chicago, University of Chicago Press, 1981).
 
@@ -63,10 +63,10 @@ Francesco Petrarca, *Africa* (c.1338); English translation: Thomas G Bergin & Al
 
 Giovanni Villani, *Nuova Cronica* (c.1348); English translation: Rose E Selfe, “Villani’s Chronicle” (London, Archibald Constable & Co, 1906).
 
-Herschel Baker, *The Race of Time* (U.S.A., University of Toronto Press, 1967).
+Herschel Baker, [*The Race of Time*](https://books.google.com/books?id=xDJEDAAAQBAJ&pg=PT2&dq=The+Race+of+Time+Herschel+Baker&hl=en&sa=X&ved=0ahUKEwj_ntOCltvQAhUGyrwKHd6tAm0Q6AEIGzAA#v=onepage&q&f=false) (U.S.A., University of Toronto Press, 1967).
 
-Niccoló Machiavelli, *Storia di Fiorentine e delle cose d'Italia* (1532); English translation: Felix Gilbert (New York, Harper & Row, 1966).
+Niccoló Machiavelli, [*Storia di Fiorentine e delle cose d'Italia*](https://books.google.com/books?id=wTNRDAAAQBAJ&printsec=frontcover&dq=Machiavelli+history+of+florence&hl=en&sa=X&ved=0ahUKEwi9gfGQl9vQAhVX7GMKHQlWABoQ6AEIITAB#v=onepage&q&f=false) (1532); English translation: Felix Gilbert "The History of Florence and the Affairs of Italy" (New York, Harper & Row, 1966).
 
-[Polydore Vergil, *De rerum inventoribus*](http://eebo.chadwyck.com/search/fulltext?SOURCE=config.cfg&ACTION=ByID&ID=D00000122270030000&WARN=N&SIZE=212&FILE=&ECCO=param(ECCO)) (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
+Polydore Vergil, [*De rerum inventoribus*](http://eebo.chadwyck.com/search/fulltext?SOURCE=config.cfg&ACTION=ByID&ID=D00000122270030000&WARN=N&SIZE=212&FILE=&ECCO=param(ECCO)) (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
 
 Wallace K. Ferguson, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
