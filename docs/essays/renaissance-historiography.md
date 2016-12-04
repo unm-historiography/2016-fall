@@ -49,3 +49,20 @@ Vergil’s historical works helped to develop the expanding field of cultural hi
 
 ### The New World
 The way history was viewed was also impacted by the discovery of the new world.  This discovery of an entire hemisphere that had been previously unknown and its native inhabitants was disruptive to the classic approach to history.  How did this new land with its new people fit into the classic European story of [translation of empire](https://en.wikipedia.org/wiki/Translatio_imperii) and the [four monarchies](https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel).  The new world was written about within the context of Spanish Renaissance Historiography.  Historical accounts of the new world were influenced by traditions of chronicles, universal histories, and myth as well as emerging approaches such as humanism and historical criticism.  The narrative of the new world became the story of the expansion of European power and empire, with American natives represented as barbarians and Europe represented as the new Rome. 
+
+#### Works Cited
+Donald R Kelley, *Faces of History* (London & New Haven, Yale University Press, 1988).
+
+Eric Cochrane, *Historians and Historiography in the Italian Renaissance* (Chicago, University of Chicago Press, 1981).
+
+Francesco Petrarca, *Africa* (c.1338); English translation: Thomas G Bergin & Alice S Wilson, (New Haven, Yale University Press, 1977).
+
+Giovanni Villani, *Nuova Cronica* (c.1348); English translation: Rose E Selfe, “Villani’s Chronicle” (London, Archibald Constable & Co, 1906).
+
+Herschel Baker, *The Race of Time* (U.S.A., University of Toronto Press, 1967).
+
+Niccoló Machiavelli, *Storia di Fiorentine e delle cose d'Italia* (1532); English translation: Felix Gilbert (New York, Harper & Row, 1966).
+
+Polydore Vergil, *De rerum inventoribus* (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
+
+Wallace K. Ferguson, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
