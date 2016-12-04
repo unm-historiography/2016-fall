@@ -55,6 +55,8 @@ Donald R Kelley, *Faces of History* (London & New Haven, Yale University Press, 
 
 Eric Cochrane, *Historians and Historiography in the Italian Renaissance* (Chicago, University of Chicago Press, 1981).
 
+Francesco Guicciardini, *Storia d'Italia* (1537-1540); English Translation: Austin Parke Goddard, “The History of Italy, from the year 1490, to 1532. Written in Italian by Francesco Guicciardini.” (London, John Towers, 1754).
+
 Francesco Petrarca, *Africa* (c.1338); English translation: Thomas G Bergin & Alice S Wilson, (New Haven, Yale University Press, 1977).
 
 Giovanni Villani, *Nuova Cronica* (c.1348); English translation: Rose E Selfe, “Villani’s Chronicle” (London, Archibald Constable & Co, 1906).
