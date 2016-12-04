@@ -67,6 +67,6 @@ Herschel Baker, *The Race of Time* (U.S.A., University of Toronto Press, 1967).
 
 Niccoló Machiavelli, *Storia di Fiorentine e delle cose d'Italia* (1532); English translation: Felix Gilbert (New York, Harper & Row, 1966).
 
-Polydore Vergil, *De rerum inventoribus* (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
+[Polydore Vergil, *De rerum inventoribus*](http://eebo.chadwyck.com/search/fulltext?SOURCE=config.cfg&ACTION=ByID&ID=D00000122270030000&WARN=N&SIZE=212&FILE=&ECCO=param(ECCO)) (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
 
 Wallace K. Ferguson, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
