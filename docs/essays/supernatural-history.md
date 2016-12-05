@@ -3,7 +3,7 @@ layout: default
 title: A Supernatural History
 date: 2016-11-08 00:00:00
 ---
-
+<p class="author">Alison Atencio</p>
 # A Supernatural History
 
 ## How People Wrote History When God Was In Control 
