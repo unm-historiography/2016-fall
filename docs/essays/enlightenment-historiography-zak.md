@@ -26,7 +26,7 @@ This new way of dealing with things in a scientific way would spill over into ot
 
 ### Enlightened History
 
-<p class="has-pullquote" data-pullquote="“History remained philosophy teaching by example.”"><a href="#bottom"><sup>1</sup></a></p>
+<p class="has-pullquote" data-pullquote="“History remained philosophy teaching by example.”"></p>
 
 The study of history is an endless pursuit for truth. Truth is very hard to define, as one can never be sure if they know it or not objectively. Consuming history is an exhaustive task, for there are many recognizable and significant instances that have created sway in the major mindset of historians on the way of history. While this is true, it may seem inane to organize history by people and their texts. Inane in a sense that it is exhausting to read and read and read. But in truth it is notable to not only recognize but respect those who provoked wide arrays of thought in newer ways – in terms of the Enlightenment. The names and texts are important, but more notably the ideas and the provocation of thought that can only be recognized by respecting the dudes with their given texts. This is Rational History. <br><br>
 
