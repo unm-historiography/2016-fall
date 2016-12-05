@@ -8,6 +8,8 @@ date: 2016-12-02 00:00:00
 
 ## A preliminary guide to continuities and ruptures
 
+<p class="author">Fred Gibbs</p>
+
 <p class="abstract">
 This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
 </p>

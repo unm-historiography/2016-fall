@@ -60,7 +60,7 @@ h2 {
    font-family: 'Raleway', sans-serif;
   font-size: 1.4em;
   line-height: 120%;
-  margin: 0em 0 1em 0;
+  margin: 0em 0 .2em 0;
   text-align: center;
 }
 
@@ -94,6 +94,10 @@ p.abstract {
   background-color: #e5d3bb;
   padding:2em;
   font-size: 90%;
+}
+
+p.author {
+  text-align: center;
 }
 
 footer {
