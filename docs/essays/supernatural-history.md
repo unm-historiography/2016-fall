@@ -3,10 +3,12 @@ layout: default
 title: A Supernatural History
 date: 2016-11-08 00:00:00
 ---
-<p class="author">Alison Atencio</p>
+
 # A Supernatural History
 
 ## How People Wrote History When God Was In Control 
+
+<p class="author">Alison Atencio</p>
 
 Myth is defined by having components of the supernatural world. From this jumping off point we see many varieties in myth. My main focus is that of the Judeo-Christian Myths as they affect how the Jews and Christians told history based on the Myths They Believed. Since Jews and Christians believed that God was the supreme creator and master of the universe and therefore history, they wrote with him included in the picture. They were not alone in their theistic view, however they did stand out in their monotheistic view in which they were also convinced that God was ever present, ever powerful, and very much focused on his people and their lives. In addition to their views regarding God, Jews and Early Christians were alive during a time in which the existence of the supernatural was not doubted.  
 
