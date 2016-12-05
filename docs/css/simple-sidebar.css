@@ -77,7 +77,8 @@
 
 .sidebar-nav h1 {
     font-size:110%;
-  font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    color:#fff;
     margin:1em 0 .2em 0;
 }
 
