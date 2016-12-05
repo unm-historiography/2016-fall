@@ -7,6 +7,7 @@ date: 2016-11-08 00:00:00
 
 # Enlightened History
 
+
 <p class="abstract">
 The Enlightenment witnessed thinkers who used reason to critique the established structures of society. This criticism was also applied to the study of history. History of the Enlightenment cannot be understood without a fundamental understanding of philosophical concepts of the time. In this article Enlightenment thought and its effect on the study of history are examined. 
 
