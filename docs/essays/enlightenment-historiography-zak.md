@@ -4,12 +4,14 @@ title: The Enlightment Dudes | Enlightenment & Historiography
 date: 2016-11-08 00:00:00
 ---
 
+
+# Enlightened History
+
 <p class="abstract">
 The Enlightenment witnessed thinkers who used reason to critique the established structures of society. This criticism was also applied to the study of history. History of the Enlightenment cannot be understood without a fundamental understanding of philosophical concepts of the time. In this article Enlightenment thought and its effect on the study of history are examined. 
 
 </p>
 
-# Enlightened History
 
 A time of enlightened thought, a time of <i>rational</i> thought, a time of <i>reason</i>. A time that blurred lines between Philosophers and Historians. Like most significant eras, the Enlightenment provoked events that would have repercussions on society – the Enlightenment would go on to inspire the founding documents of The United States of America, the French Revolution and would play a significant role in shaping modern European politics and thought, and history will began to be written in differing ways; ways that society sill uses to this day. The Enlightenment didn’t happen on accident; it was strewed on by great thinkers, scientific revolution, and historians – history is the master science.
 
