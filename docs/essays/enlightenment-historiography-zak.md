@@ -19,7 +19,7 @@ A time of enlightened thought, a time of <i>rational</i> thought, a time of <i>r
 
 ### The Master Science
 
-{% include figure.html class="img-right" src="21h-433s11.jpg" %}
+{% include figure.html class="img-right" src="6606af8a16a79ef8cefcb564f56744c9.jpg" %}
 
 Before the turn of the 18th century, a scientific revolution was gaining prestige. Scientists were forming new ways of understanding the physical world around them, and the [scientific method](http://www.history.com/topics/enlightenment/videos/mankind-the-story-of-all-of-us-scientific-revolution) was beginning to become a staple way to observe the natural world objectively. Science, as a discipline that we can still recognize today, emerged in the late Renaissance, and it would ultimately shape the Enlightenment.
 
