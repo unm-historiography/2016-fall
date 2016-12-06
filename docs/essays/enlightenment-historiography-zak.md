@@ -34,6 +34,27 @@ There are some important concepts to understand when examining enlightenment tho
 
 The [Republic of Letters](http://www.republicofletters.net/) represents a significant shift in the access to academic discourse. The Republic of Letters was an international system of scholarship and criticism that spread the new ides through society. Scholars and philosophers sent letters, papers, and pamphlets to each other for discourse and debate on the important topics of the day. This enabled more access to the new ideas and debates of this time. Scholars could share ideas that were not easily shared in early time periods because of linguistic and geographic constraints. During the Enlightenment advances in the technologies of making books made books more accessible. The proliferation of the written word demanded categorization and organization. Samuel Johnson published his dictionary in 1755. [The Johnson Dictionary](http://johnsonsdictionaryonline.com/) became the preeminent dictionary of the next two hundred years.
 
+
+### The Thinkers
+
+A prominent vision of the thinkers of this time is that of the French Philosophes, “fashionable and influential thinkers of the Enlightenment” (Flew, 267). The discourse of Enlightenment thought spread far beyond France. Through the Republic of Letters, books and resources, like dictionaries, we hear the voices of these thinkers through the past and wonder what they bought to history that was new. It is important to look at them individually for their contributions to the narrative and dialogue of historiography during the Enlightenment. 
+
+### Decartes
+     
+Rene Decartes was one of the most influential men of the Enlightenment. Descartes wrote “Discourse on the Method”. In it he uses a form of reasoning where any idea that contains doubt is rejected as not representing the truth. Through this method of reasoning he concludes “Cogito, ergo sum” (Decartes, 2010, 15), I think, therefor I am. Vico argues that man can know better that which he creates than that which he observes. 
+
+### Condorcet
+
+[Marquis de Condorcet](http://plato.stanford.edu/entries/histfem-condorcet/) had achieved much in his career. He was the secretary of the Académie des Sciences at a young age. The French Revolution changed that and he died in jail in 1794. He had supported the French revolution in the beginning; howeverm, he began to oppose it and had to hide from French authorities. While in hiding, he wrote “Sketch for an Historical Picture of the Progress of the Human Mind.” Condorcet was influenced from a young age by his love of mathematics. He thought that history was more science than philosophy. “History is a matter of gathering and ordering facts and then showing ‘the useful truths that can be derived from connections and causality’” (Lemon, 188).  Like Vico, Condorcet saw history in three stages. “The first runs from the darkness of an unknowable primitivism up to the development of language” (Bentley, 10). The second is from the advent of language to written alphabets, and the third is from alphabets to the Enlightenment. Condorcet believed that historical knowledge is learned to improve man’s condition. History is “man’s capacity to receive knowledge through his sense-experiences, accumulate and organize such knowledge in order to…achieve a more pleasing life” (Lemon, 188). Condorcet views these lessons from history as progress. Through this progress man challenges the status quo and seeks to gain equality from the traditional elites. “Progress occurs when intellectual innovations break down the resistance of traditional ways of doing things and changes the way people live” (Lemon, 88). It's easy to see through this belief why Condorcet would have supported the French Revolution and how the political changes of his time influenced his view of history.
+
+### Rousseau
+
+Born in 1712 in Geneva, [Jean-Jacque Rousseau](https://www.youtube.com/watch?v=5EyAle6uYo) disagreed with many of his contemporaries. Rousseau believed that the state of nature was one of happiness and equality. It was the need to form societies for protection that created inequality, materialism and unhappiness. In his “Discourse on Inequality”, Rousseau described the state of nature as “the happiest and most stable of our epochs…altogether the very best man could experience. In his discourse on the origins of inequality” (Lemon, 177). Hobbes and Locke both believed that the state of nature was one of violence and that modern societies provided equality and peace. To summarize, men formed societies as a means of protection, within these societies men developed their identities based on economic considerations, which in turn lead to the division of power and wealth. Men form civilized societies that lead to “egoism, exploitation, and insecurity for all involved, having stripped them of all independence, self-respect and genuine morality” (Lemon, 181). Rousseau believed that man created history through his decisions and was singularly responsible for its outcomes. 
+
+### Voltaire
+
+French historians of the Enlightenment believed that the study of history was meant to go beyond the chronical of history and seek the human spirit. Voltaire was the Nom De Plum of Francois-Marie Arouet a preeminent French writer, historian, and philosopher who advocated for personal and religious freedoms. One of his most influential historical works is “Essay on the Customs and the Spirit of the Nations, published in 1756. Voltaire sought to write a universal history which gave supremacy to social history and arts and sciences rather than military campaigns.  Voltaire’s primary historical concern was with "the progress of the spirit". Although Voltaire sought to write an unbiased history he was critical of church histories and doctrines. Kelley says the Voltaire wrote history to further his own agenda. Voltaire sees the past as culmination in the perfection of the present. 
+
 ### Enlightened History
 
 <p class="has-pullquote" data-pullquote="“History remained philosophy teaching by example.”"></p>
@@ -73,3 +94,12 @@ The Enlightenment ends with Ranke. [Leopold Ranke](http://www.umass.edu/wsp/hist
 <sup>5</sup> Adam Ferguson, _[An Essay on the History of Civil Society](http://oll.libertyfund.org/titles/1428#Ferguson_1229_8)_ 5th ed. (London: T. Cadell, 1782).<br>
 <sup>6</sup> [Ibid.](http://oll.libertyfund.org/titles/1428#lf1229_label_073)<br>
 <sup>7</sup> Johann Gottfried Herder, _[Outlines of a Philosophy of the History of Man](https://archive.org/details/outlinesaphilos00churgoog)_ (New York, 1800), 235.
+Bentley, Michael. Modern Historiography: An Introduction. New York: Routledge, 1999. 
+<br>
+Flew, Andrew. A Dictionary of Philosophy: Second Edition. New York: St. Martin Press, 1984.
+
+Kelley, Donald R. Faces of History: Historical Inquiry from Herodotus to Herder. New Haven: Yale University Press, 1998.
+
+Lemon, M.C. Philosophy of History. New York: Routledge, 2003.
+
+Stanford, Michael. An Introduction to the Philosophy of History. Malden, Massachusetts: Blackwell Publishers, 1998. 
