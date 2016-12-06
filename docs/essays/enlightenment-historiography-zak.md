@@ -5,7 +5,7 @@ date: 2016-11-08 00:00:00
 ---
 
 
-# Enlightened History
+# Enlightened Historiagraphy
 
 ## _"Enlightenment is man's release from his self-incurred immaturity."_
 
@@ -52,8 +52,7 @@ Rene Decartes was one of the most influential men of the Enlightenment. Descarte
 
 ### Capital _P_ Progress
 
-
-<p class="has-pullquote" data-pullquote=""Progress occurs when intellectual innovations break down the resistance of traditional ways of doing things and changes the way people live.""></p>
+<p class="has-pullquote" data-pullquote="“Progress occurs when intellectual innovations break down the resistance of traditional ways of doing things and changes the way people live..”"></p>
 
 
 [Marquis de Condorcet](http://plato.stanford.edu/entries/histfem-condorcet/) had achieved much in his career. He was the secretary of the Académie des Sciences at a young age. The French Revolution changed that and he died in jail in 1794. He had supported the French revolution in the beginning; howeverm, he began to oppose it and had to hide from French authorities. While in hiding, he wrote “Sketch for an Historical Picture of the Progress of the Human Mind.” Condorcet was influenced from a young age by his love of mathematics. He thought that history was more science than philosophy. “History is a matter of gathering and ordering facts and then showing ‘the useful truths that can be derived from connections and causality’” (Lemon, 188).  Like Vico, Condorcet saw history in three stages. “The first runs from the darkness of an unknowable primitivism up to the development of language” (Bentley, 10). The second is from the advent of language to written alphabets, and the third is from alphabets to the Enlightenment. Condorcet believed that historical knowledge is learned to improve man’s condition. History is “man’s capacity to receive knowledge through his sense-experiences, accumulate and organize such knowledge in order to…achieve a more pleasing life” (Lemon, 188). Condorcet views these lessons from history as progress. Through this progress man challenges the status quo and seeks to gain equality from the traditional elites. “Progress occurs when intellectual innovations break down the resistance of traditional ways of doing things and changes the way people live” (Lemon, 88). It's easy to see through this belief why Condorcet would have supported the French Revolution and how the political changes of his time influenced his view of history.
