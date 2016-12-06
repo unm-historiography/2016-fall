@@ -11,7 +11,7 @@ date: 2016-11-08 00:00:00
 Reformation historiography largely centered around the revision of history, removing the elites as the sole makers and consumers of history.  Further, this meant movement away from histories that centered around Rome and reinforced the authority of the Catholic church.  Additionally, Protestant historians were attempting to write their religion into history and provide Protestantism with authority through origin stories.  However, in the end, the Reformation became the catalyst for secular history and the professionalization of history as a profession.  
 </p>  
 
-{% include figure.html class="img-right" src="reformation1.jpg" %}
+{% include figure.html class="img-right" src="reformation1.jpg" caption="Christ and the Adulteress by Lucas Cranach the Younger and Workshop (image courtesy of The Met)" %}
 
 ### The Reformation
 
@@ -22,7 +22,7 @@ The [Reformation](http://www.history.com/topics/reformation) was a movement away
 
 The ultimate effect of the Reformation on historiography marked a **“massive project of revisionism, which proposed, first implicitly and then explicitly, to rewrite universal history so that it would convict the Roman hierarchy and justify the ‘true religion' ”** (Kelley, 167). Prior to the Reformation, the hierarchy established by both the Church and state was the foundation of all histories. Histories were written by and for the elite. All histories lead back to Rome and justified the Roman Catholic Church. The Reformation’s fundamental goal was to undermine and convict the long standing tradition of Roman and Catholic centered histories.  In part, this was accomplished by historians, such as Johann Sledian, who were vehemently dedicated to impartiality. Sleidan was hired by the German princes to be the historiographer of the Reformation. His job was to discuss Luther, in addition to the agenda and efforts of the Protestant party.  Sleidan personally felt convicted to recount a fair and equal telling of history.  A French historian by the name of Commynes wrote histories in which it was said that “in no way did he praise those of his own country or race, even kings who had raised him to high honor, unless it was true…, [and] everywhere he presented the facts in themselves,” (Strasbourg, 1548). Sleidan sought to write these kinds of histories, histories in which he didn’t praise any particular person or event because of a personal connection.  By writing impartial histories, for the first time, the church and state were potentially exposed to negative work.  This allowed for the introduction of histories that didn’t center around the long standing elites. 
 
-{% include figure.html class="img-right" src="reformation2.jpg" %}
+{% include figure.html class="img-right" src="reformation2.jpg" caption="Satireon the Papacy by Melchior Lorck (image courtesy of The Met)" %}
 
 ### Challenging Tradition 
 
