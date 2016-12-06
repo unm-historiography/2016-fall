@@ -6,6 +6,7 @@ date: 2016-11-08 00:00:00
 
 
 # Enlightened History
+## _"Enlightenment is man's release from his self-incurred immaturity."_
 
 
 <p class="abstract">
