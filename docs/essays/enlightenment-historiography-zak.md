@@ -5,7 +5,7 @@ date: 2016-11-08 00:00:00
 ---
 
 
-# Enlightened Historiography
+# Enlightened History
 
 
 <p class="abstract">
@@ -35,7 +35,7 @@ There are some important concepts to understand when examining enlightenment tho
 The [Republic of Letters](http://www.republicofletters.net/) represents a significant shift in the access to academic discourse. The Republic of Letters was an international system of scholarship and criticism that spread the new ides through society. Scholars and philosophers sent letters, papers, and pamphlets to each other for discourse and debate on the important topics of the day. This enabled more access to the new ideas and debates of this time. Scholars could share ideas that were not easily shared in early time periods because of linguistic and geographic constraints. During the Enlightenment advances in the technologies of making books made books more accessible. The proliferation of the written word demanded categorization and organization. Samuel Johnson published his dictionary in 1755. [The Johnson Dictionary](http://johnsonsdictionaryonline.com/) became the preeminent dictionary of the next two hundred years.
 
 
-### Enlightened Thinkers
+# Enlightened Thinkers
 
 A prominent vision of the thinkers of this time is that of the French Philosophes, “fashionable and influential thinkers of the Enlightenment” (Flew, 267). The discourse of Enlightenment thought spread far beyond France. Through the Republic of Letters, books and resources, like dictionaries, we hear the voices of these thinkers through the past and wonder what they bought to history that was new. It is important to look at them individually for their contributions to the narrative and dialogue of historiography during the Enlightenment. 
 
@@ -59,7 +59,7 @@ Born in 1712 in Geneva, [Jean-Jacque Rousseau](https://www.youtube.com/watch?v=5
 
 French historians of the Enlightenment believed that the study of history was meant to go beyond the chronical of history and seek the human spirit. Voltaire was the Nom De Plum of Francois-Marie Arouet a preeminent French writer, historian, and philosopher who advocated for personal and religious freedoms. One of his most influential historical works is “Essay on the Customs and the Spirit of the Nations, published in 1756. Voltaire sought to write a universal history which gave supremacy to social history and arts and sciences rather than military campaigns.  Voltaire’s primary historical concern was with "the progress of the spirit". Although Voltaire sought to write an unbiased history he was critical of church histories and doctrines. Kelley says the Voltaire wrote history to further his own agenda. Voltaire sees the past as culmination in the perfection of the present. 
 
-### Enlightened History
+# Enlightened History
 
 <p class="has-pullquote" data-pullquote="“History remained philosophy teaching by example.”"></p>
 
