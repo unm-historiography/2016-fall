@@ -60,4 +60,15 @@ French historians of the Enlightenment believed that the study of history was me
 ### The End
 
 Many of the fundamentals of how history was done during the Enlightenment had not changed since the Renaissance. What did change was the use of reason to use history to think critically about society and the human condition <b>meaning?</b>. The Enlightenment concepts such as the social contract, inequality and humanism were used to critically examine societies, governments and religious institutions. These critiques changed thing so drastically that they are still affecting the way we do history today. 
+
+
+Works Cited
+
+Bentley, Michael. Modern Historiography: An Introduction. New York: Routledge, 1999. 
+Flew, Andrew. A Dictionary of Philosophy: Second Edition. New York: St. Martin Press, 1984.
+Kelley, Donald R. Faces of History: Historical Inquiry from Herodotus to Herder. New Haven: Yale University Press, 1998.
+Lemon, M.C. Philosophy of History. New York: Routledge, 2003.
+Stanford, Michael. An Introduction to the Philosophy of History. Malden, Massachusetts: Blackwell Publishers, 1998. 
+
+
      
