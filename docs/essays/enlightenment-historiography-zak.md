@@ -39,11 +39,11 @@ The [Republic of Letters](http://www.republicofletters.net/) represents a signif
 
 A prominent vision of the thinkers of this time is that of the French Philosophes, “fashionable and influential thinkers of the Enlightenment” (Flew, 267). The discourse of Enlightenment thought spread far beyond France. Through the Republic of Letters, books and resources, like dictionaries, we hear the voices of these thinkers through the past and wonder what they bought to history that was new. It is important to look at them individually for their contributions to the narrative and dialogue of historiography during the Enlightenment. 
 
-### Decartes
+### D
      
 Rene Decartes was one of the most influential men of the Enlightenment. Descartes wrote “Discourse on the Method”. In it he uses a form of reasoning where any idea that contains doubt is rejected as not representing the truth. Through this method of reasoning he concludes “Cogito, ergo sum” (Decartes, 2010, 15), I think, therefor I am. Vico argues that man can know better that which he creates than that which he observes. 
 
-### Condorcet
+###Capital _P_ Progress
 
 
 <p class="has-pullquote" data-pullquote="“Progress occurs when intellectual innovations break down the resistance of traditional ways of doing things and changes the way people live”."></p>
