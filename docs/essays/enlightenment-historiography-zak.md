@@ -27,6 +27,7 @@ This new way of dealing with things in a scientific way would spill over into ot
 ### Enlightened Reason & Thought
 
 {% include figure.html class="img-right" src="6606af8a16a79ef8cefcb564f56744c9.jpg" caption="Joseph Wright of Derby, A Philosopher Giving A Lecture at the Orrery, c. 1765, oil on canvas, " %}
+
 Reason, in the context of the Enlightenment, is the ability to use facts, methods and logic to gain knowledge about the world. It becomes more important in academic pursuits than imagination, as a modern phlisopher defined, “Reason is contrasted with such hypostatized internal or external rivals as imagination, experience, passion or faith” (Flew, 300). During the Enlightenment reason comes to play a larger role in the study of history; 'reasoned history' sought to find the underlying causes of events.  Why things happened became as much of an academic pursuit as what happened.<br>
 There are some important concepts to understand when examining enlightenment thought. Humanism appeared during the [Renaissance](https://unm-historiography.github.io/491-fall2016/essays/renaissance-historiography.html) as a belief in human ability but coexisted with religious belief and faith. During the Enlightenment, Humanism changed and began to reject religion and faith. Humanism places humans and the belief in human goodness and achievement as supreme to divine beliefs. In humanism, individuals are primary, and humanity is compared to the individual. "Humanity is like individual members of the species" (Kelley, 217). [Philology](https://en.wikipedia.org/wiki/Philology) is the examination of the language and meaning behind the language of historical documents in a critical effort to examine the authenticity and original meaning of histories. Academics believed that there are rights that inherently belong to humans and are part of the human condition. The culmination of these beliefs can be seen during the French Revolution in 1789 with the rhetoric of inalienable rights i.e. life, liberty, property. The belief in these rights is described as [Natural Law](http://www.iep.utm.edu/natlaw/). Hobbes and Locke are considered founders of modern political philosophy. They debated about the social contract. Hobbes was an English philosopher who is known for his work Leviathan. Hobbes wrote Two Treatise on Government.  They argued that individuals give up some freedoms and liberties to form societies and benefit from the order and protection that these societies provided. The state of nature is contrasted with civil society.
 
@@ -39,11 +40,11 @@ The [Republic of Letters](http://www.republicofletters.net/) represents a signif
 
 A prominent vision of the thinkers of this time is that of the French Philosophes, “fashionable and influential thinkers of the Enlightenment” (Flew, 267). The discourse of Enlightenment thought spread far beyond France. Through the Republic of Letters, books and resources, like dictionaries, we hear the voices of these thinkers through the past and wonder what they bought to history that was new. It is important to look at them individually for their contributions to the narrative and dialogue of historiography during the Enlightenment. 
 
-###I think, therefore I am
+### I think, therefore I am
      
 Rene Decartes was one of the most influential men of the Enlightenment. Descartes wrote “Discourse on the Method”. In it he uses a form of reasoning where any idea that contains doubt is rejected as not representing the truth. Through this method of reasoning he concludes “Cogito, ergo sum” (Decartes, 2010, 15), I think, therefor I am. Vico argues that man can know better that which he creates than that which he observes. 
 
-###Capital _P_ Progress
+### Capital _P_ Progress
 
 
 <p class="has-pullquote" data-pullquote="“Progress occurs when intellectual innovations break down the resistance of traditional ways of doing things and changes the way people live”."></p>
