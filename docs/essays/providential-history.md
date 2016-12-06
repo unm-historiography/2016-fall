@@ -12,7 +12,8 @@ Judeo-Christian historiography tried to build a bridge between paganism and Chri
 
 ### **The God of History** 
 
-*Historical writing that held to the notion of one God being an active participant in human history became known as Judeo-Christian historiography*. It was influenced by a very ancient semi-nomadic group commonly known as *Hebrews*. The Hebrew people believed that their God (Yahweh) had delivered them out of slavery from Egypt. This act of God became the very foundation of the Hebrew identity. Every year they were required to celebrate this monumental event, the Exodus, as if it happened to them; no matter how many generations had passed.They strictly followed the tradition that was eventually depicted in the Hebrew Scriptures. This tradition can be found in [Exodus 13](https://www.biblegateway.com/passage/?search=Exodus+13&version=NRSVCE) in which generation after generation, they were to explain, "This is because what the Lord did for me when I came out of Egypt"(13:8). This tradition continues to this day in the Jewish festival [Seder Passover](https://en.wikipedia.org/wiki/Passover_Seder) Hebrews saw the [Exodus](https://en.wikipedia.org/wiki/The_Exodus) as being more important than the belief in Creation. *Thus the Hebrews saw their god as the God of History rather than the God of Nature* (Butterfield, 86). The *God of History* was not just the creator of the world but was also an active participant in human relations. History was being unfold while God had an ultimate goal in mind for his chosen people, the Hebrews. The notion of God working throughout their history continued to be the center of the Hebrew faith, until a Hellenistic Jew took on the task of making this Hebrew God of History a *universal God of History*.
+<p class="has-pullquote" data-pullquote="This is because what the Lord did for me when I came out of Egypt."></p>
+*Historical writing that held to the notion of one God being an active participant in human history became known as Judeo-Christian historiography*. It was influenced by a very ancient semi-nomadic group commonly known as *Hebrews*. The Hebrew people believed that their God (Yahweh) had delivered them out of slavery from Egypt. This act of God became the very foundation of the Hebrew identity. Every year they were required to celebrate this monumental event, the Exodus, as if it happened to them; no matter how many generations had passed.They strictly followed the tradition that was eventually depicted in the Hebrew Scriptures. This tradition can be found in [Exodus 13](https://www.biblegateway.com/passage/?search=Exodus+13&version=NRSVCE) in which generation after generation, they were to explain, "This is because what the Lord did for me when I came out of Egypt"(13:8). This tradition continues to this day in the Jewish festival [Seder Passover](https://en.wikipedia.org/wiki/Passover_Seder). Hebrews saw the [Exodus](https://en.wikipedia.org/wiki/The_Exodus) as being more important than the belief in Creation. *Thus the Hebrews saw their god as the God of History rather than the God of Nature* (Butterfield, 86). The *God of History* was not just the creator of the world but was also an active participant in human relations. History was being unfold while God had an ultimate goal in mind for his chosen people, the Hebrews. The notion of God working throughout their history continued to be the center of the Hebrew faith, until a Hellenistic Jew took on the task of making this Hebrew God of History a *universal God of History*.
 
 ### **Universal History: Josephus**
 
@@ -22,7 +23,7 @@ In one of his major works, [*Jewish Antiquities*](https://en.wikipedia.org/wiki/
 
 ### **Christian Historiography**
 
-Christianity began with the belief that a man named Jesus rose from the dead after being crucified just three days before. For Christians he was the long awaited *Messiah in Judaism*; he had come to redeem the world and proclaimed he would return again. This belief of Jesus returning a second time [parousia](https://en.wikipedia.org/wiki/Second_Coming) prevented Christians from truly caring about the past. They attached themselves to the Hebrew Scriptures{hyperlinks} for two reasons. 
+Christianity began with the belief that a man named Jesus rose from the dead after being crucified just three days before. For Christians he was the long awaited *Messiah in Judaism*; he had come to redeem the world and proclaimed he would return again. This belief of Jesus returning a second time [parousia](https://en.wikipedia.org/wiki/Second_Coming) prevented Christians from truly caring about the past. They attached themselves to the [Hebrew Scriptures](https://en.wikipedia.org/wiki/Hebrew_Bible) for two reasons. 
 
  1. Jesus was Jewish and the Hebrew Scriptures were an integral part to his teachings.
  2. They saw prophecies in the Hebrew texts as being fulfilled through Jesus. They used prophecies in the Hebrew Scriptures and the good news of Jesus in the Gospels to attract as many converts as possible before Jesus’ return. 
@@ -41,5 +42,15 @@ The *builder* of this bridge was known as Augustine. Augustine was born to a Chr
 ### **Universal, Chronology, Providential**
 
 Judeo-Christian historiography presented a *chronological, universal history with a providential plan*. Judeo-Christian historians chose to bring biblical narratives to life within the history of humankind. They believed humans all have a common origin and as Josephus argued, humans separated after the Tower of Babel, and invented diverse histories. Christian historians argued that the Hebrew Bible and the past of Greeks and Romans were fulfilled when God became man. *Through Jesus humans could gain full knowledge of the past*. Therefore history was a continuum in which everything was connected up to the present day of early Christian historians. Judeo-Christian historiography’s contribution of chronology and universality paved the way for future historiographies. 
+
+#### Works Cited
+
+Arnaldo Momigliano. “Pagan and Christian Historiography in the Fourth Century A.D.” *Essays in Ancient and Modern Historiography*, 107-126. (Middletown, Connecticut: Wesleyan University Press, 1977.)
+
+Donald R. Kelley. “The Education of the Human Race”, *Faces of History* 75-98. (London & New Haven: Yale University Press, 1988.)
+
+Glenn F. Chestnut “Eusebius: Fate, Fortune, Free Will, and Nature”, *The First Christian Histories*, 33-64. (Macon, Georgia: Mercer University Press, 1986.)
+
+Herbert Butterfield. *The Origins of History*. (London: Eyre Methuen Ltd, 1981.) 
 
 
