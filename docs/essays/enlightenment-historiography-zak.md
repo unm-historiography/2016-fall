@@ -17,14 +17,15 @@ The Enlightenment witnessed thinkers who used reason to critique the established
 A time of enlightened thought, a time of <i>rational</i> thought, a time of <i>reason</i>. A time that blurred lines between Philosophers and Historians. The Enlightenment was a time of profound change in intellectual thought in the 17th and 18th centuries. Like most significant eras, the Enlightenment provoked events that would have repercussions on society – the Enlightenment would go on to inspire the founding documents of The United States of America, the French Revolution and would play a significant role in shaping modern European politics and thought, and history will began to be written in differing ways; ways that society sill uses to this day. During the Enlightenment, history was approached more critically and with a desire to use the lessons learned to improve the human condition. This age of reason and logic was the culmination and pinnacle of human development. The Enlightenment didn’t happen on accident; it was strewed on by great thinkers, scientific revolution, and historians – history is the master science.<br>
 
 
-### The Master Science
+### The Master Science<br>
 
 {% include figure.html class="img-right" src="blake2.jpg" caption="William Blake’s Newton (1795), depicted as a divine geometer." %}
+
 
 Before the turn of the 18th century, a scientific revolution was gaining prestige. Scientists were forming new ways of understanding the physical world around them, and the [scientific method](http://www.history.com/topics/enlightenment/videos/mankind-the-story-of-all-of-us-scientific-revolution) was beginning to become a staple way to observe the natural world objectively. Science, as a discipline that we can still recognize today, emerged in the late Renaissance, and it would ultimately shape the Enlightenment.
 This new way of dealing with things in a scientific way would spill over into other fields of study. Sire Isaac Newton was a highly influential scientist during the turn of the 18th century, and was a major player in the scientific revolution. All roads of modern historiography lead to this period. Newton’s most famous work [<i>Principia</i>](http://plato.stanford.edu/entries/newton-principia/) details what we still know today as the Laws of Nature – but not to be confused with Natural Law. This new way of rational thinking, from the scientific revolution, would pave the way for enlightenment thought and enlightened historians – which in many ways wrote history in many ways that is recognizable amongst the ways we know today. While the Enlightenment can be read as a major shift in thought, it still has and had detractors to common theory.
 
-### Enlightened Reason & Thought
+### Enlightened Reason & Thought<br>
 
 {% include figure.html class="img-right" src="6606af8a16a79ef8cefcb564f56744c9.jpg" caption="Joseph Wright of Derby, A Philosopher Giving A Lecture at the Orrery, c. 1765, oil on canvas, " %}
 
@@ -33,15 +34,18 @@ There are some important concepts to understand when examining enlightenment tho
 
 ### Access
 
+
 The [Republic of Letters](http://www.republicofletters.net/) represents a significant shift in the access to academic discourse. The Republic of Letters was an international system of scholarship and criticism that spread the new ides through society. Scholars and philosophers sent letters, papers, and pamphlets to each other for discourse and debate on the important topics of the day. This enabled more access to the new ideas and debates of this time. Scholars could share ideas that were not easily shared in early time periods because of linguistic and geographic constraints. During the Enlightenment advances in the technologies of making books made books more accessible. The proliferation of the written word demanded categorization and organization. Samuel Johnson published his dictionary in 1755. [The Johnson Dictionary](http://johnsonsdictionaryonline.com/) became the preeminent dictionary of the next two hundred years.
 
 
 # Enlightened Thinkers
 
+
 A prominent vision of the thinkers of this time is that of the French Philosophes, “fashionable and influential thinkers of the Enlightenment” (Flew, 267). The discourse of Enlightenment thought spread far beyond France. Through the Republic of Letters, books and resources, like dictionaries, we hear the voices of these thinkers through the past and wonder what they bought to history that was new. It is important to look at them individually for their contributions to the narrative and dialogue of historiography during the Enlightenment. 
 
 ### I think, therefore I am
      
+
 Rene Decartes was one of the most influential men of the Enlightenment. Descartes wrote “Discourse on the Method”. In it he uses a form of reasoning where any idea that contains doubt is rejected as not representing the truth. Through this method of reasoning he concludes “Cogito, ergo sum” (Decartes, 2010, 15), I think, therefor I am. Vico argues that man can know better that which he creates than that which he observes. 
 
 ### Capital _P_ Progress
@@ -54,9 +58,11 @@ Rene Decartes was one of the most influential men of the Enlightenment. Descarte
 
 ### A Man Made History
 
+
 Born in 1712 in Geneva, [Jean-Jacque Rousseau](https://www.youtube.com/watch?v=5EyAle6uYo) disagreed with many of his contemporaries. Rousseau believed that the state of nature was one of happiness and equality. It was the need to form societies for protection that created inequality, materialism and unhappiness. In his “Discourse on Inequality”, Rousseau described the state of nature as “the happiest and most stable of our epochs…altogether the very best man could experience. In his discourse on the origins of inequality” (Lemon, 177). Hobbes and Locke both believed that the state of nature was one of violence and that modern societies provided equality and peace. To summarize, men formed societies as a means of protection, within these societies men developed their identities based on economic considerations, which in turn lead to the division of power and wealth. Men form civilized societies that lead to “egoism, exploitation, and insecurity for all involved, having stripped them of all independence, self-respect and genuine morality” (Lemon, 181). Rousseau believed that man created history through his decisions and was singularly responsible for its outcomes. 
 
 ### Universal Supremacy
+
 
 French historians of the Enlightenment believed that the study of history was meant to go beyond the chronical of history and seek the human spirit. Voltaire was the Nom De Plum of Francois-Marie Arouet a preeminent French writer, historian, and philosopher who advocated for personal and religious freedoms. One of his most influential historical works is “Essay on the Customs and the Spirit of the Nations, published in 1756. Voltaire sought to write a universal history which gave supremacy to social history and arts and sciences rather than military campaigns.  Voltaire’s primary historical concern was with "the progress of the spirit". Although Voltaire sought to write an unbiased history he was critical of church histories and doctrines. Kelley says the Voltaire wrote history to further his own agenda. Voltaire sees the past as culmination in the perfection of the present. 
 
@@ -68,26 +74,31 @@ The study of history is an endless pursuit for truth. Truth is very hard to defi
 
 
 ### I Make Therefore I Know
+
 [Giambattista Vico](http://www.historyguide.org/intellect/new_science.html) was a respected Italian historian in the Enlightenment with many works under his belt. Although he was mostly subject to grammar schools, it is widely believed that he spent most of his time self-learning. His views on truth can be recognized throughout his works – most specifically <i>Scienza Nuova</i> – New Science. Vico believed that we can only observe absolute truth through creation or invention, echoing the scientific revolution. And truth being the most highly contested word to historians, understanding truth is fundamental to all historians’ views of the past. Vico was a Humanist, and he had “a fascination with the question of origions and the prehistorical ages of myth, barbarism, and a putative state of nature before civil society”<a href="#bottom"><sup>1</sup></a>. Vico answered the question of “I think therefore I am” with “I make therefore I know”.<a href="#bottom"><sup>2</sup></a> This making is what history is all about. This sentence is very unclear- It’s its biggest deal. Making history. Writing history. And gaining a better understanding for the past and the world around us by looking through the eyes of not just larger trends, but focusing on a more humanist aspect, and in doing so showing that history is done for somebody, and that somebody is humans because ultimately humans write history. Ultimately, Vico was on a “the quest of a full historical meaning”.<a href="#bottom"><sup>3</sup></a> This historical meaning is what places Vico amongst Enlightenment historians - meaning & rational thought being essential to Enlightenment thought. Extracting meaning from things is important to the health of humanity, and being able to do it with history did work in creating a new identity, or at least in making history accessible into a way that is relatable. 
 
 ### The End of Rome
+
 Gibbon loved Rome, or he hated it. Hard to say because, while he focused a lot of his energy and attention on Rome, he also wrote about the eventual fall of Rome and the aftermath. Either way, all roads of Gibbon lead to Rome. On a trip to Rome in 1764, Englishmen Edward Gibbon took on the challenge of writing a comprehensive history of the Roman Empire, <i>The History of the Decline and Fall of the Roman Empire.</i> Being born in London, he spent most of his life there. Unfortunately his early life was plagued by illness. Gibbon, like the rest of the Enlightenment historians, took a different approach into writing or retelling history. Gibbon sought to use the new historical paradigm of seeking the deeper meaning behind historical events to explain the 'why', as well as he wanted to explain the fall of the Roman empire through barbarians and “unenlightened attitudes” of the Roman Catholic church. Gibbon's history of Rome is a great example of the use of philology in history. He removed the sanctity of the church, and instead made claims that it was the work of man rather than the work of some supernatural entity. This was shocking as the dust began to settle about the protestant reformation. Gibbon focused all of his attention on primary resources when possible. He was a primary resource kind of guy. And while this is something recognizable today in history, it eluded a lot of history. Gibbon’s work put humans in human history. Rome was and still is a historical powerhouse. It’s a big bully in historical contexts of things, and for good reason. Rome’s empire was huge to say the least. But Gibbon focused on things away from the cultural norm. Away from the Roman jurisdiction, and focused on the decay, the rot, the decline. And in doing so he doesn’t simply <i>rewrite</i> history, but, rather, retells history from a different angle. Because history demands to be told from several angels because it is a multidimensional beast. 
 
 #### _“I have always endeavored to draw from the fountain-head; that my curiosity, as well as a sense of duty, has always urged me to study the originals.”_ <a href="#bottom"><sup>4</sup></a><br><br>
 
 ### Father of Modern Sociology
+
 There’s a reason why we call people the fathers of things. And regardless of the criticism that is associated, the simple implication of having a father of something creates a central ideological understanding of an individual to the wider society. Adam Ferguson was a prominent Scottish historian. He was educated in grammar schools and inspired by fellow humanists and humanists before him. His works deal with social aspects of man, and they illustrate humanity and its progressive nature. This focus can be noted in the title of his works: <i>Essay on the History of Civil Society, Principles of Moral and Political Science, </i> and so on. Adam Ferguson, the Father of Modern Sociology – whatever that means – told a story that focused differing psychological approaches to history. And in this way “the history of the individual is but a detail of sentiments and thoughts he has entertained in the view of his species".<a href="#bottom"><sup>5</sup></a>
 
 #### _“The history of mankind is confined within a limited period, and from every quarter brings an intimation that human affairs have had a beginning.”_ <a href="#bottom"><sup>6</sup></a><br><br>
 The Enlightenment historians have a huge advantage over those that came before them. Why? How?  They thought of themselves as rational thinkers and strived to do and create things in a sensible way. The history of the individual belongs to the individual. And the greater governing forces are administrators of liberty. Ferguson recognized the difference in Natural History or Natural Law with humans and their histories. But instead saw them as one in the same thing because humans exists in the greater context of nature, like nature is constantly surrounding the human. A humanist and progressive history like Ferguson’s is only possible with an Enlightenment background because it requires a lot of study of the human race, isolating individuals in their greater social frameworks – creating a more universal history. A history that is better understood by many. That will inspire many to think of themselves in different ways. One truly does know more about the past than the past knew about itself.
 
 ### Historical Theatre
+
 Johann Herder was a German historian – really a German man of all trades. He was a philopher, a poet, a critic, a historian, and so on. But it’s really hard to separate the historians from the thinkers and others during the Enlightenment - for they were all doing a lot of the same stuff. The thinkers of the Enlightenment speculated rationality and meaning. They were fortunate enough to have all previous histories at their disposal - to use and make sense of. In a way it was the study of the human race. Herder was born in Mohrungen, and lived a poor life. Having mostly educated himself, eventually he attended a university and was lucky enough to be a student of Kant. Herder was highly invested in nature, and he was extremely curious about how man interacted and lived with nature. And this combination was true for most of his works. He saw the harmonizing of things of philosophy and history and so on. 
 
 #### _“The history of man is ultimately a theatre of transformation, which he alone can review, who animates all these figures, and feels and enjoys in them all.”_ <a href="#bottom"><sup>7</sup></a><br><br>
 Again, the universality of this kind of history is prominent, and the deeper truth to these historians of the Enlightenment being closely associated with meaning is no accident. Because absolute truth is easier to identify with meaning. So, like the rest of the social sciences, history's attempt to make meaning of things is an indicative part of the Enlightenment. And while these rather dense and allusive texts are seemingly confusing, the greater meaning exists through and around the metaphors of nature and so on.
 
 ### What Actually Happened
+
 The Enlightenment ends with Ranke. [Leopold Ranke](http://www.umass.edu/wsp/history/ranke/) was a German historian, and a German historian he was. He grew up studying history and went on to lecture. Because of his religious background, his texts are highly influenced by his religious beliefs. His influence was so vast, it is easy to start history with Ranke’s name. It is easy to recognize and understand his thought processes because it is still an attractive way of doing history. He is known for his popular phrase – better said in German: _“Wie es eigentlich gewesen”._ Ranke’s ultimate goal was to stay objective as possible. And although he tries, his texts often contain sanctity.
 
 
