@@ -6,6 +6,7 @@ date: 2016-11-08 00:00:00
 
 
 # Enlightened History
+## _"Enlightenment is man's release from his self-incurred immaturity."_
 
 
 <p class="abstract">
@@ -122,7 +123,3 @@ Kelley, Donald R. Faces of History: Historical Inquiry from Herodotus to Herder.
 Lemon, M.C. Philosophy of History. New York: Routledge, 2003.
 
 Stanford, Michael. An Introduction to the Philosophy of History. Malden, Massachusetts: Blackwell Publishers, 1998. 
-
-Kant, Immanuel, Political Writings H. S. Reiss
-Cambridge University Press, Jan 25, 1991.
-
