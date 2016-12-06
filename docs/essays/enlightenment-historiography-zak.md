@@ -5,7 +5,7 @@ date: 2016-11-08 00:00:00
 ---
 
 
-# Enlightened History
+# Enlightened Historiography
 
 
 <p class="abstract">
