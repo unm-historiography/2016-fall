@@ -6,7 +6,7 @@ date: 2016-11-08 00:00:00
 
 
 # Enlightened Historiagraphy
-<p class="author"> Zakery R Munoz &amp; Marry Phibbs </p>
+<p class="author"> Zakery R Munoz &amp; Mary Phibbs </p>
 
 ## _"Enlightenment is man's release from his self-incurred immaturity."_<br>
 
