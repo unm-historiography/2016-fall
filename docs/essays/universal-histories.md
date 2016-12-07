@@ -8,7 +8,11 @@ date: 2016-11-19 00:00:00
 
 ## The Varied and Deep Tradition of Universal History
 
+
+<p class="abstract">
 Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars, the local and the singular, to form a narrative which applies to **all** the world’s peoples. This attempt is impossible. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that can never be utterly “correct”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis. However throughout history, peoples, groups, and societies have still made the vain attempt to create a universal history regardless.
+</p>
+
 
 ### Ancient Narratives
 
@@ -30,6 +34,11 @@ However this very rise to Empire would later prove to be Rome’s own undoing. H
 
 
 ### Theocracy and History
+
+{% include figure.html class="img-left" src="1581_Bunting_clover_leaf_map.jpg" caption="This map by Heinrich Bunting 1581 shows similar attributes to a universal history. While it depicts the world, accuracy is explicitly secondary to symbolism and meaning. The positioning of Jerusalem in the center of the world and the dimensions of the continents is meant to be an expression of piety and a reference to the symbol of the artists hometown. The map also exhibits a major flaw with universal historys; note that the *the entierty of America is depicted as a small island in the corner* showing a lack of adaptation in the worldview." %}
+
+
+
 Yet as Rome fell completely its institutions and values would be destroyed, to be replaced by the Catholic Church, which waxed as Rome waned. Christian theological history contained that essence of *transfer and empire* that Rome managed to encompass, allowing its story to be sent to other places and peoples. However it was not shackled to a place or a people, transcending those particulars for a truly universal message.
 
 In the earliest and formative period of Christianity, the major authors tended to be hermetic monks later deemed “Church Fathers” for their theological contribution. They, both collectively and specifically [Augustine of Hippo](https://en.wikipedia.org/wiki/Augustine_of_Hippo), formed a universal paradigm which was followed by all medieval authors as the highest ideal of history. Augustine’s paradigm related how the new history was unique because it grasped the truth of God, thus differentiating it from earlier histories (Kelley, 90). In this manner historiography, and history itself as well, was framed as the progression from Pagan mistakes to Christian Truth (Kelley, 91). [Orosius](https://en.wikipedia.org/wiki/Orosius), a student of Augustine, further linked past events such as the pillaging of Babylon to the horrors of his time, and provided a master-narrative for the rise of Rome itself; Rome rose in order to provide the framework for the conversion of Europe to Christianity and the establishment of the will of God in law (Kelley, 94). 
@@ -79,4 +88,6 @@ Marto Garcia Morcillo. *The Glory of Italy and Rome's Universal DEstiny in Strab
 
 Tim Cornell. *Univerasl History and the Early Roman Historians*. In Liddel, Peter P., and A. T. Fear, eds. *Historiae Mundi: Studies in Universal History*. London: Duckworth, 2010. Print.
 
-Christain, David. *“The Return of Universal History”*. PDF. Sydney: Macquarie University, December 8, 2010. Accessed from thegreatstory.org/universal-history.pdf.
+[Christain, David. *“The Return of Universal History”*. PDF. Sydney: Macquarie University, December 8, 2010.] (thegreatstory.org/universal-history.pdf).
+
+Image from [Wikimedia commons](https://commons.wikimedia.org/wiki/File:1581_Bunting_clover_leaf_map.jpg).
