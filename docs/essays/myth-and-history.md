@@ -67,7 +67,7 @@ The experience of passing time cannot be captured, except for in language, which
 
 #### Works Cited
 
-Donald R Kelley, [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false) (London & New Haven, Yale University Press, 1988).
+Kelley, Donald R., [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false) (London & New Haven, Yale University Press, 1988).
 
 
 
