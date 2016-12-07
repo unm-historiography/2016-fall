@@ -25,3 +25,20 @@ The idea of **universal history** codified as a distinct narrative during the Re
 
 <p class="has-pullquote" data-pullquote="Clinging to these ideals--and at the same time vastly increasing the quantity, accessibility, and critical understanding of source materials--history reinforced its potential to become a true science."></p>Alongside confessional and universal histories, another history that had emerged in earlier eras but really began to take foot in the Reformation was **humanism**.  In the process, humanism placed a further focus on looking at **individual histories** and the importance of humans in and on history. This was a time for immense growth in both the field of historiography, and in the potential for history to become a respected science rather than mere art, "yet the rhetoric of historical impartiality, disinterested curiosity, and scientific aspirations remained; and even the most committed historians contributed, if only inadvertently, to the project of historical inquiry--to tell the truth, be humanly useful, and perhaps even be a way to wisdom. **”Clinging to these ideals--and at the same time vastly increasing the quantity, accessibility, and critical understanding of source materials--history reinforced its potential to become a true science."** (p187, Kelley)
 
+**Works Cited**
+
+Grant, A. J. A History of Europe from 1494 to 1610. New York: n.p., 1951. Print.
+
+Spitz, Lewis William. The Protestant Reformation, 1517-1559. New York: Harper & Row, 1985. Print.
+
+Wiesner, Merry E. A Concise History of the World. New York: Cambridge UP, 2015. Print.
+
+
+
+
+
+
+
+
+
+
