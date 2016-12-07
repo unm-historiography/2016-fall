@@ -10,7 +10,7 @@ date: 2016-11-19 00:00:00
 
 
 <p class="abstract">
-Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars, the local and the singular, to form a narrative which applies to **all** the world’s peoples. This attempt is impossible. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that can never be utterly “correct”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis. However throughout history, peoples, groups, and societies have still made the vain attempt to create a universal history regardless.
+Universal histories, at their most fundamental level, detail histories which attempt to transcend particulars, the local and the singular, to form a narrative which applies to all the world’s peoples. This attempt is impossible. Universal Histories often fail in their goals, fall flat on further analysis, or are significantly limited in scope. They make assumptions or generalizations, based on perceived trends, religious expectations, or philosophical musings, that can never be utterly “correct”. Thus, in modern scholarship, we see an abandonment of these ancient traditions and narratives for more limited, small scale, historical analysis. However throughout history, peoples, groups, and societies have still made the vain attempt to create a universal history regardless.
 </p>
 
 
