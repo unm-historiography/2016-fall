@@ -8,12 +8,12 @@ date: 2016-11-08 00:00:00
 # Enlightened Historiagraphy
 
 ## _"Enlightenment is man's release from his self-incurred immaturity."_
-
+<p class="author"> Zakery R Munoz &amp; Marry Phibbs </p>
 
 <p class="abstract">
 The Enlightenment witnessed thinkers who used reason to critique the established structures of society. This criticism was also applied to the study of history. History of the Enlightenment cannot be understood without a fundamental understanding of philosophical concepts of the time. In this article Enlightenment thought and its effect on the study of history are examined. 
 
-</p>
+
 
 
 A time of enlightened thought, a time of <i>rational</i> thought, a time of <i>reason</i>. A time that blurred lines between Philosophers and Historians. The Enlightenment was a time of profound change in intellectual thought in the 17th and 18th centuries. Like most significant eras, the Enlightenment provoked events that would have repercussions on society – the Enlightenment would go on to inspire the founding documents of The United States of America, the French Revolution and would play a significant role in shaping modern European politics and thought, and history will began to be written in differing ways; ways that society sill uses to this day. During the Enlightenment, history was approached more critically and with a desire to use the lessons learned to improve the human condition. This age of reason and logic was the culmination and pinnacle of human development. The Enlightenment didn’t happen on accident; it was strewed on by great thinkers, scientific revolution, and historians – history is the master science.<br>
