@@ -42,3 +42,16 @@ Sleidan’s commitment to recounting both religious and civil history speaks to 
 
 As the Reformation began, Protestants had to construct their histories or origins. While it may seem obvious to say that Protestant history began with the Reformation, Protestant historians of the time would disagree. Protestants traced their history back to the ancient times. One such writer, John Foxe, stated that, “we have the old actes and histories of auncient tyme to give testimonie with us…, to declare the same form, usage, and institution of this our Church reformed now, not to be the begynnyng of any new Churche of our owne, but to be the renewiyng of the old auncient Church of Christ.” The notion that the Protestant church was simply the resurgence of a church that existed in ancient times became the manner in which Reformation histories legitimized Protestantism as the “true religion.” Martyrs also became a part of the rhetoric involving Protestant origins.In part, the purpose of this was to show the deep roots of the Protestant faith, however there is a certain amount of accusation that accompanies the martyr argument. Without really saying it, Protestant histories were saying that Catholics had been persecuting the “true religion” the whole time. Essentially the goal of Protestant history was to establish origins that legitimize the Protestant faith, while simultaneously devaluing the Catholic faith. Protestant historians wanted to establish their religion as the ultimate source of truth.
 
+## Works Cited
+
+Kelley, Donald R. Faces of History: Historical Inquiry from Herodotus to Herder. New Haven: Yale University Press, 1998.
+
+Kess, Alexandra. Johann Sleidan and the Protestant Vision of History. Aldershot, England: Ashgate Pub., 2008.
+
+P. *Comminaei de Carlo Octavo* (Strasbourg, 1548); Eng. trans., "The Epistle of John Sleidan" to the Protector Somerset.
+
+Preface to the English translation, *The General Hisotry of the Reformation of the Church* (London, 1689); VH.
+
+Tertullian, *Apology* 50.13.
+
+*The First Volume of the Ecclesiasticall Hisotry* (London, 1576), 2; VH.
