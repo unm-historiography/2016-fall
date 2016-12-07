@@ -4,14 +4,15 @@ title: Introduction to Historiography on the Web
 date: 2016-12-02 00:00:00
 ---
 
+<p class="author">Fred Gibbs</p>
+
 # An Introduction to Premodern Historiography
 
 ## A preliminary guide to continuities and ruptures
 
-<p class="author">Fred Gibbs</p>
 
 <p class="abstract">
-This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
+Despite the importance of historiography for modern enthusiasts of history, it often seems a intimidating subject with a high barrier to entry, mired in abstract theoretical, philosophical, and methodological jargon. The essays collected here take both a chronological and thematic approach to highlighting important developments, shifts, inflection points, continuities, and ruptures in the way people have conceived and produced historical interpretations of the western world. This website showcases the collaborative essays produced by an undergraduate historiography course at the University of New Mexico.
 </p>
 
 You should make your abstract look like this, too! Below is the snippet of code that will do that. It's not Markdown, but plain HTML. You can copy and paste this into your essay, and then paste in your actual abstract. Do not include references in your abstract.
@@ -32,6 +33,9 @@ While reading history often seems like an adventure into the past, it never full
 Despite the importance of historiography for modern enthusiasts of history, it often seems a intimidating subject with a high barrier to entry, mired in abstract theoretical, philosophical, and methodological jargon. The essays collected here take both a chronological and thematic approach to highlighting important developments, shifts, inflection points, continuities, and ruptures in the way people have conceived and produced historical interpretations of the western world. Its chronological scope is roughly Greek antiquity through the European Enlightenment; each essay focuses on a particular time period, but shows reaches both forward and backward in time to better situate and explain historiographical developments.
 
 Two of our guiding questions have been: **Who is history for?** and **What is history for?** These essays show through careful synthesis of secondary sources and copius references to primary sources how this question can and perhaps should be answered at various periods throughout history. They emphasize the forest rather than the trees; readers curious for more detail can pursue the topic through the bibliographies for further reading at the end of each essay.
+
+## Contributors
+This site is the product of an ambitious and fearless group of historiographers working through difficult historiographical readings for the first time. While each essay features its author's (or authors') name(s), the entire project benefitted from wide-ranging, provocative, enlightening, and at times seriously frustrating discussions. Many thanks and appreciation to Mara Anderson, Alison Atencio, Kyle Chicharello, Tiersa Cimino, Robert Collins, Jonathan Cox, Cody Dowd, Jamie Fowler-Diaz, Mckenzie Manwill, David Morin, Zakery Munoz, Alex Nocella, Mary Phibbs, Charles Risse, Sarah Sykes, and Madeline Whitacre.
 
 -----
 

@@ -1,7 +1,7 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans);
-@import url(http://fonts.googleapis.com/css?family=Raleway);
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,500,700);
-@import url(http://fonts.googleapis.com/css?family=Roboto+Condensed:300,500,700);
+@import url('http://fonts.googleapis.com/css?family=Open+Sans');
+@import url('http://fonts.googleapis.com/css?family=Raleway');
+@import url('http://fonts.googleapis.com/css?family=Roboto:300,500,700');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700');
 
 @media screen {
 
@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
-  margin: 1.5em 0 .2em 0;
+  margin: 0em 0 .2em 0;
   font-size: 2em;
   text-align: center;  
 }
@@ -94,9 +94,11 @@ p.abstract {
   background-color: #e5d3bb;
   padding:2em;
   font-size: 90%;
+  margin: 3em 0 3em 0em;
 }
 
 p.author {
+  margin: 4em 0 .2em 0;
   text-align: center;
 }
 
@@ -142,7 +144,7 @@ li ul li {
   /* Pull out to the right, modular scale based margins. */
   float: right;
   width: 20em;
-  margin: 1em 0 1em 2em;
+  margin: 0em 0 1em 2em;
   
   /* Baseline correction */
   position: relative;
@@ -160,22 +162,41 @@ li ul li {
   clear:none;
   margin:none;
   /* no bottom padding; handled with caption */
-  padding:0 0px 0px 18px;
+  padding:0 0px 0px 2em;
+  width:250px;
 }
 
+.img-left {
+  float:left;
+  clear:none;
+  margin:none;
+  /* no bottom padding; handled with caption */
+  padding:0 2em 0px 0px;
+  width:250px;
+}
 
-figcaption.img-right {
+figure {
+  margin-bottom:.7em;
+}
+
+figcaption {
   font-size: 80%;
   color:#666;
-  text-align: right;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:.2em 0 .2em 0;
+  margin:.2em 0 0em 0;
   clear:both;
   width: 250px;
-  line-height: 1.2em;
+  line-height: 1.3em;
 }
 
+figcaption.img-right {
+  text-align: justify;
+}
+
+figcaption.img-left {
+  text-align: justify;
+}
 
 } /* end media screen */
 
