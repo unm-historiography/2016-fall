@@ -20,7 +20,7 @@ According to Kelley, history emerged from myth, and forced itself into stories a
 
 ### What is History?
 
-<p class="has-pullquote" data-pullquote="A myth is a story that is sacred to and shared by a group of people who find their most important meanings in it..."></p>
+<p class="has-pullquote" data-pullquote="A myth is a story that is sacred to and shared by a group of people who find their most important meanings in it."></p>
 
 What exactly qualifies as history, then? Arguably, the biggest form of history could actually be myth. A myth or traditional story, by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example would be an epic poem, which typically discusses heroic deeds and events that are significant to the culture of the poet. Lists of priests and kings are also important forms of recorded history, because they each kept track of important people in different societies. Finally, the last significant form of history is chronology, which observes the arrangement of events and keeps them all in order by the dates they occurred on. All of these genres became a form of history before the term and concept of "history" even existed (Kelley, 3). Something else that Kelley points out is that we are never fully able to see past our own prejudices with either history or myth, but when it comes to "working on myth" or "historicizing", our prejudices allow us to remain critical of our work and question the sources we are using. Without our deepest prejudices present in our minds, we wouldn't be able to write history in the clearest way possible (Kelley, 1). 
 
