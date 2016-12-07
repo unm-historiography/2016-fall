@@ -4,11 +4,12 @@ title: Introduction to Historiography on the Web
 date: 2016-12-02 00:00:00
 ---
 
-<p class="author">Fred Gibbs</p>
 
 # An Introduction to Premodern Historiography
 
 ## A preliminary guide to continuities and ruptures
+
+<p class="author">Fred Gibbs</p>
 
 
 <p class="abstract">

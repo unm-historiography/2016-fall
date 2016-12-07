@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5 {
 h1 {
   font-family: 'Roboto', sans-serif;
   font-weight: 700;
-  margin: 0em 0 .2em 0;
+  margin: 3em 0 .2em 0;
   font-size: 2em;
   text-align: center;  
 }
@@ -33,7 +33,7 @@ h1 {
 h1.homeheading {
   font-family: 'Roboto Condensed', sans-serif;
   color:#333333;
-  font-size: 2.3em;
+  font-size: 2em;
   margin-top: 2em;
   margin-bottom: .2em;
 }
@@ -58,10 +58,14 @@ h2 {
   font-weight: 300;
   font-family: 'Roboto', sans-serif;
    font-family: 'Raleway', sans-serif;
-  font-size: 1.4em;
+  font-size: 1.3em;
   line-height: 120%;
-  margin: 0em 0 .2em 0;
+  margin: 0em 0 0em 0;
   text-align: center;
+}
+
+h2.homeheading {
+  font-size: 1.2em;
 }
 
 h3 {
@@ -75,6 +79,7 @@ h3 {
 
 h4 {
   font-size:1.2em;
+  margin: 1.5em 0 .2em 0;
 }
 
 
@@ -98,8 +103,10 @@ p.abstract {
 }
 
 p.author {
-  margin: 4em 0 .2em 0;
+  margin: .5em 0 0em 0;
   text-align: center;
+  text-transform: uppercase;
+  color:#666;
 }
 
 footer {
