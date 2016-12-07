@@ -35,7 +35,7 @@ However this very rise to Empire would later prove to be Rome’s own undoing. H
 
 ### Theocracy and History
 
-{% include figure.html class="img-left" src="1581_Bunting_clover_leaf_map.jpg" caption="This map by Heinrich Bunting 1581 shows similar attributes to a universal history. While it depicts the world, accuracy is explicitly secondary to symbolism and meaning. The positioning of Jerusalem in the center of the world and the dimensions of the continents is meant to be an expression of piety and a reference to the symbol of the artists hometown. The map also exhibits a major flaw with universal historys; note that the *the entierty of America is depicted as a small island in the corner* showing a lack of adaptation in the worldview." %}
+{% include figure.html class="img-left" src="1581_Bunting_clover_leaf_map.jpg" caption="This map by Heinrich Bunting 1581 shows similar attributes to a universal history. While it depicts the world, accuracy is explicitly secondary to symbolism and meaning, specifically regarding continent shape and the position of Jerusalem." %}
 
 
 
