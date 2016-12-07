@@ -30,7 +30,7 @@ The art of writing history involves three important factors, scope, method, and 
 
 ### The Ancient Egyptians
 
-{% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Ancient Egyptian wall painting depicting King Tut with the Egyptian gods Anubis and Nephthys" %}
+{% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)" %}
 
 Historians have always attempted to relate human behavior and human nature with its environment, which also includes social and natural contexts that help to locate and distinguish it from other cultures and communities (Kelley, 8). The ancient Egyptians supplied many examples of historical inquiry and interpretation for historians over the course of time because they were a society that held a vast interest in the origins of the universe, their gods, genealogies, chronology, victories over their enemies, and the afterlife. The [Palermo Stone](http://archaeology.about.com/od/oldkingdom/fl/The-Palermo-Stone-Key-to-Old-Kingdom-Egypt-Royal-Families.htm) is one example of their efforts to record their history. The stone contains inscriptions of regnal lists on one of six fragments of a giant slab. Social memory during the time of the ancient Egyptians was embodied in architecture and funeral remains. Pyramids and monuments were used in ancient Egyptian myths to help preserve memories (Kelley, 13-14).
 
