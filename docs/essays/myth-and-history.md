@@ -44,7 +44,7 @@ Historians have always attempted to relate human behavior and human nature with 
 	
 ### The Greeks
 
-{% include figure.html class="img-right" src="odysseus-in-the-cave-of-polyphemus.jpg!Large.jpg" caption="Odysseus in the Cave of Polyphemus by Jacob Jordaens (1635)" %}
+{% include figure.html class="img-left" src="odysseus-in-the-cave-of-polyphemus.jpg!Large.jpg" caption="Odysseus in the Cave of Polyphemus by Jacob Jordaens (1635)" %}
 
 Philosophy and science made Greece the starting point for the story of the human condition in time (Kelley, 13). Proto-historiographical forms of writing in Greek culture included: Genealogy, a line of descent traced continuously from a specific ancestor. Geography, the study of human activity, including the distribution of populations and resources over time. Ethnography, the scientific description of the customs of different cultures and groups of people, and local history, the study of the patterns and behavior of the people in one’s own community. Like the Ancient Egyptians, the Greeks also expressed an interest in chronology. [Hellanicus](https://www.britannica.com/biography/Hellanicus-of-Lesbos), a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the mythical aspects from his work to make it more historically accurate. Examples of Greek mythology include both myths and teachings about their gods and heroes, the origins and importance of their own rituals and culture, and the nature of the world (Kelley, 15).
 
