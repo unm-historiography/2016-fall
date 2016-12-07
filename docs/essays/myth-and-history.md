@@ -62,9 +62,9 @@ Philosophy and science made Greece the starting point for the story of the human
 
 The most essential theme to survive constant changes in language, culture, ideology, and human values is the issue of [truth](https://unm-historiography.github.io/491-fall2016/essays/historical-truth.html), but what does truth mean? It has always exhibited different natures and histories, but each meaning is somehow always united into one single idea; truth is not a static value, and has its own kind of destiny (Kelley, 10-11). Concluding the truth depends on one’s perspective, and how they interpret the information that is given to them. What one person views as the truth could be another person proof of a lie. 
 
-<p class="has-pullquote" data-pullquote="To be a truth seeking mythographer is therefore a high and serious calling, for what a group of people knows and believes about the past channels expectations and affects the decisions on which their lives, their fortunes, and their sacred honor all depend."></p>
-
 The experience of passing time cannot be captured, except for in language, which unfortunately offers a poor representation of individual memories and knowledge. History is often regarded to as a combination of different memories, but this causes more problems than it solves because memory is selective. For example, a huge problem that historians have to take into consideration is that stories that have been passed down through different generations have been changed multiple times, which makes it much more difficult to distinguish the made up parts from the parts that actually did occur (Kelley, 11).
+
+<p class="has-pullquote" data-pullquote="To be a truth seeking mythographer is therefore a high and serious calling, for what a group of people knows and believes about the past channels expectations and affects the decisions on which their lives, their fortunes, and their sacred honor all depend."></p>
 
 
 #### Works Cited
