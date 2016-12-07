@@ -65,7 +65,7 @@ The most essential theme to survive constant changes in language, culture, ideol
 The experience of passing time cannot be captured, except for in language, which unfortunately offers a poor representation of individual memories and knowledge. History is often regarded to as a combination of different memories, but this causes more problems than it solves because memory is selective. For example, a huge problem that historians have to take into consideration is that stories that have been passed down through different generations have been changed multiple times, which makes it much more difficult to distinguish the made up parts from the parts that actually did occur (Kelley, 11).
 
 
-### Works Cited
+#### Works Cited
 
 Kelley, Donald R. Faces of History: Historical Inquiry from Herodotus to Herder. New Haven: Yale University Press, 1998.
 
