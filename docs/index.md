@@ -96,7 +96,7 @@ date: 2015-09-18 00:00:00
   <div class="row home-bar">
     <div class="col-sm-8 col-sm-offset-2 text-center">
       <h1 class="homeheading">Scientific History</h1>
-      <h2 class="homeheading">A clever, but not too cute subtitle goes here</h2>
+      <h2 class="homeheading">Approaching A New Genre of History</h2>
       <p class="text-justify">The Enlightenment witnessed thinkers who used reason to critique the established structures of society. This criticism was also applied to the study of history. History of the Enlightenment cannot be understood without a fundamental understanding of philosophical concepts of the time. In this article Enlightenment thought and its effect on the study of history are examined.</p> 
     </div>
   </div>
