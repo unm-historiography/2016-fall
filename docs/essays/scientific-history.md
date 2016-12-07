@@ -33,7 +33,11 @@ For humanists, history was a way to add structure to the world and to understand
 
 
 ### The Method of History
-The beginning of historiography was not original to Renaissance humanists.  Historiography began as early as Antiquity, from authors like [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) and [Thucydides](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#thucydides-science-politics-and-professionalism).  Some sixteenth-century scholars were not satisfied with history being defined as an art; they wanted to apply methodical concepts to make history more of a science.  One way to achieve this method was to translate ancient philosophical texts into the context of the modern era.  An example of this is seen in [Jean Bodin’s *Republique*](http://www.iep.utm.edu/bodin/).  Bodin was a historian, lawyer, economist, and natural philosopher in the sixteenth century.   He tried to use history for legal and political purposes, and implied the type of government he wanted was a [republic](http://www.merriam-webster.com/dictionary/republic).  Renaissance humanists translated literary texts from antiquity with the intention of dictating human decisions; like the way Bodin tries to make [Tacitus](https://en.wikipedia.org/wiki/Tacitus) or the Roman Rebublic relevant to his time.  The idea that hindsight is 20/20 was appealing and applied to every person. 
+The beginning of historiography was not original to Renaissance humanists.  Historiography began as early as Antiquity, from authors like [Herodotus](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#herotodus-the-father-of-history) and [Thucydides](https://github.com/unm-historiography/491-fall2016/blob/master/docs/essays/greek-historiography.md#thucydides-science-politics-and-professionalism).  Some sixteenth-century scholars were not satisfied with history being defined as an art; they wanted to apply methodical concepts to make history more of a science.  One way to achieve this method was to translate ancient philosophical texts into the context of the modern era.  An example of this is seen in [Jean Bodin’s *Republique*](http://www.iep.utm.edu/bodin/). 
+
+> The love of knowledge, says Aristotle, is natural to all men.  It is passion to which the wise men of antiquity were slaves, and which still inflames the learned in our own day.  It is the source of all science and of all philosophy.  From an etymological point of view, what is the philosophy? It is the love of knowledge (41).
+
+Bodin was a historian, lawyer, economist, and natural philosopher in the sixteenth century.   He tried to use history for legal and political purposes, and implied the type of government he wanted was a [republic](http://www.merriam-webster.com/dictionary/republic).  Renaissance humanists translated literary texts from antiquity with the intention of dictating human decisions; like the way Bodin tries to make [Tacitus](https://en.wikipedia.org/wiki/Tacitus) or the Roman Rebublic relevant to his time.  The idea that hindsight is 20/20 was appealing and applied to every person. 
 
 The key for history to become a science was organization.  Organization gave structure to knowledge; like a skeleton to an animal.  Organization put an emphasis on genealogy (line of decent) which was important to the Ciceronian Laws.  The Ciceronian Laws refer to the use of both truth and impartiality to achieve perfection under the influence of rhetoric.   Organization also helped the status of a particular topic.  For example, the Spanish philosopher [Juan Luis Vives](http://www.encyclopedia.com/people/philosophy-and-religion/philosophy-biographies/juan-luis-vives) was upset that pagan history was better recorded than Christian history.
 
@@ -56,6 +60,20 @@ Universal history appealed to many people in the sixteenth-century, both religio
 ### Suggested Readings
 Antonio Perez-Ramos, *Francis Bacon’s Idea of Science and the Maker’s of Knowledge Tradition*
 
+Singleton, Charles S., ed. Art, Science, and History in the Renaissance. Baltimore: Johns Hopkins Press, 1967.
+
+Greenblatt, Stephen. The Swerve: How the World Became Modern. New York: W.W. Norton, 2012.
+
+Jacob, P. L. Science and Literature in the Middle Ages and the Renaissance. With over 400 Wood Engravings. New York: F. Ungar Pub., 1964.
+
+Kaufmann, Thomas DaCosta. The Mastery of Nature: Aspects of Art, Science, and Humanism in the Renaissance. Princeton, NJ: Princeton University Press, 1993.
+
+Wightman, W. P. D. Science and the Renaissance. Vol. 1. Edinburgh: Oliver and Boyd, Published for the University of Aberdeen, 1962.
+
+Sarton, George. Six Wings: Men of Science in the Renaissance. Bloomington: Indiana University Press, 1957.
+
+Mignolo, Walter. The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization. 2nd ed. Ann Arbor: University of Michigan Press, 2003.
+
 
 ### Suggested Primary Sources
 Leonardo Bruni, *History of the Florentine People*
@@ -65,6 +83,8 @@ Henry Cornelius Agrippa, *Vanity of the Arts and Sciences*
 Lucian *How to Write History*
 
 Dionysius of Helicarnassus critique of Thucydides
+
+Lacroix, Paul. Science and Literature in the Middle Ages and the Renaissance: Illustrated with Upwards of Four Hundred. London: Bickers, 1878.
 
 
 
