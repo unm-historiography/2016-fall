@@ -8,6 +8,8 @@ date: 2016-11-08 00:00:00
 
 ## How History Emerged From Myth
 
+<p class="author">Sarah Sykes</p>
+
 <p class="abstract">
 (Still need an abstract)
 </p>
