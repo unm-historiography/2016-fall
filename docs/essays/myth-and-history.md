@@ -20,15 +20,13 @@ According to Kelley, history emerged from myth, and forced itself into stories a
 
 ### What is History?
 
-<p class="has-pullquote" data-pullquote="History is probably our myth."></p>
+<p class="has-pullquote" data-pullquote="A myth is a story that is sacred to and shared by a group of people who find their most important meanings in it..."></p>
 
 What exactly qualifies as history, then? Arguably, the biggest form of history could actually be myth. A myth or traditional story, by definition, concerns the early history of a group of people, and helps to explain some sort of natural or social occurrence. Another example would be an epic poem, which typically discusses heroic deeds and events that are significant to the culture of the poet. Lists of priests and kings are also important forms of recorded history, because they each kept track of important people in different societies. Finally, the last significant form of history is chronology, which observes the arrangement of events and keeps them all in order by the dates they occurred on. All of these genres became a form of history before the term and concept of "history" even existed (Kelley, 3). Something else that Kelley points out is that we are never fully able to see past our own prejudices with either history or myth, but when it comes to "working on myth" or "historicizing", our prejudices allow us to remain critical of our work and question the sources we are using. Without our deepest prejudices present in our minds, we wouldn't be able to write history in the clearest way possible (Kelley, 1). 
 
 ### The Art of Writing History
 
 The art of writing history involves three important factors: _scope_, _method_, and _purpose_. Scope involves subject matter, chronology, geography, and historical evidence that has been passed down through the generations verbally, or written down by scribes, which historians have found to be worthy or useful of making note of. Method involves the means of gathering the above information and making sense of it and even re-writing it, primarily to bring it into the public sphere. Finally, the last important factor is purpose. Purpose involves the value claimed for the study of history, and what would later become known as the [philosophy of history](https://unm-historiography.github.io/491-fall2016/essays/enlightenment-historiography-zak.html). That is, history that takes a more theoretical approach. All three of these aspects can be projected on a small or large scale, and can be intended for local or global usage, depending on the historian and what his/her goals are for their work (Kelley, 7). These three things are important because they help us to understand and figure out what was important to different cultures across a broad timeframe. 
-
-<p class="has-pullquote" data-pullquote="A myth is a story that is sacred to and shared by a group of people who find their most important meanings in it..."></p>
 
 ### The Ancient Egyptians
 
