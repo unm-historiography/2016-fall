@@ -9,8 +9,6 @@ date: 2016-11-08 00:00:00
 
 <p class="author">Mara Anderson</p>
 
-{% include figure.html class="img-right" src="Cute-Cat.JPG" %}
-
 <p class="abstract">
 Reformation historiography largely centered around the revision of history, removing the elites as the sole makers and consumers of history.  Further, this meant movement away from histories that centered around Rome and reinforced the authority of the Catholic church.  Additionally, Protestant historians were attempting to write their religion into history and provide Protestantism with authority through origin stories.  However, in the end, the Reformation became the catalyst for secular history and the professionalization of history as a profession.  
 </p>  
