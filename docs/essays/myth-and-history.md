@@ -16,7 +16,7 @@ date: 2016-11-08 00:00:00
 
 ### Introduction 
 
-According to Kelley, history emerged from myth, and forced itself into stories and legends until it gained full insight (Kelley, 1). But when exactly did this happen? Was it during the time of Machiavelli, the well-known Italian Renaissance historian? Or Voltaire, the famous writer and historian during the French Enlightenment era? Or is it still gaining understanding in the current century? This question will probably never attain a definite answer. As long as there are people around to record it, the subject of history will forever be changing and gaining wisdom and knowledge by those studying it (Kelley, 1). 
+According to Kelley, history emerged from myth, and forced itself into stories and legends until it gained full insight (Kelley, 1). But when exactly did this happen? Was it during the time of [Machiavelli,](https://unm-historiography.github.io/491-fall2016/essays/renaissance-historiography.html) the well-known Italian Renaissance historian? Or Voltaire, the famous writer and historian during the French [Enlightenment](https://unm-historiography.github.io/491-fall2016/essays/enlightenment-historiography-zak.html) era? Or is it still gaining understanding in the current century? This question will probably never attain a definite answer. As long as there are people around to record it, the subject of history will forever be changing and gaining wisdom and knowledge by those studying it (Kelley, 1). 
 
 <p class="has-pullquote" data-pullquote="A myth is a story that is sacred to and shared by a group of people who find their most important meanings in it."></p>
 
