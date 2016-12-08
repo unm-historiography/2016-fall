@@ -76,3 +76,5 @@ Niccoló Machiavelli, *Storia di Fiorentine e delle cose d'Italia* (1532); Engl
 Polydore Vergil, *De rerum inventoribus* (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
 
 Wallace K. Ferguson, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
+
+All figures via Wikimedia Commons, ([Fransesco Petrarch](https://en.wikipedia.org/wiki/Petrarch#/media/File:Francesco_Petrarca00.jpg)) ([Niccolo Machiavelli](https://commons.wikimedia.org/wiki/Niccol%C3%B2_Machiavelli#/media/File:Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait.jpg)) ([Giovanni Villani](https://commons.wikimedia.org/wiki/File:Giovanni_villani_1.JPG)).
