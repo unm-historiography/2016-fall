@@ -71,8 +71,8 @@ Giovanni Villani, *Nuova Cronica* (c.1348); English translation: Rose E Selfe, �
 
 Herschel Baker, [*The Race of Time*](https://books.google.com/books?id=xDJEDAAAQBAJ&pg=PT2&dq=The+Race+of+Time+Herschel+Baker&hl=en&sa=X&ved=0ahUKEwj_ntOCltvQAhUGyrwKHd6tAm0Q6AEIGzAA#v=onepage&q&f=false) (U.S.A., University of Toronto Press, 1967).
 
-Niccoló Machiavelli, [*Storia di Fiorentine e delle cose d'Italia*](https://books.google.com/books?id=wTNRDAAAQBAJ&printsec=frontcover&dq=Machiavelli+history+of+florence&hl=en&sa=X&ved=0ahUKEwi9gfGQl9vQAhVX7GMKHQlWABoQ6AEIITAB#v=onepage&q&f=false) (1532); English translation: Felix Gilbert "The History of Florence and the Affairs of Italy" (New York, Harper & Row, 1966).
+Niccoló Machiavelli, *Storia di Fiorentine e delle cose d'Italia* (1532); English translation: Felix Gilbert "The History of Florence and the Affairs of Italy" (New York, Harper & Row, 1966).
 
-Polydore Vergil, [*De rerum inventoribus*](http://eebo.chadwyck.com/search/fulltext?SOURCE=config.cfg&ACTION=ByID&ID=D00000122270030000&WARN=N&SIZE=212&FILE=&ECCO=param(ECCO)) (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
+Polydore Vergil, *De rerum inventoribus* (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
 
 Wallace K. Ferguson, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
