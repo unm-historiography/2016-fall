@@ -30,7 +30,7 @@ The art of writing history involves three important factors: _scope_, _method_, 
 
 ### The Ancient Egyptians
 
-{% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Figure 1: Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)." %}
+{% include figure.html class="img-right" src="king-tut-with-gods.jpg" caption="Figure 1: Ancient Egyptian wall painting of King Tutankhamen and the Egyptian gods Anubis (left) and Nephthys (right)" %}
 
 Historians have always attempted to relate human behavior and human nature with its environment, which also includes social and natural contexts that help to locate and distinguish it from other cultures and communities (Kelley, 8). The Ancient Egyptians supplied many examples of historical inquiry and interpretation for historians over the course of time because they were a society that held a vast interest in the origins of the universe, their gods, genealogies, chronology, victories over their enemies, and the afterlife. The [Palermo Stone](http://archaeology.about.com/od/oldkingdom/fl/The-Palermo-Stone-Key-to-Old-Kingdom-Egypt-Royal-Families.htm) is one example of their efforts to record their history. The stone contains inscriptions of regnal lists on one of six fragments of a giant slab. Social memory during the time of the Ancient Egyptians was embodied in architecture and funeral remains. Pyramids and monuments were used in ancient Egyptian myths to help preserve memories (Kelley, 13-14).
 
@@ -44,7 +44,7 @@ Historians have always attempted to relate human behavior and human nature with 
 	
 ### The Greeks
 
-{% include figure.html class="img-left" src="Cyclops_and_Odysseus_vase_painting.svg.png" caption="Figure 2: Ancient Greek vase painting of Odysseus blinding Polyphemus." %}
+{% include figure.html class="img-left" src="Cyclops_and_Odysseus_vase_painting.svg.png" caption="Figure 2: Ancient Greek vase painting of Odysseus blinding Polyphemus" %}
 
 Philosophy and science made Greece the starting point for the story of the human condition in time (Kelley, 13). Proto-historiographical forms of writing in Greek culture included: Genealogy, a line of descent traced continuously from a specific ancestor. Geography, the study of human activity, including the distribution of populations and resources over time. Ethnography, the scientific description of the customs of different cultures and groups of people, and local history, the study of the patterns and behavior of the people in one’s own community. Like the Ancient Egyptians, the Greeks also expressed an interest in chronology. [Hellanicus](https://www.britannica.com/biography/Hellanicus-of-Lesbos), a contemporary Greek writer, attempted to create a comparative study of the chronologies of the Greeks and barbarian tribes, but was ultimately unable to remove the mythical aspects from his work to make it more historically accurate. Examples of Greek mythology include both myths and teachings about their gods and heroes, the origins and importance of their own rituals and culture, and the nature of the world (Kelley, 15).
 
