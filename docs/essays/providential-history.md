@@ -20,6 +20,8 @@ Judeo-Christian historiographers believed that history was universal in which Go
 
 ### **The God of History** 
 
+{% include figure.html class="img-left" src="exodus.jpg.png" caption="Figure 1: The Exodus from Egypt" %}
+
 *Historical writing that held to the notion of one God being an active participant in human history became known as Judeo-Christian historiography*. It was influenced by a very ancient semi-nomadic group commonly known as *Hebrews*. The Hebrew people believed that their God (Yahweh) had delivered them out of slavery from Egypt. This act of God became the very foundation of the Hebrew identity. Every year they were required to celebrate this monumental event, the Exodus, as if it happened to them; no matter how many generations had passed.They strictly followed the tradition that was eventually depicted in the Hebrew Scriptures. This tradition can be found in [Exodus 13](https://www.biblegateway.com/passage/?search=Exodus+13&version=NRSVCE) in which generation after generation, they were to explain, "This is because what the Lord did for me when I came out of Egypt"(13:8). This tradition continues to this day in the Jewish festival [Seder Passover](https://en.wikipedia.org/wiki/Passover_Seder). Hebrews saw the [Exodus](https://en.wikipedia.org/wiki/The_Exodus) as being more important than the belief in Creation. *Thus the Hebrews saw their god as the God of History rather than the God of Nature* (Butterfield, 86). The *God of History* was not just the creator of the world but was also an active participant in human relations. History was being unfold while God had an ultimate goal in mind for his chosen people, the Hebrews. The notion of God working throughout their history continued to be the center of the Hebrew faith, until a Hellenistic Jew took on the task of making this Hebrew God of History a *universal God of History*.
 
 ### **Universal History: Josephus**
@@ -46,6 +48,8 @@ The chronicler of Christianity was a man named Eusebius. There is little known a
 
 ### **The Bridge between Paganism and Christianity: Augustine**
 
+{% include figure.html class="img-left" src="Augustine.jpg.png" caption="Figure 2: The first portrait of Augustine." %}
+
 A man named Augustine was the *builder* of the pagan and Christian bridge. Augustine was born to a Christian mother and Pagan father on November 13, 354 in Tagaste, Numidia (Souk Ahras, Algeria). Augustine was well educated and became a teacher of rhetoric in Milan in 384 CE. Augustine was a pagan until a conversion experience led him to become baptized into Christianity in 387, and eventually he became the bishop of Hippo (Annaba, Algeria) in 395 CE. Augustine connected Paganism and Christianity in his belief that pagans lacked the knowledge of God working throughout history. *He believed that it was not the pagan gods that made the Roman state successful but the one true God; wisdom was possible by believing in God* (Kelley, 91). In Augustine's own words, “Therefore do not seek to understand in order to believe, but believe that you may understand” (Augustine, 6). Augustine’s most important work for his contribution to Christian historiography was the, *City of God*.
 
 Rome, for a short time, was under the rule of barbarians in 410 CE. Augustine wrote the *City of God* in response to charges that barbarians took over because Romans abandoned their gods for the Christian God. Augustine found himself having to defend the Christian faith and did this by attempting to present history in dualistic terms. He developed an idea of what he called *profane history* and *sacred history*. Profane history concerned secular affairs while sacred history, for Augustine, came from biblical narratives. Augustine used this idea of profane history to explain away the notion that Rome fell under barbarians because of the Christian God. Barbarians invaded Rome due to customs of war. Augustine still saw God as working throughout history but he also recognized the free will of men. To Augustine, God would bring good out of the mistakes made by human free will. This allowed him to view the pagan past as it was, with the belief that God had a plan working within these past histories. For Augustine, history had a beginning in the pagan past; a middle with the revelation of Jesus; and an end with the Second Comining of Christ. The *city of man* was symbolic of unbelief and the *city of God* was symbolic of faith. *Within this work Augustine presents human history as predestined by God, with Jesus being the revelation of truth, and the Second Coming as being the end of humankind*. Augustine built this bridge between paganism and Christianity by depicting profane history as being created by free will which is used by God to ultimately lead to the end of history. 
@@ -63,10 +67,3 @@ Chestnut, Glenn F. “Eusebius: Fate, Fortune, Free Will, and Nature”, *The Fi
 Kelley, Donald R. “The Education of the Human Race”, *Faces of History* 75-98. (London & New Haven: Yale University Press, 1988.)
 
 Momigliano, Arnaldo. “Pagan and Christian Historiography in the Fourth Century A.D.” *Essays in Ancient and Modern Historiography*, 107-126. (Middletown, Connecticut: Wesleyan University Press, 1977.)
-
-
-
-
-
-
-
