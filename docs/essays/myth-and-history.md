@@ -70,7 +70,9 @@ The experience of passing time cannot be captured, except for in language, which
 
 Kelley, Donald R., [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false) (London & New Haven, Yale University Press, 1988).
 
-[Figure 1](http://www.history.com/topics/ancient-history/ancient-egypt/pictures/egyptian-relief-sculpture-and-paintings/wall-painting-of-tutankhamun-accompanied-by-anubis-and-nephthys-2) courtesy of History.com and [figure 2](https://commons.wikimedia.org/wiki/Category:Polyphemus#/media/File:Cyclops_and_Odysseus_vase_painting.svg) courtesy of Wikipedia Commons.
+[Figure 1](http://www.history.com/topics/ancient-history/ancient-egypt/pictures/egyptian-relief-sculpture-and-paintings/wall-painting-of-tutankhamun-accompanied-by-anubis-and-nephthys-2) courtesy of [History.com.](http://www.history.com)
+
+[Figure 2](https://commons.wikimedia.org/wiki/Category:Polyphemus#/media/File:Cyclops_and_Odysseus_vase_painting.svg) courtesy of [Wikipedia Commons.](https://commons.wikimedia.org/wiki/Main_Page)
 
 
 
