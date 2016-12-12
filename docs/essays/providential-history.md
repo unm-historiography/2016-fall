@@ -24,7 +24,7 @@ Judeo-Christian historiographers believed that history was universal in which Go
 
 ### **Universal History: Josephus**
 
-{% include figure.html class="img-left" src="Cleve-van_construction-tower-babel.jpg" caption="Figure 1: The Tower of Babel. This particular work was painted by Hendrick van Cleve III in the 16th century" %}
+{% include figure.html class="img-right" src="Cleve-van_construction-tower-babel.jpg" caption="Figure 1: The Tower of Babel. This particular work was painted by Hendrick van Cleve III in the 16th century" %}
 
 The man that began to create a universal history is was [Josephus Flavius](https://en.wikipedia.org/wiki/Josephus). He was born around 37 CE in Jerusalem to a priestly family. He was a well educated Jew that became a commander in the [Great Revolt](https://www.britannica.com/event/First-Jewish-Revolt), that ultimately led to the destruction of the second Jewish temple in 70 CE. Josephus became a prisoner of Rome in 67 CE. While in prison, Josephus predicted that [Vespasian](https://en.wikipedia.org/wiki/Vespasian) would become the next Roman Emperor. Josephus' prediction was fulfilled after Emperor Nero committed suicide in 68 CE and Vespasian became emperor in 69 CE. He remained in Rome after he was released from prison, and began his work as a historian to present Judaism favorably to the non-Jewish world. 
 
@@ -51,6 +51,8 @@ The chronicler of Christianity was a man named Eusebius. There is little known a
 
 A man named Augustine was the *builder* of the pagan and Christian bridge. Augustine was born to a Christian mother and Pagan father on November 13, 354 in Tagaste, Numidia (Souk Ahras, Algeria). Augustine was well educated and became a teacher of rhetoric in Milan in 384 CE. Augustine was a pagan until a conversion experience led him to become baptized into Christianity in 387, and eventually he became the bishop of Hippo (Annaba, Algeria) in 395 CE. Augustine connected Paganism and Christianity in his belief that pagans lacked the knowledge of God working throughout history. *He believed that it was not the pagan gods that made the Roman state successful but the one true God; wisdom was possible by believing in God* (Kelley, 91). In Augustine's own words, “Therefore do not seek to understand in order to believe, but believe that you may understand” (Augustine, 6). Augustine’s most important work for his contribution to Christian historiography was the, *City of God*.
 
+{% include figure.html class="img-left" src="Augustine.jpg" caption="Figure 2: The first portrait of Augustine in 6th century." %}
+
 Rome, for a short time, was under the rule of barbarians in 410 CE. Augustine wrote the *City of God* in response to charges that barbarians took over because Romans abandoned their gods for the Christian God. Augustine found himself having to defend the Christian faith and did this by attempting to present history in dualistic terms. He developed an idea of what he called *profane history* and *sacred history*. Profane history concerned secular affairs while sacred history, for Augustine, came from biblical narratives. Augustine used this idea of profane history to explain away the notion that Rome fell under barbarians because of the Christian God. Barbarians invaded Rome due to customs of war. Augustine still saw God as working throughout history but he also recognized the free will of men. To Augustine, God would bring good out of the mistakes made by human free will. This allowed him to view the pagan past as it was, with the belief that God had a plan working within these past histories. For Augustine, history had a beginning in the pagan past; a middle with the revelation of Jesus; and an end with the Second Comining of Christ. The *city of man* was symbolic of unbelief and the *city of God* was symbolic of faith. *Within this work Augustine presents human history as predestined by God, with Jesus being the revelation of truth, and the Second Coming as being the end of humankind*. Augustine built this bridge between paganism and Christianity by depicting profane history as being created by free will which is used by God to ultimately lead to the end of history. 
 
 ### **Universal, Chronology, Providential**
@@ -69,3 +71,5 @@ Kelley, Donald R. “The Education of the Human Race”, *Faces of History* 75-9
 Momigliano, Arnaldo. “Pagan and Christian Historiography in the Fourth Century A.D.” *Essays in Ancient and Modern Historiography*, 107-126. (Middletown, Connecticut: Wesleyan University Press, 1977.)
 
 Figure 1: Courtesy of [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg)
+
+Figure 2: Courtesy of [Wikipedia](https://en.wikipedia.org/wiki/Augustine_of_Hippo)
