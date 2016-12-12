@@ -24,7 +24,7 @@ Judeo-Christian historiographers believed that history was universal in which Go
 
 ### **Universal History: Josephus**
 
-{% include figure.html class="img-left" src="Cleve-van_construction-tower-babel.jpg" caption="Figure 1: The Tower of Babel. This particular work was painted by Hendrick van Cleve III in the 16^th century" %}
+{% include figure.html class="img-left" src="Cleve-van_construction-tower-babel.jpg" caption="Figure 1: The Tower of Babel. This particular work was painted by Hendrick van Cleve III in the 16th century" %}
 
 The man that began to create a universal history is was [Josephus Flavius](https://en.wikipedia.org/wiki/Josephus). He was born around 37 CE in Jerusalem to a priestly family. He was a well educated Jew that became a commander in the [Great Revolt](https://www.britannica.com/event/First-Jewish-Revolt), that ultimately led to the destruction of the second Jewish temple in 70 CE. Josephus became a prisoner of Rome in 67 CE. While in prison, Josephus predicted that [Vespasian](https://en.wikipedia.org/wiki/Vespasian) would become the next Roman Emperor. Josephus' prediction was fulfilled after Emperor Nero committed suicide in 68 CE and Vespasian became emperor in 69 CE. He remained in Rome after he was released from prison, and began his work as a historian to present Judaism favorably to the non-Jewish world. 
 
