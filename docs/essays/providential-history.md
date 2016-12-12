@@ -59,6 +59,7 @@ Judeo-Christian historiography presented a *chronological, universal history wit
 
 #### Works Cited
 
+
 Butterfield, Herbert. *The Origins of History*. (London: Eyre Methuen Ltd, 1981.)
 
 Chestnut, Glenn F. “Eusebius: Fate, Fortune, Free Will, and Nature”, *The First Christian Histories*, 33-64. (Macon, Georgia: Mercer University Press, 1986.)
