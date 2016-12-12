@@ -67,3 +67,5 @@ Chestnut, Glenn F. “Eusebius: Fate, Fortune, Free Will, and Nature”, *The Fi
 Kelley, Donald R. “The Education of the Human Race”, *Faces of History* 75-98. (London & New Haven: Yale University Press, 1988.)
 
 Momigliano, Arnaldo. “Pagan and Christian Historiography in the Fourth Century A.D.” *Essays in Ancient and Modern Historiography*, 107-126. (Middletown, Connecticut: Wesleyan University Press, 1977.)
+
+Figure 1: Courtesy of [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cleve-van_construction-tower-babel.jpg)
