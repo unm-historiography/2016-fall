@@ -66,6 +66,8 @@ Butterfield, Herbert. *The Origins of History*. (London: Eyre Methuen Ltd, 1981.
 
 Chestnut, Glenn F. “Eusebius: Fate, Fortune, Free Will, and Nature”, *The First Christian Histories*, 33-64. (Macon, Georgia: Mercer University Press, 1986.)
 
+Hipponensis, Augustine, *Tractates on the Gospel of John 28-54* (c. 419); English Translation: John W Retig, "Fathers of the Church.". (Washington, DC: Catholic University of America Press, 2002).
+
 Kelley, Donald R. “The Education of the Human Race”, *Faces of History* 75-98. (London & New Haven: Yale University Press, 1988.)
 
 Momigliano, Arnaldo. “Pagan and Christian Historiography in the Fourth Century A.D.” *Essays in Ancient and Modern Historiography*, 107-126. (Middletown, Connecticut: Wesleyan University Press, 1977.)
