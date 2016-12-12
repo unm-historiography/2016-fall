@@ -59,22 +59,23 @@ Vergil’s historical works helped to develop the expanding field of cultural hi
 The way history was viewed was also impacted by the discovery of the new world.  This discovery of an entire hemisphere that had been previously unknown and its native inhabitants was disruptive to the classic approach to history.  How did this new land with its new people fit into the classic European story of [translation of empire](https://en.wikipedia.org/wiki/Translatio_imperii) and the [four monarchies](https://en.wikipedia.org/wiki/Four_kingdoms_of_Daniel).  The new world was written about within the context of Spanish Renaissance Historiography.  Historical accounts of the new world were influenced by traditions of chronicles, universal histories, and myth as well as emerging approaches such as humanism and historical criticism.  The narrative of the new world became the story of the expansion of European power and empire, with American natives represented as barbarians and Europe represented as the new Rome. 
 
 #### Works Cited
-Donald R Kelley, [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false) (London & New Haven, Yale University Press, 1988).
+Baker, Herschel, [*The Race of Time*](https://books.google.com/books?id=xDJEDAAAQBAJ&pg=PT2&dq=The+Race+of+Time+Herschel+Baker&hl=en&sa=X&ved=0ahUKEwj_ntOCltvQAhUGyrwKHd6tAm0Q6AEIGzAA#v=onepage&q&f=false) (U.S.A., University of Toronto Press, 1967).
 
-Eric Cochrane, *Historians and Historiography in the Italian Renaissance* (Chicago, University of Chicago Press, 1981).
+Cochrane, Eric, *Historians and Historiography in the Italian Renaissance* (Chicago, University of Chicago Press, 1981).
 
-Francesco Guicciardini, *Storia d'Italia* (1537-1540); English Translation: Austin Parke Goddard, “The History of Italy, from the year 1490, to 1532. Written in Italian by Francesco Guicciardini.” (London, John Towers, 1754).
+Ferguson, Wallace K, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
 
-Francesco Petrarca, *Africa* (c.1338); English translation: Thomas G Bergin & Alice S Wilson, (New Haven, Yale University Press, 1977).
+Guicciardini, Francesco, *Storia d'Italia* (1537-1540); English Translation: Austin Parke Goddard, “The History of Italy, from the year 1490, to 1532. Written in Italian by Francesco Guicciardini.” (London, John Towers, 1754).
 
-Giovanni Villani, *Nuova Cronica* (c.1348); English translation: Rose E Selfe, “Villani’s Chronicle” (London, Archibald Constable & Co, 1906).
+Kelley, Donald R, [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false) (London & New Haven, Yale University Press, 1988).
 
-Herschel Baker, [*The Race of Time*](https://books.google.com/books?id=xDJEDAAAQBAJ&pg=PT2&dq=The+Race+of+Time+Herschel+Baker&hl=en&sa=X&ved=0ahUKEwj_ntOCltvQAhUGyrwKHd6tAm0Q6AEIGzAA#v=onepage&q&f=false) (U.S.A., University of Toronto Press, 1967).
+Machiavelli, Niccoló, *Storia di Fiorentine e delle cose d'Italia* (1532); English translation: Felix Gilbert "The History of Florence and the Affairs of Italy" (New York, Harper & Row, 1966).
 
-Niccoló Machiavelli, *Storia di Fiorentine e delle cose d'Italia* (1532); English translation: Felix Gilbert "The History of Florence and the Affairs of Italy" (New York, Harper & Row, 1966).
+Petrarch, Francesco, *Africa* (c.1338); English translation: Thomas G Bergin & Alice S Wilson, (New Haven, Yale University Press, 1977).
 
-Polydore Vergil, *De rerum inventoribus* (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
+Vergil, Polydore, *De rerum inventoribus* (1581); English translation: Thomas Langley, “A Pleasant and Compendious History …” (London, Printed for John Harris, 1686).
 
-Wallace K. Ferguson, *The Renaissance in Historical Thought* (New York, Houghton Mifflin Company, 1948).
+Villani, Giovanni, *Nuova Cronica* (c.1348); English translation: Rose E Selfe, “Villani’s Chronicle” (London, Archibald Constable & Co, 1906).
+
 
 All figures via Wikimedia Commons, ([Fransesco Petrarch](https://en.wikipedia.org/wiki/Petrarch#/media/File:Francesco_Petrarca00.jpg)) ([Niccolo Machiavelli](https://commons.wikimedia.org/wiki/Niccol%C3%B2_Machiavelli#/media/File:Santi_di_Tito_-_Niccolo_Machiavelli%27s_portrait.jpg)) ([Giovanni Villani](https://commons.wikimedia.org/wiki/File:Giovanni_villani_1.JPG)).
