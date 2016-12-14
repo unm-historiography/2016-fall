@@ -1,4 +1,4 @@
-class="author">cody</
+`class="author">cody</`
 Medieval Historiography
 
 History, and the study of it, took on a different role in medieval times than it had previously.  It has been said that the Greeks were the first to develop a real concept of “history” as we know it, particularly Herodotus, who is considered by many to be the father of history.  Roman history was profoundly inward-looking, and focused almost exclusively on Rome itself and its origins, which became intermingled with its cultural creation myths.  Once the empire fell, however, the other nations of Europe, which had arisen from the so-called “barbarian” tribes that had existed on the periphery of Rome, began to write their own history.  This also coincided with the rise of Christianity, as both the history and politics of Europe became closely linked with religion and the Catholic Church.  Chronologies, recording sacred events, were a prominent form of history as well.  But the study of history itself was mainly academic, being counted among the liberal arts.  
