@@ -15,7 +15,7 @@
 
 [McKenzie M.](https://drive.google.com/file/d/0BykVmrnOookyRlQ1ZzQyVmdpVHM/view)
 
-[Tiersa Cimino](https://www.youtube.com/watch?v=Eo6nJgQWrMM)
+[Tiersa Cimino](https://www.youtube.com/watch?v=Wn_GWQujU3w) My updated video.
 
 [Jamie Fowler-Diaz](https://youtu.be/QmJdQFBw0qA)
 
