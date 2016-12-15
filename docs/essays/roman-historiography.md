@@ -8,6 +8,8 @@ date: 2016-11-08 00:00:00
 
 ## The Model for the Ages
 
+Jonathan C. Cox
+
 This is looking at the Romans and the historians that helped shaped the path for the many areas that followed. Looking at Livy, Cicero, and Tacitus and their methods and why they are important to history.
 
 ### Introduction
