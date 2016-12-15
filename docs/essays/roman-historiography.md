@@ -12,6 +12,7 @@ date: 2016-11-08 00:00:00
 
 <p class="abstract">
 This section takes a look at the Romans and the historians that helped shaped the path for the many areas that followed. Looking at Livy, Cicero, and Tacitus and their methods and why they are important to history. The Romans are important to history because they were the model for the different eras that followed them. The Roman Empire produced two of the major historians with Livy and the rise of the empire and Tacitus with the fall of the empire. Livy and his writings would become the groundwork for many historians to come. Rhetoric was very important because it was used to get the people of Rome to follow Caesar and the Senate. Roman rhetoric would become the standard for all governments throughout the course of history.
+</p>
 
 ### Before Rome
 
