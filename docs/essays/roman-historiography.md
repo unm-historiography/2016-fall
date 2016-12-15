@@ -65,4 +65,4 @@ Marsh, Frank, The Founding of The Roman Empire (Oxford University Press, Seond E
 
 Wills, Garry, Rome and Rhetoric: Shakespeare's Julius Caesar (Yale University Press, 2011).
 
-All figures via Wikipedia and Wikimedia Commons. [Livy](https://commons.wikimedia.org/wiki/File:Titus_Livius.png), [Cicero](https://commons.wikimedia.org/wiki/File:Cicero.PNG), [Tacitus](https://commons.wikimedia.org/wiki/File:Wien-_Parlament-Tacitus.jpg) [The Vatican](https://commons.wikimedia.org/wiki/File:Place-Saint-Pierre-foule.jpg).
+All figures via Wikipedia and Wikimedia Commons. [Livy](https://commons.wikimedia.org/wiki/File:Titus_Livius.png), [Cicero](https://commons.wikimedia.org/wiki/File:Cicero.PNG), [Tacitus](https://commons.wikimedia.org/wiki/File:Wien-_Parlament-Tacitus.jpg), and [The Vatican](https://commons.wikimedia.org/wiki/File:Place-Saint-Pierre-foule.jpg).
