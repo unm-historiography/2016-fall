@@ -18,7 +18,6 @@ The Greeks came before the Romans and used a different method to tell their hist
 
 {% include figure.html class="img-right" src="Titus_Livius.png" caption="Portrait of Livy (59BC-17AD) artist and date unknown"%}
 
-{% include figure.html class="img-right" src="Francesco_Petrarca00.jpg" caption="Portrait of Francesco Petrarca (1304-1374) artist and date unknown"%}
 ### Livy A Man of History
 
 Livy was the major historian for Rome born 59 BC and died 17 AD. [Livy](https://en.wikipedia.org/wiki/Livy) wrote history during the monarchy and the new republic. This was important because the history changed in front of Livy’s eyes. He watched the fall of the monarchy and the rise of the republic, and he wrote about it because it was an important event.  Livy’s method was to use his own life experiences, customs, culture, correspondences, and “military actions” (Kelly, pg.56). Livy did not have experiences in the militray and as a political figur. Kelly states that Livy "was a professional researcher and writer" (Kelly, pg. 57). In truth Livy was a true historian because he had not ties to any military or political connection. He was very focused on just the history.  Livy told his stories and wrote so well that in the Renaissance era historians look back to his work and use his methods as the reference to future work. Kelly tells us that Petrarch “bought a copy of Livy’s history,” which he referenced in his own work called “Africa” (Kelly, pg. 132).
