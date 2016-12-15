@@ -64,3 +64,5 @@ Kelley, Donald R,[*The Faces of History*](https://books.google.com/books?id=tTaI
 Marsh, Frank, The Founding of The Roman Empire (Oxford University Press, Seond Edition, 1927).
 
 Wills, Garry, Rome and Rhetoric: Shakespeare's Julius Caesar (Yale University Press, 2011).
+
+All figures via Wikipedia and Wikimedia Commons. [Livy](https://commons.wikimedia.org/wiki/File:Titus_Livius.png), [Cicero](https://commons.wikimedia.org/wiki/File:Cicero.PNG), [Tacitus](https://commons.wikimedia.org/wiki/File:Wien-_Parlament-Tacitus.jpg) [The Vatican](https://commons.wikimedia.org/wiki/File:Place-Saint-Pierre-foule.jpg).
