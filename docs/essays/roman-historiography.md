@@ -50,6 +50,8 @@ Cicero was an artist of rhetoric and gave very powerful speeches to the people. 
 
 [Tacitus](https://en.wikipedia.org/wiki/Tacitus) (56 AD- 120 AD) also wrote the history he lived. He was a politician and a military officer that wrote about what he experienced on the battlefield and in the senate. Tacitus to major works, “which covered the years of his own youth down to the death of Domitian, and the Annals, which was a richly detailed account of Roman history from A.D. 14 to 68” (Kelly, pg. 61). Tacitus followed Livy later on down the road, and wrote about the later history of Rome. He was the major historian for the decline and fall of Rome. He is one of the true writers of the fall because being in the system of politics; he saw what was wrong with the senate and the problems he saw started the decline of Rome. It could be the that Tacitus recorded the fall Rome for the reason that mistakes were made and that the future civilizations would not make the same mistakes. 
 
+{% include figure.html class="img-right" src="1024px-Place-Saint-Pierre-foule.jpg" caption="Saint Peter's Square (2005) artist and date unknown"%}
+
 ### Link to Christianity
 
 One road that led to Rome is the road to religion. The Vatican and the Pope are in Rome and have been for a long time. St. Peter’s Basilica that stands today replaced the Old St. Peters Basilica that stood in the same place and began construction in the early 14th century and finished in the early to mid 15th century. The Vatican can be said to be one of the safest places on earth because The Vatican is surrounded by the city of Rome its self. It is protected and was built that way for the reason that it is the center and the heart of Christianity.
