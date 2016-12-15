@@ -16,7 +16,7 @@ This section takes a look at the Romans and the historians that helped shaped th
 
 The Greeks came before the Romans and used a different method to tell their history. The method was to pass down to each generation to keep the history alive by telling stories and writing poems about important events. Herodotus, one of the fathers of history who was also known as the “gift of Hera” (Kelly, pg. 19) was a Greek historian. Herodotus was a major traveler, which performed interviews with people about events, and then turns those into poems and mighty stories to tell. An example of this would be when Herodotus talked about the Peloponnesian wars. The key difference from Greek and Roman historians is that the Greeks took the individual stories and events to make them their own, and the Romans wrote their lives and used individual stories to tell about events. This leads to Livy and how he wrote about Roman history.
 
-{% include figure.html class="img-right" src="Titus_Livius.png" caption="Portrait of Livy (59BC-17AD) artist and date unknown %}
+{% include figure.html class="img-right" src="Titus_Livius.png" caption="Portrait of Livy (59BC-17AD) artist and date unknown"%}
 
 ### Livy A Man of History
 
