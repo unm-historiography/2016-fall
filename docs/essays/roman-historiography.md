@@ -54,7 +54,9 @@ Cicero was an artist of rhetoric and gave very powerful speeches to the people. 
 
 ### Link to Christianity
 
-One road that led to Rome is the road to religion. The Vatican and the Pope are in Rome and have been for a long time. St. Peter’s Basilica that stands today replaced the Old St. Peters Basilica that stood in the same place and began construction in the early 14th century and finished in the early to mid 15th century. The Vatican can be said to be one of the safest places on earth because The Vatican is surrounded by the city of Rome its self. It is protected and was built that way for the reason that it is the center and the heart of Christianity.
+One road that led to Rome is the road to religion. The Vatican and the Pope are in Rome and have been for a long time. St. Peter’s Basilica that stands today replaced the Old St. Peters Basilica that stood in the same place and began construction in the early 14th century and finished in the early to mid 15th century. The Vatican can be said to be one of the safest places on earth because The Vatican is surrounded by the city of Rome its self. It is protected and was built that way for the reason that it is the center and the heart of Christianity and Rome.
 
+
+#### Work Cited
 
 
