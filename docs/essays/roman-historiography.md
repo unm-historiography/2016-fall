@@ -61,7 +61,7 @@ One road that led to Rome is the road to religion. The Vatican and the Pope are 
 
 Kelley, Donald R., [*The Faces of History*](https://books.google.com/books?id=tTaIEuECkNkC&printsec=frontcover&dq=The+Faces+of+History&hl=en&sa=X&ved=0ahUKEwjNwP2wltvQAhUU-2MKHT-7Do8Q6AEIHTAA#v=onepage&q&f=false), pg. 19-132 (London & New Haven, Yale University Press, 1988).
 
-Marsh, Frank., *The Founding of The Roman Empire*, pg. 25 (Oxford University Press, Seond Edition, 1927).
+Marsh, Frank B., *The Founding of The Roman Empire*, pg. 25 (Oxford University Press, Seond Edition, 1927).
 
 Wills, Garry., *Rome and Rhetoric: Shakespeare's Julius Caesar*, pg. 71 (Yale University Press, 2011).
 
