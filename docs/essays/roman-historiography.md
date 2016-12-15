@@ -59,4 +59,4 @@ One road that led to Rome is the road to religion. The Vatican and the Pope are 
 
 #### Work Cited
 
-
+Kelley, Donald R, The Faces of History (London & New Haven, Yale University Press, 1988).
