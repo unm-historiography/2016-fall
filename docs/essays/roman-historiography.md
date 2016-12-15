@@ -34,7 +34,7 @@ Rhetoric is definded by [Quintilian](https://en.wikipedia.org/wiki/Quintilian) a
 
 It can be said that Roman rhetoric had a major influence on the Renaissance area after the fall of Rome. This was due to the writings of the Roman historians and the ability of public speaking. William Shakespeare, one of the most profound English writers during the Renaissance era, wrote plays that had Caesar in them. Garry Wills' book, Rome and Rhetoric: Shakespeare’s Julius Caesar, states that “Caesar was a commanding figure in the Renaissance imagination” (Wills, pg. 25). The Renaissance held Caesar to very high standards because many of the Caesars showed great poise and leadership. The purpose in the play was to show Caesar as the God-like figure he was and whom leaders of the Renaissance emmulated.
 
-{% include figure.html class="img-right" src="Cicero.png" caption="Bust of Cicro (106BC-43BC)  Denkmäler des klassischen Altertums. 1885%}
+{% include figure.html class="img-right" src="Cicero.png" caption="Bust of Cicro (106BC-43BC) Denkmäler des klassischen Altertums.1885"%}
 
 ### Cicero A Master of Rhetoric 
  
