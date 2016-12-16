@@ -45,7 +45,7 @@ Another of these politically and militarily focused historians was Francesco Gui
 
 > Ferdinando of Aragon, King of Naples, was of the same disposition: a very sagacious prince and highly esteem’d; tho’ formerly he had discovered an ambitious and turbulent Spirit.  He was instigated, at this very Time by Alfonso, Duke of Calabria, his eldest son, to resent the Injury done to Giovanni Galeazzo Sorza, Duke of Milan, who had married Alfonso’s Daughter. (Guicciardini 5).  
 
-Guicciardini paid close attention to these individuals as he created his narrative; going into detail about their disposition, family and political ties, and motives.  This inclusion of the study of the individual set Guicciardini apart from Machiavelli and other historians of the time.  He explained history not by sweeping and inclusive theory, but by understanding things on the individual level.  In this way, Guicciardini wrote with much the same approach that [Thucydides](https://unm-historiography.github.io/491-fall2016/essays/greek-historiography.html) did.
+Guicciardini paid close attention to these individuals as he created his narrative, going into detail about their disposition, family and political ties, and motives.  This inclusion of the study of the individual set Guicciardini apart from Machiavelli and other historians of the time.  He explained history not by sweeping and inclusive theory, but by understanding things on the individual level.  In this way, Guicciardini wrote with much the same approach that [Thucydides](https://unm-historiography.github.io/491-fall2016/essays/greek-historiography.html) did.
  
 
 ### Cultural History
