@@ -8,11 +8,13 @@ date: 2016-11-19 00:00:00
 
 ## Defining Truth: From Antiquity to the Enlightenment
 
+
 From the scrolls of ancient Greece to the jargon packed books of the modern academic historian, historians have searched for “true histories”. In studying what constitutes history, we must focus on some themes that belong to what we call today historiography. Historiography focuses on these themes that form this modern academic discipline: **Source criticism**, **fact vs. truth**, **impartiality**, **scholarship**, **critical understanding**, and **secularism**. From ancient times to the modern day, what constitutes the “truth” has changed significantly, and historians have been critical to that change. 
 
 ### Classical Foundations: Rome and Greece 
 
 #### The Greeks:Truth & Impartiality
+
 
 The ancient Greeks are seen as the fathers of history by most historians, and two Greeks in particular stand out: Herodotus, and Thucydides, who laid the foundations of history for us. These two men began to look at sources in a more critical way, and differentiated between what we would call primary and secondary sources. For Herodotus, the father of history, “history depended on the one of two criteria, that is to be based on testimony that was either eyewitness (opsis) or hearsay (akoe)” (Kelly, 21). Thucydides didn’t concern himself with hearsay (secondary source), and was our founder of a more political history, which would become a key part of historiography later. (Kelly, 29) Thucydides relied on telling the story of states in conflict, and was more **critical** in his telling of history than Herodotus. Also during this period, western civilization still relied on the myth-histories of Homer and other Greek poets to lay the foundations of creation in the eyes of the Greeks. So, ironically the Greeks were both critical of the events of the past, and yet relied on the myths of their ancestors to begin their stories of history. [How is that ironic? Assumed truth value to myth stories]
 
