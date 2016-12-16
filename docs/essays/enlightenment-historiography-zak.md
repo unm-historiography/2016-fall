@@ -34,6 +34,8 @@ There are some important concepts to understand when examining enlightenment tho
 
 ### Access
 
+{% include figure.html class="Vico-223x300.jpg" src="Historiography.png" %}
+
 
 The [Republic of Letters](http://www.republicofletters.net/) represents a significant shift in the access to academic discourse. The Republic of Letters was an international system of scholarship and criticism that spread the new ides through society. Scholars and philosophers sent letters, papers, and pamphlets to each other for discourse and debate on the important topics of the day. This enabled more access to the new ideas and debates of this time. Scholars could share ideas that were not easily shared in early time periods because of linguistic and geographic constraints. During the Enlightenment advances in the technologies of making books made books more accessible. The proliferation of the written word demanded categorization and organization. Samuel Johnson published his dictionary in 1755. [The Johnson Dictionary](http://johnsonsdictionaryonline.com/) became the preeminent dictionary of the next two hundred years.
 
