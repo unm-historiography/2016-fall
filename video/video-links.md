@@ -7,7 +7,7 @@
 
 [Zakery R Munoz](https://www.youtube.com/watch?v=GbxioFx86-I&feature=youtu.be) 
 
-[Madi Whitacre](https://youtu.be/aj5frL3bsGI)
+[Madi Whitacre](https://www.youtube.com/watch?v=rM22O7VeWpQ&feature=youtu.be)
 
 [Jonathan Cox](https://www.youtube.com/watch?v=RnmKVdmaIY4)
 
