@@ -25,7 +25,7 @@
 
 [Rob Collins](https://youtu.be/km4wSNTb990) Rough draft
 
-[Sarah Sykes](https://youtu.be/i9X8xntyMoM) 
+[Sarah Sykes](https://youtu.be/I2s1JgqjGsI) - FINAL DRAFT
 
 [David Morin](https://youtu.be/lrLRH1FZu9A)
 
