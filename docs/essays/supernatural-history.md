@@ -30,3 +30,6 @@ The Church Fathers can be considered historians in their own right. While they m
 #### The Medieval Church  
 One of the later examples of myth in the church can be found in the wide spread creation of Saints3. By Recording and venerating the live of holy men, the church was informing who would be remembered in history.  When we turn out gaze to Eastern Europe we find another source of the melding of myth and history. If you take a look at the primary chronicle that originates out of Russia, the author includes the ancestry of the Slavic people as far back as to say they were descended from one of the sons of Noah after the flood. This myth blends into a history as the chronicler begins to describe the princedoms of the Rus. The purpose of such a document may have been to support a present (to the author) royal line or simply to unite Slavs under a common history. 
  
+Works Cited
+
+Images Courtesy of Wikipedia Commons.
