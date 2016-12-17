@@ -8,11 +8,11 @@ date: 2016-11-19 00:00:00
 
 ## Defining Truth: From Antiquity to the Enlightenment
 
-<p class="author">Kyle Chicharello </p>
+<p class="author">Kyle Chicharello</p>
 
 <p class="abstract">
 From the scrolls of ancient Greece to the jargon packed books of the modern academic historian, historians have searched for “true histories”. In studying what constitutes history, we must focus on some themes that belong to what we call today historiography. Historiography focuses on themes that form this modern academic discipline: **Source criticism**, **fact vs. truth**, **impartiality**, **scholarship**, **critical understanding**, and **secularism**. From ancient times to the modern day, what constitutes the “truth” has changed significantly, and historians have been critical to that change.
- </p>
+</p>
 
 ### Classical Foundations: Rome and Greece 
 
@@ -72,7 +72,7 @@ The Italian city-states during the Renaissance were not only pioneers of art and
 
 #### The Reformation
 
-
+During the reformation movement, a battle occurred between protestant and catholic historiographers. The main point of conflict was which of the two branches of christianity were more "traditional", by having closer roots to the first christians. The role of **tradition** was of paramount importance to both sides of the Christian reform movement, and history allowed for each side to attempt to legitimize their argument. (Kelly, 172) For the Catholic historiographer, [Casare Baronio](http://catholicsaints.info/catholic-encyclopedia-venerable-cesare-baronius/), his chosen form was annals, because it allowed for a writing that was within the rigid requirements demanded by truth. However, the arguments presented by Baronio were quickly assailed by reformist historiographers, and the debate continued into the next few centuries. (Kelly, 173) 
 
 ### Secularism: The Enlightenment
 
@@ -93,8 +93,3 @@ Murray G. Murphy, [*Truth and History*](https://books.google.com/books?id=Yf8knB
 Oscar Handlin, [*Truth in History*](https://books.google.com/books?id=Kv84RCD-aboC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false Cambridge, MA: Belknap of Harvard UP, 1981.) Cambridge, MA: Belknap of Harvard UP, 1981.
 
 Henri Marrou, [*The Meaning of History*](https://books.google.com/books/about/The_Meaning_of_History.html?id=UZZmAAAAMAAJ) Baltimore, MD: Helicon Press, 1966.
-
-
-[You utilize an inordinate amount of quotes when summerizing some of these may suffice. While quotes are more "truthful", it inflates word count and hurts readability. I tried to fix grammatical errors and questionable word decisions, as I saw them; feel free to disagree if something is less clear. Additionally, you need to finish the essay, and I see *zero* reference to outside sources from Kelly.
-
-With the finalization of the essay, you could chart a more complete "progression", telling a narrative instead of simple chronicle. The final essence of the "Modern Historiography" section could end with talk of how narratives, known to be false, are emphasized by close-to-modern historiographers, and thus universal histories might become more popular-an easy tie in to my essay.]
