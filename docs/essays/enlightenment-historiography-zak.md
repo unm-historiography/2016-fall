@@ -93,7 +93,7 @@ The Enlightenment historians have a huge advantage over those that came before t
 
 ### Historical Theatre
 
-{% include figure.html class="img-right" src="Herder.jpg" Caption= Johann Gottfried Herder, Google Commons, " %}
+{% include figure.html class="img-right" src="Herder.jpg" Caption="Johann Gottfried Herder" %}
 Johann Herder was a German historian – really a German man of all trades. He was a philopher, a poet, a critic, a historian, and so on. But it’s really hard to separate the historians from the thinkers and others during the Enlightenment - for they were all doing a lot of the same stuff. The thinkers of the Enlightenment speculated rationality and meaning. They were fortunate enough to have all previous histories at their disposal - to use and make sense of. In a way it was the study of the human race. Herder was born in Mohrungen, and lived a poor life. Having mostly educated himself, eventually he attended a university and was lucky enough to be a student of Kant. Herder was highly invested in nature, and he was extremely curious about how man interacted and lived with nature. And this combination was true for most of his works. He saw the harmonizing of things of philosophy and history and so on. 
 
 <p class="has-pullquote" data-pullquote="The history of mankind is confined within a limited period, and from every quarter brings an intimation that human affairs have had a beginning."></p>
