@@ -14,7 +14,7 @@ Myth is defined by having components of the supernatural world. From this jumpin
 
 ### Biblical Historiography
 The Bible itself is a History woven tightly with myth. The authors of the biblical texts wrote the history of Israel and the Early Church with the assumption that God was real and that he was working closely in the lives of his people. According to Peter Beitenholz1, the biblical authors were also fueled heavily by apocalypticism. This influence caused them to write biblical history in order to highlight the events that tied in with their end time views. Both the Jews and Early Christians had the end in mind often believing it to be in the near future. This was often due to the suffering of the Jewish people and the desire to believe that the present day was the night before the day.  
-{% include figure.html class="img-right" src="moses-icon.jpg" caption="Russian Orthydox Painting of Moses and the Burning Bush 18th Century"%}
+{% include figure.html class="img-right" src="Moses-icon.jpg" caption="Russian Orthydox Painting of Moses and the Burning Bush 18th Century"%}
 
 #### The Old Testament
 The Old Testament records the many nations that ruled over Judah. Historically it gives us information such as who was ruling and which of the ruling powers were lenient towards Jewish practice and religion. It is also rich with the religious myths of the day. The authors inform us that each exile and conquest is a punishment for a nation who has strayed from the true god. Examples of this can be found in the following biblical texts: Daniel, Ezra, 2 Chronicles. 
