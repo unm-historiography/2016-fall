@@ -6,7 +6,7 @@ date: 2016-11-08 00:00:00
 
 # Myth and History
 
-## How History Emerged From Myth
+## How History Emerged from Myth
 
 <p class="author">Sarah Sykes</p>
 
