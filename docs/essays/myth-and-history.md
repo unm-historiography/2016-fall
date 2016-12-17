@@ -79,6 +79,6 @@ Manetho. 1940. _Manetho_. Translated by W.G. Waddell. Harvard University Press.
 
 #### Images
 
-[Figure 1](http://www.history.com/topics/ancient-history/ancient-egypt/pictures/egyptian-relief-sculpture-and-paintings/wall-painting-of-tutankhamun-accompanied-by-anubis-and-nephthys-2), courtesy of [History.com.](http://www.history.com)
+[Figure 1](http://www.history.com/topics/ancient-history/ancient-egypt/pictures/egyptian-relief-sculpture-and-paintings/wall-painting-of-tutankhamun-accompanied-by-anubis-and-nephthys-2), courtesy of [History.com](http://www.history.com).
 
-[Figure 2](https://commons.wikimedia.org/wiki/Category:Polyphemus#/media/File:Cyclops_and_Odysseus_vase_painting.svg), courtesy of [Wikipedia Commons.](https://commons.wikimedia.org/wiki/Main_Page)
+[Figure 2](https://commons.wikimedia.org/wiki/Category:Polyphemus#/media/File:Cyclops_and_Odysseus_vase_painting.svg), courtesy of [Wikipedia Commons](https://commons.wikimedia.org/wiki/Main_Page).
