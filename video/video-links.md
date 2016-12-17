@@ -19,7 +19,7 @@
 
 [Jamie Fowler-Diaz](https://youtu.be/RrK5B9idN7g) Final video
 
-[Alison Atencio](http://youtu.be/YV6ZxDvZ3s4?hd=1) Rough Draft
+[Alison Atencio](http://youtu.be/xjF6RICfN-Q?hd=1) 
 
 [Mara Anderson](https://www.youtube.com/watch?v=8sBvRNjW8hc) 
 
