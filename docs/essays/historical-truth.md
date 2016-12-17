@@ -8,6 +8,8 @@ date: 2016-11-19 00:00:00
 
 ## Defining Truth: From Antiquity to the Enlightenment
 
+<p class="author">Kyle Chicharello</p>
+
 <p class="abstract">From the scrolls of ancient Greece to the jargon packed books of the modern academic historian, historians have searched for “true histories”. In studying what constitutes history, we must focus on some themes that belong to what we call today historiography. Historiography focuses on themes that form this modern academic discipline: **Source criticism**, **fact vs. truth**, **impartiality**, **scholarship**, **critical understanding**, and **secularism**. From ancient times to the modern day, what constitutes the “truth” has changed significantly, and historians have been critical to that change.</p>
 
 ### Classical Foundations: Rome and Greece 
