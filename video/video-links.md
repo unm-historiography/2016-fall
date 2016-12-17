@@ -17,7 +17,7 @@
 
 [Tiersa Cimino](https://www.youtube.com/watch?v=Wn_GWQujU3w) My updated video.
 
-[Jamie Fowler-Diaz](https://youtu.be/QmJdQFBw0qA)
+[Jamie Fowler-Diaz](https://youtu.be/RrK5B9idN7g)
 
 [Alison Atencio](http://youtu.be/YV6ZxDvZ3s4?hd=1) Rough Draft
 
