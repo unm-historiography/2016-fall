@@ -107,17 +107,24 @@ The Enlightenment ends with Ranke. [Leopold Ranke](http://www.umass.edu/wsp/hist
 ### ____________________________________<a name="bottom"></a>
 <Sup>1</Sup> Donald R. Kelley, _[Faces of History: from Herodotus to Herder](http://www.jstor.org.libproxy.unm.edu/stable/j.ctt32bs9h)_ (Yale, 1998), 224.
 
+
 <Sup>2</Sup> Antonio Perez-Ramos, _[Francis Bacon's Idea of Science and the Maker's Knowledge Tradition](http://www.worldcat.org/title/francis-bacons-idea-of-science-and-the-makers-knowledge-tradition/oclc/610269096)_ (Oxford, 1988).
+
 
 <Sup>3</Sup> Donald R. Kelley, _[Faces of History](http://www.jstor.org.libproxy.unm.edu/stable/j.ctt32bs9h)_, 223.
 
+
 <sup>4</sup> Edward Gibbon, _[The History of the Decline and Fall of the Roman Empire](https://www.gutenberg.org/files/731/731-h/731-h.htm#link2HCH0001)_ (New York, 1836), 1.
+
 
 <sup>5</sup> Adam Ferguson, _[An Essay on the History of Civil Society](http://oll.libertyfund.org/titles/1428#Ferguson_1229_8)_ 5th ed. (London: T. Cadell, 1782).
 
+
 <sup>6</sup> [Ibid.](http://oll.libertyfund.org/titles/1428#lf1229_label_073)
 
+
 <sup>7</sup> Johann Gottfried Herder, _[Outlines of a Philosophy of the History of Man](https://archive.org/details/outlinesaphilos00churgoog)_ (New York, 1800), 235.
+
 
 Bentley, Michael. Modern Historiography: An Introduction. New York: Routledge, 1999. 
 
