@@ -9,7 +9,7 @@
 
 [Madi Whitacre](https://www.youtube.com/watch?v=rM22O7VeWpQ&feature=youtu.be)
 
-[Jonathan Cox](https://www.youtube.com/watch?v=RnmKVdmaIY4)
+[Jonathan Cox](https://www.youtube.com/watch?v=BHEZ_Yn1oR4) The Final
 
 [Kyle Chicharello] (https://www.youtube.com/watch?v=5N6NXUH8rGw)
 
