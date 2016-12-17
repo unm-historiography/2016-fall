@@ -9,7 +9,7 @@
 
 [Madi Whitacre](https://www.youtube.com/watch?v=rM22O7VeWpQ&feature=youtu.be)
 
-[Jonathan Cox](https://www.youtube.com/watch?v=BHEZ_Yn1oR4) The Final
+[Jonathan Cox](https://www.youtube.com/watch?v=EERxPWJjoWU) The Final
 
 [Kyle Chicharello] (https://www.youtube.com/watch?v=5N6NXUH8rGw)
 
@@ -19,7 +19,7 @@
 
 [Jamie Fowler-Diaz](https://youtu.be/RrK5B9idN7g) Final video
 
-[Alison Atencio](http://youtu.be/xjF6RICfN-Q?hd=1) 
+[Alison Atencio](http://youtu.be/YV6ZxDvZ3s4?hd=1) Rough Draft
 
 [Mara Anderson](https://www.youtube.com/watch?v=8sBvRNjW8hc) 
 
