@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Myth and History
+title: Reforming History
 date: 2016-11-08 00:00:00
 ---
 
