@@ -19,7 +19,7 @@ The Bible itself is a History woven tightly with myth. The authors of the biblic
 #### The Old Testament
 The Old Testament records the many nations that ruled over Judah. Historically it gives us information such as who was ruling and which of the ruling powers were lenient towards Jewish practice and religion. It is also rich with the religious myths of the day. The authors inform us that each exile and conquest is a punishment for a nation who has strayed from the true god. Examples of this can be found in the following biblical texts: Daniel, Ezra, 2 Chronicles. 
 
-Biblical texts do have debated dates as far as when they were written versus when they claim to be written. Many of these debates relate to the question of the prophets and claims that the prophetic insight provided in such books were really history in disguise. The purpose for something like this would likely be to provide a certain level of credibility to a writers claims regarding other issues2 
+Biblical texts do have debated dates as far as when they were written versus when they claim to be written. Many of these debates relate to the question of the prophets and claims that the prophetic insight provided in such books were really history in disguise. The purpose for something like this would likely be to provide a certain level of credibility to a writers claims regarding other issues (Gorton, 2016). 
 
 #### New Testament 
 Remaining with biblical texts we can see how the histories were written to demonstrate the deity of Jesus of Nazareth as the Son of God. Stories such as Jesus turning water into wine and healing the sick that are found in New Testament writings use mythical occurrences in order to persuade the audience for which it was written that Jesus was indeed the Messiah. The Gospels all claim to be factual and true histories. These claims combined with the content were intended to convince a populous that very much believed in the supernatural that Jesus was not just a Rabbi with radical view.  
@@ -28,8 +28,14 @@ The Church Fathers can be considered historians in their own right. While they m
 
 
 #### The Medieval Church  
-One of the later examples of myth in the church can be found in the wide spread creation of Saints3. By Recording and venerating the live of holy men, the church was informing who would be remembered in history.  When we turn out gaze to Eastern Europe we find another source of the melding of myth and history. If you take a look at the primary chronicle that originates out of Russia, the author includes the ancestry of the Slavic people as far back as to say they were descended from one of the sons of Noah after the flood. This myth blends into a history as the chronicler begins to describe the princedoms of the Rus. The purpose of such a document may have been to support a present (to the author) royal line or simply to unite Slavs under a common history. 
+One of the later examples of myth in the church can be found in the wide spread creation of Saints(Mortensen). By Recording and venerating the live of holy men, the church was informing who would be remembered in history.  When we turn out gaze to Eastern Europe we find another source of the melding of myth and history. If you take a look at [the primary chronicle](http://www.mgh-bibliothek.de/dokumente/a/a011458.pdf) that originates out of Russia, the author includes the ancestry of the Slavic people as far back as to say they were descended from one of the sons of Noah after the flood. This myth blends into a history as the chronicler begins to describe the princedoms of the Rus. The purpose of such a document may have been to support a present (to the author) royal line or simply to unite Slavs under a common history. 
  
-Works Cited
+### Works Cited
+
+Bietenholz, Peter G. 1994. Historia and Fabula : Myths and Legends in Historical Thought from Antiquity to the Modern Age. Brill's studies in intellectual history, v. 59; Brill's studies in intellectual history, v. 59. Leiden: Brill
+
+Gorton, Dr. Luke. 2016. "Lecture." Apocalypse in the Ancient World. Albuqueruqe, NM.
+
+Mortensen, Lars Boje. 2006. The Making of Christian Myths in the Periphery of Latin Christendom (c. 1000-1300). Copenhagen Denmark: Museum Tusculanum Press, University of Copenhagen. 
 
 Images Courtesy of Wikipedia Commons.
