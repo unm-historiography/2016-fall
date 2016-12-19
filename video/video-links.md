@@ -13,7 +13,7 @@
 
 [Kyle Chicharello] (https://www.youtube.com/watch?v=5N6NXUH8rGw)
 
-[McKenzie M.](https://drive.google.com/file/d/0BykVmrnOookyRlQ1ZzQyVmdpVHM/view)
+[McKenzie M.] (https://www.youtube.com/watch?v=YkB7ZnsARgc)
 
 [Tiersa Cimino](https://www.youtube.com/watch?v=Wn_GWQujU3w) My updated video.
 
